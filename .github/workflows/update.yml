@@ -1,0 +1,44 @@
+name: Scheduled Trigger
+
+on: 
+  #push:
+  #  branches:
+  #    - master
+  #  paths:
+  #    - 'Data/**.json'
+  #    - 'Datas.json'
+  #    - 'Datas_filter.json'
+  schedule:
+    - cron: '0 20 * * *' # every day at 20.00 UTC   
+  
+  # This command allows us to run the Action automatically from the Actions tab.
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [18.x]
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ matrix.node-version }}
+    
+    - name: NPM Install
+      run: npm install
+    
+    - name: Run Code
+      run: npm run start
+    
+    - name: Deploy
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+        commit_message: "Update Data"
+        file_pattern: "*.MD *.json"
