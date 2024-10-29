@@ -39,17 +39,9 @@ async function appendToFile(filePath, content) {
 let count = 0;
 let companies = [];
 
-// Function to format rows for MD file
-const rowFormatter = (row) => {
-  if (row.length === 3) {
-    count++;
-    totalCount++;
-    return `| ${row.join(" | ")} |\n`;
-  } else if (row.length === 2) {
-    totalCount++;
-    return `| ${row[0]} |  | ${row[1]} |\n`;
-  }
-  return "";
+String.prototype.replaceAll = function (search, replacement) {
+  var target = this;
+  return target.split(search).join(replacement);
 };
 
 // Base URL: https://www.btk.gov.tr/web-api/contentprovider/company?lang=tr&page=1
@@ -63,6 +55,9 @@ async function fetchCompanies(page = 1) {
         "accept-encoding": "gzip, deflate, br",
         "accept-language": "tr,en-US;q=0.9",
         "cache-control": "no-cache",
+        "Referer": "https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi?page=1",
+        "Origin": "https://www.btk.gov.tr",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
         pragma: "no-cache",
       },
       ...allowLegacyRenegotiation,
@@ -73,7 +68,7 @@ async function fetchCompanies(page = 1) {
   return response.data.data;
 }
 
-async function fetchAllCompanies() {
+const fetchAllCompanies = async () => {
   let page = 1;
   let response = await fetchCompanies(page);
   companies = [...companies, ...response];
@@ -82,13 +77,67 @@ async function fetchAllCompanies() {
     response = await fetchCompanies(page);
     companies = [...companies, ...response];
   }
+  writeFile("raw_companies.json", JSON.stringify(companies, null, 2));
+  companies = companies.map((item) => {
+    (item.address.includes('|')) ? item.address = item.address.replace('|', ' ') : item.address = item.address;
+    (item.web.split('&')) ? item.web = item.web.split('&').join(' ') : item.web = item.web;
+    (item.web.split(';')) ? item.web = item.web.split(';').join(' ') : item.web = item.web;
+    (item.web.split(',')) ? item.web = item.web.split(',').join(' ') : item.web = item.web;
+    item.company = item.company.replaceAll('  ', ' ').trim();
+    item.address = item.address.replaceAll('  ', ' ').replaceAll(';','').replaceAll(/[\t\n\r]/g, ' ').trim();
+    item.type = item.type.replaceAll('  ', ' ').trim();
+    item.phone = item.phone.replaceAll('  ', ' ').trim();
+    item.fax = item.fax.replaceAll('  ', ' ').trim();
+    item.web = item.web.replaceAll('‏', '').replaceAll('  ', ' ').trim();
+    item.approve_date = item.approve_date.trim();
+    
+    if(item.phone === '' || item.phone === '-' || item.phone.includes('---')){
+      item.phone = null;
+    }
+
+    if(item.fax === '' || item.fax === '-' || item.fax.includes('---')){
+      item.fax = null;
+    }
+
+    if(item.web === ''){
+      item.web = null;
+    }
+
+    if(item.phone !== null && (item.phone.startsWith('877'))) {
+      item.phone = item.phone;
+    }else{
+      if(item.phone !== null && (!item.phone.startsWith('+90') && !item.phone.startsWith('90'))) {
+        item.phone = `+90${item.phone}`;
+        item.phone = item.phone.replace('+900', '+90');
+      }
+    }
+    
+    if(item.fax !== null && item.fax.startsWith('877')) {
+      item.fax = item.fax;
+    }else{
+      if(item.fax !== null && (!item.fax.startsWith('+90'))) {
+        item.fax = `+90${item.fax}`;
+        item.fax = item.fax.replace('+900', '+90');
+      }
+    }
+
+
+    return item;
+  });
+
   return companies;
 }
 
-// Sort by ID
-companies = companies.sort((a, b) => (a.id > b.id ? 1 : -1));
+companies.sort((a, b) => {
+  return new Date(a.id) - new Date(b.id);
+});
 
-fetchAllCompanies().then(async (companies) => {
+
+(async () => {
+  await new Promise((resolve) => setTimeout(resolve, 1000));
+})();
+
+fetchAllCompanies().then(async (data) => {
   console.log("Companies fetched successfully.");
   console.log("Total companies:", companies.length);
   console.log("Total count:", count);
@@ -121,11 +170,6 @@ fetchAllCompanies().then(async (companies) => {
   */
   let writeCache = ``;
   companies.forEach((company) => {
-    (company.address.includes('|')) ? company.address = company.address.replace('|', ' ') : company.address = company.address;
-    (company.web.split('&')) ? company.web = company.web.split('&').join(' ') : company.web = company.web;
-    (company.web.split(';')) ? company.web = company.web.split(';').join(' ') : company.web = company.web;
-    (company.web.split(',')) ? company.web = company.web.split(',').join(' ') : company.web = company.web;
-
     writeCache += `| ${company.id} | ${company.company} | ${company.type} | ${company.address} | ${company.phone} | ${company.web} | ${company.approve_date} |\n`;
   });
   await appendToFile(mdPath, writeCache);
