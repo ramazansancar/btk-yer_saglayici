@@ -46,26 +46,38 @@ String.prototype.replaceAll = function (search, replacement) {
 
 // Base URL: https://www.btk.gov.tr/web-api/contentprovider/company?lang=tr&page=1
 
-async function fetchCompanies(page = 1) {
-  const response = await axios.get(
-    `https://www.btk.gov.tr/web-api/contentprovider/company?lang=tr&page=${page}`,
-    {
-      headers: {
-        Accept: "application/json, text/plain, */*",
-        "accept-encoding": "gzip, deflate, br",
-        "accept-language": "tr,en-US;q=0.9",
-        "cache-control": "no-cache",
-        "Referer": "https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi?page=1",
-        "Origin": "https://www.btk.gov.tr",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
-        pragma: "no-cache",
-      },
-      ...allowLegacyRenegotiation,
-    }
-  );
-  count = response.data.stats.total;
-  console.info(`Fetched ${response.data.data.length} companies from page ${page}. Total count: ${count}`);
-  return response.data.data;
+const fetchCompanies = async (page) => {
+  try {
+    return await axios.get(
+      `https://www.btk.gov.tr/web-api/contentprovider/company?lang=tr&page=${page}`,
+      {
+        
+        headers: {
+          Accept: "application/json, text/plain, */*",
+          "accept-encoding": "gzip, deflate, br",
+          "accept-language": "tr,en-US;q=0.9",
+          "cache-control": "no-cache",
+          "Referer": "https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi?page=1",
+          "Origin": "https://www.btk.gov.tr",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+          pragma: "no-cache",
+        },
+        ...allowLegacyRenegotiation,
+      }
+    )
+    .then((resp) => {
+      let response = resp.data;
+      count = response.stats.total;
+      console.info(`Fetched ${response.data.length} companies from page ${page}. Total count: ${count}`);
+      return response.data;
+    })
+    .catch((err) => {
+      console.error(err);
+    });
+  } catch (error) {
+    console.error("Error fetching companies:", error);
+  }
+  
 }
 
 const fetchAllCompanies = async () => {
