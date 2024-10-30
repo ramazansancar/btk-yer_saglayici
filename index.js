@@ -93,6 +93,7 @@ const fetchCompanies = async (page) => {
 const fetchAllCompanies = async () => {
   let page = 1;
   let response = await fetchCompanies(page);
+  if(response === undefined) response = await fetchCompanies(page);
   companies = [...companies, ...response];
   while (response.length > 0) {
     page++;
