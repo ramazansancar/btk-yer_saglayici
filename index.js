@@ -89,7 +89,8 @@ const fetchAllCompanies = async () => {
     item.phone = item.phone.replaceAll('  ', ' ').trim();
     item.fax = item.fax.replaceAll('  ', ' ').trim();
     item.web = item.web.replaceAll('‏', '').replaceAll('  ', ' ').trim();
-    item.approve_date = item.approve_date.trim();
+    // 2024-07-24 09:38:25+03 -> 2024-07-24T09:38:25.000Z
+    item.approve_date = item.approve_date.replaceAll(' ', 'T').replaceAll('+03', '.000Z').trim();
     
     if(item.phone === '' || item.phone === '-' || item.phone.includes('---')){
       item.phone = null;
@@ -125,17 +126,13 @@ const fetchAllCompanies = async () => {
     return item;
   });
 
+  companies.sort((a, b) => {
+    return new Date(a.approve_date) - new Date(b.approve_date);
+  });
+  await new Promise((resolve) => setTimeout(resolve, 2500));
+
   return companies;
 }
-
-companies.sort((a, b) => {
-  return new Date(a.id) - new Date(b.id);
-});
-
-
-(async () => {
-  await new Promise((resolve) => setTimeout(resolve, 1000));
-})();
 
 fetchAllCompanies().then(async (data) => {
   console.log("Companies fetched successfully.");
