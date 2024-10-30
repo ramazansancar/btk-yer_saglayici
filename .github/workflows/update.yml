@@ -34,7 +34,9 @@ jobs:
       run: npm install
     
     - name: Run Code
-      run: npm run start
+      run: |
+        npm run start
+        npm run start
     
     - name: Deploy
       uses: stefanzweifel/git-auto-commit-action@v5
