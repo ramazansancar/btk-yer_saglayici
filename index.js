@@ -83,11 +83,12 @@ const fetchCompanies = async (page) => {
     })
     .catch((err) => {
       console.error(err.response.status,err.message, err.response.data, err);
+      return;
     });
   } catch (error) {
     console.error("Error fetching companies:", err.response.status,err.message, err.response.data, err);
+    return;
   }
-  
 }
 
 const fetchAllCompanies = async () => {
