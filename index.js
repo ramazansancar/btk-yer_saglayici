@@ -51,15 +51,25 @@ const fetchCompanies = async (page) => {
     return await axios.get(
       `https://www.btk.gov.tr/web-api/contentprovider/company?lang=tr&page=${page}`,
       {
-        
         headers: {
-          Accept: "application/json, text/plain, */*",
-          "accept-encoding": "gzip, deflate, br",
-          "accept-language": "tr,en-US;q=0.9",
-          "cache-control": "no-cache",
-          "Referer": "https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi?page=1",
+          "Accept": "application/json, text/plain, text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+          "Accept-Encoding": "gzip, deflate, br, zstd",
+          "Accept-Language": "tr,en-US;q=0.9,en;q=0.8,tr-TR;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5,zh;q=0.4,ja;q=0.3,ko;q=0.2,bg;q=0.1",
+          "Cache-Control": "no-cache",
+          "Connection": "keep-alive",
+          "Host": "www.btk.gov.tr",
           "Origin": "https://www.btk.gov.tr",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+          "Referer": `https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi?page=${page}`,
+          "Pragma": "no-cache",
+          "Sec-Fetch-Dest": "document",
+          "Sec-Fetch-Mode": "navigate",
+          "Sec-Fetch-Site": "none",
+          "Sec-Fetch-User": "?1",
+          "Upgrade-Insecure-Requests": "1",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+          "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+          "sec-ch-ua-mobile": "?0",
+          "sec-ch-ua-platform": "\"Windows\"",
           pragma: "no-cache",
         },
         ...allowLegacyRenegotiation,
@@ -141,7 +151,7 @@ const fetchAllCompanies = async () => {
   companies.sort((a, b) => {
     return new Date(a.approve_date) - new Date(b.approve_date);
   });
-  await new Promise((resolve) => setTimeout(resolve, 2500));
+  await new Promise((resolve) => setTimeout(resolve, 1000));
 
   return companies;
 }
