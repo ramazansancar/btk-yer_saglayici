@@ -36,6 +36,9 @@ jobs:
     - name: Run Code
       run: |
         npm run start
+
+    - name: Run Code 2
+      run: |
         npm run start
     
     - name: Deploy
