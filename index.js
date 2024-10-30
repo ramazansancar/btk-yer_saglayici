@@ -85,7 +85,7 @@ const fetchCompanies = async (page) => {
       console.error(err.response.status, err.message, err.response.data, err);
       return;
     });
-  } catch (error) {
+  } catch (err) {
     console.error("Error fetching companies:", err.response.status, err.message, err.response.data, err);
     return;
   }
