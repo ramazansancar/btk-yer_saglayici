@@ -191,7 +191,7 @@ fetchAllCompanies().then(async (data) => {
   */
   let writeCache = ``;
   companies.forEach((company) => {
-    writeCache += `| ${company.id} | ${company.company} | ${company.type} | ${company.address} | ${company.phone} | ${company.web} | ${company.approve_date} |\n`;
+    writeCache += `| ${company.company} | ${company.type} | ${company.address} | ${company.phone} | ${company.web} | ${company.approve_date} |\n`;
   });
   await appendToFile(mdPath, writeCache);
   console.log("Markdown file created and updated successfully.");
