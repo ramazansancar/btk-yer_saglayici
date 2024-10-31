@@ -166,7 +166,7 @@ fetchAllCompanies().then(async (data) => {
 
   const mdPath = "./README.MD";
   await writeFile(mdPath, "");
-  await appendToFile(mdPath, `# Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi\n\n## Kayıt Sayısı: ${count}\n\n### Kaynak: <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>\n\n| ID | İşletmeci | Türü | Adres | Telefon | Web | Onay Tarihi |\n| --- | --- | --- | --- | --- | --- | --- |\n`);
+  await appendToFile(mdPath, `# Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi\n\n## Kayıt Sayısı: ${count}\n\n### Kaynak: <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>\n\n| İşletmeci | Türü | Adres | Telefon | Web | Onay Tarihi |\n| --- | --- | --- | --- | --- | --- |\n`);
   /*
   {
     "id": 3856534,

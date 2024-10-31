@@ -4,8 +4,8 @@
 
 ### Kaynak: <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
-| ID | İşletmeci | Türü | Adres | Telefon | Web | Onay Tarihi |
-| --- | --- | --- | --- | --- | --- | --- |
+| İşletmeci | Türü | Adres | Telefon | Web | Onay Tarihi |
+| --- | --- | --- | --- | --- | --- |
 | TUĞBA KARAÇAĞA | company | MAARİF MAH. SELÇUKLU SOK. NO:32 | +903584175989 | http://www.oyundanbiri.com | 2019-03-13T12:30:41.000Z |
 | MEHMET SÜRMELİOĞLU | company | VARLIK MAHALLESİ TANZİMAT CADDESİ NO:45/A YENİMAHALLE | +903123840333 | http://www.maybilgisayar.com.tr | 2019-03-13T12:32:20.000Z |
 | AHMET ÖZYER | company | ORTA MAH.HÜSNÜ BEY CAD. NO:17/C ÇARŞAMBA | +903628323686 | http://www.milenyum.net | 2019-03-13T12:32:22.000Z |
