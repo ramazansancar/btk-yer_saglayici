@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 1990
+## Kayıt Sayısı: 1988
 
 ### Kaynak: <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -1045,7 +1045,6 @@
 | Ahmet Tunç | company | Bursa Nilüfer Konak Mah. Yufkacı SK. | +905369897433 | https://keronhosting.com | 2021-06-30T12:22:24.000Z |
 | VOLKAN ÇAMUR | company | Güneşli Mah. Üsküp Cad. No:140 B Blok Referans GYO Güneşli Bağcılar/İST | +902129090931 | http://www.kurumsaldata.net | 2021-07-03T00:38:40.000Z |
 | Yiğit Can Akıncı | company | Kurttepe caddesi sabahattin akgün apt 2 nolu mağaza kat, D:2, 01170 Çukurova/Adana | +908508407671 | https://axitrbilisim.com | 2021-07-03T17:04:34.000Z |
-| ABDULKADİR CEYLAN | company | ORDU ALTINORDU TERZİLİ KÖYÜ TOKİ KÜMELERİ Y3 D10 | +905316670352 | https://www.serverhan.com | 2021-07-04T23:44:14.000Z |
 | MUSTAFA UFAK | company | FEVZİ ÇAKMAK MAHALLESİ KOBİSAN 2. SANAYİ SİTESİ 10762. SOKAK C BLOK NO: 7/B-C | +903323424323 | http://www.konyabilisim.net | 2021-07-07T15:00:09.000Z |
 | Sönmez Fırat Çimen | company | Çınar Mah. Üçlü Sokak No:7 Daire:20 Maltepe/Istanbul | +905060234762 | https://trserverim.com | 2021-07-07T15:30:11.000Z |
 | Eren Can Babalık | company | Evliya Çelebi Mah. Sadi Konuralp Cad. Nejat Eczacıbaşı Binası No:5 Kat:1 Beyoğlu | +902122451565 | https://bewolt.com | 2021-07-07T17:33:48.000Z |
@@ -1738,7 +1737,6 @@
 | OVABİL İNTERNET VE BİLİŞİM HİZMETLERİ LİMİTED ŞİRKETİ | company | MERKEZ KİRAZLI KÖYÜ SANAYİ MEVKİİ 2 SK. 123/1 5 NOLU DÜKKAN NO: 14 İÇ KAPI NO: 5 | +905397481887 | https://ovabil.com | 2024-05-20T09:25:34.000Z |
 | Creart Teknoloji A.Ş. | company | Akademi Mh. Gürbulut Sk. No:67 Selçuklu | +908503073654 | https://renklihost.com | 2024-05-20T09:30:33.000Z |
 | LİVAPROXY YAZILIM TİCARET LİMİTED ŞİRKETİ | company | CEBECİ MAHALLESİ P CADDESİ NO:35-37 İÇ KAPI NO 29 SULTANGAZİ/İSTANBUL | +905535213776 | https://livaproxy.com | 2024-05-21T13:44:20.000Z |
-| Erdem Özyurt | company | Hızırtepe Mahallesi Sadık Sokak No:26 / Adapazarı | +905392941916 | https://siberkale.com | 2024-05-24T10:13:31.000Z |
 | FİBTEGİS YAZILIM PROJE VE DANIŞMANLIK HİZMETLERİ LİMİTED ŞİRKETİ | company | ADALET MAH. MANAS BUL. FOLKART TOWERS BLOK NO: 47B İÇ KAPI NO:  2804 BAYRAKLI / İZMİR 35550 | +905536060071 | https://fibtegis.com | 2024-05-24T11:21:38.000Z |
 | AXON TELEKOMÜNİKASYON BİLİŞİM TEKNOLOJİLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ | company | SÜPHAN MAH. İŞGEM 2. SK. A2 NO: 15E EDREMİT / VAN | +908502427130 | https://www.axontelekom.com | 2024-05-24T11:27:48.000Z |
 | VULUT BİLİŞİM TEKNOLOJİLERİ LİMİTED ŞİRKETİ | company | Barbaros Mh. Eyüp Sultan Cd. No:19/3 BAŞİSKELE/KOCAELİ | +902626061668 | https://www.vulut.com | 2024-05-24T11:30:16.000Z |
@@ -1882,7 +1880,6 @@
 | EDS Bilişim Sistemleri San. ve Dış Tic. Ltd. Şti | company | Kocaeli Üniversitesi Teknoparkı Yeniköy Vatan Cad. No: 83/C6 | +902127060701 | https://www.edsbilisim.com | 2024-10-05T12:22:43.000Z |
 | BİROL KOÇ | company | AKSU MAHALLESİ PAZAR CADDESİ NO:58/A | +905466382800 | http://www.liderhost.com.tr | 2024-10-05T19:50:56.000Z |
 | NURULLAH BAYRAKTAR | company | Küplüce mah. mehmet ağa cad. çankaya sok. no:22/3 kat:4 Üsküdar/İstanbul | +905327447803 | http://alemdarhost.com | 2024-10-05T21:52:52.000Z |
-| FATGPT YAZILIM VE DANIŞMANLIK LİMİTED ŞİRKETİ | company | Memurevleri Mah. 205 Sk. Göksoy Apt. No:13/1 | +905415640007 | https://fatbotter.com/ | 2024-10-06T12:06:24.000Z |
 | Can Uğur BORA | company | istanbul beşiktaş kuruçeşme akıncılar bayırı no 13 | +908503031409 | https://www.gamedoping.com | 2024-10-07T02:47:01.000Z |
 | BENTAŞ BİLGİSAYAR ENDÜSTRİ MÜHENDİSLİK VE TİCARET A.Ş. | company | YILANLI AYAZMA SOKAK NO:12 KAT:2 34010 DAVUTPAŞA | +902122313500 | https://www.bentas.com | 2024-10-07T11:03:24.000Z |
 | EMRE ÇİFTCİBAŞI | company | BAHÇELİEVLER MAH. MUSTAFA PARMAKSIZ CAD. 4/A MERKEZ/NEVŞEHİR | +905518602850 | https://kapadokyabilisim.com | 2024-10-07T13:16:02.000Z |
@@ -1996,3 +1993,4 @@
 | Kemal CIZOĞLU | company | SİTELER MH. A11 SK. YOLKENT SİTESİ NO:4/A D:25 YILDIRIM/BURSA | +902243414431 | https://cizoglubilisim.com | 2024-11-08T15:22:51.000Z |
 | Uğur Öztürk | company | Güzelyalı burgaz mah. şehit mehmet cad. asist -2 apt no 69 a Mudanya/Bursa | +905400772209 | https://evabilisim.com | 2024-11-08T16:15:07.000Z |
 | Mehmet KAVAK | company | İçmeler Mh. Çalış Sk. No:17/3 Tuzla | +905078349646 | https://sayetema.com | 2024-11-08T17:08:16.000Z |
+| FATGPT YAZILIM VE DANIŞMANLIK LİMİTED ŞİRKETİ | company | Memurevleri Mah. 205 Sk. Göksoy Apt. No:13/1 | +905415640007 | https://fatbotter.com/ | 2024-11-09T14:17:37.000Z |
