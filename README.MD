@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 1988
+## Kayıt Sayısı: 1987
 
 ### Kaynak: <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -1655,7 +1655,6 @@
 | YAVUZ BEKİR GÜL | company | ŞEREFİYE MAH. NECATİBEY SK. NO:12/ C , MERKEZ, DÜZCE. | +905323038040 | https://www.klavye.com.tr | 2024-02-12T09:57:11.000Z |
 | Münevver ATAŞ | company | Varlık Mah. 193 Sk. Servet Gürsel Apt. Sitesi No 10/A Muratpaşa/Antalya | +905342452727 | https://www.birtescil.com | 2024-02-12T09:59:04.000Z |
 | Basri Sezer | company | KARACAAHMET MAH. 38093 SK. D BLOK NO: 8 İÇ KAPI NO: 36 ŞEHİTKAMİL/ GAZİANTEP | +905374857720 | https://hostlie.com/ | 2024-02-12T10:01:23.000Z |
-| İNNOVA SARF MALZEMELERİ ELEKTRİK ELEKTRONİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ | company | GÜZELEVLER MAH. 2067/2 SK. G BLOK NO: 9 /2 İÇ KAPI NO: 19 | +905443900484 | https://innovasoft.com.tr | 2024-02-12T10:12:07.000Z |
 | Görkem Bacıoğlu | company | MUTLU MAH. 433 CAD. GÜLCAN APT NO: 47 İÇ KAPI NO: 6 | +908503083156 | https://tky.net.tr | 2024-02-14T16:35:26.000Z |
 | SİNAN EMİN ERDEM | company | Esenköy Mahallesi Eski Sağ Sokak No:1358 Fethiye | +905073470707 | https://www.bizcehost.com | 2024-02-14T16:38:33.000Z |
 | TTEN TEKNOLOJİ ANONİM ŞİRKETİ | company | CEMALPAŞA MAHALLESİ GAZİPAŞA BULVARI KARADAYI APT. NO: 20 K:6 D: 11 SEYHAN | +905377404950 | https://tten.net | 2024-02-16T14:48:00.000Z |
@@ -1825,7 +1824,6 @@
 | MERT İSMAİL AKYÜZ | company | Saray mahallesi, keresteciler sitesi | +905538948798 | https://www.veriagi.com/ | 2024-09-09T08:29:52.000Z |
 | YURDUM YAYINCILIK VE YAZILIM SAN. TİC. LTD. ŞTİ. | company | Küçükbakkalköy Mah. Defne Sokak No:1 / 365 Ataşehir | +903122357025 | https://www.yy.com.tr | 2024-09-09T11:03:47.000Z |
 | MERT EGE CEREN | company | Feneryolu, Bağdat Cd. Nur No:51/31 | +905077346666 | https://mertege.com | 2024-09-09T11:21:24.000Z |
-| INTERNIC BİLİŞİM TEKNOLOJİLERİ LİMİTED ŞİRKETİ | company | ANADOLU CAD. ADALET MAH. NO:41/091 | +908508851808 | https://internic.com.tr | 2024-09-09T12:38:15.000Z |
 | VENAİN BİLİŞİM TEKNOLOJİLERİ LİMİTED ŞİRKETİ | company | Tacettinveli Mah. Deliklitaş Cad. Nish Kayseri No:20 İç Kapı No:21 MELİKGAZİ / KAYSERİ | +908503098045 | https://venain.com | 2024-09-10T14:42:30.000Z |
 | KUZEY VERİ MERKEZİ ANONİM ŞİRKETİ | company | MİMAR SİNAN MAH. MESUT SOK. NO: 91 | +908503034310 | https://www.kuzeydc.com | 2024-09-10T14:46:33.000Z |
 | NUAGE TEKNOLOJİ ANONİM ŞİRKETİ | company | CUMHURİYET MAH. CEVVAL SOK. NO:1/3 C K:10 D:158 | +902129510061 | https://www.nuagedc.com | 2024-09-10T14:50:11.000Z |
@@ -1892,7 +1890,6 @@
 | İBRAHİM ÖZDEMİR | company | ZÜMRÜTEVLER MAHALLESİ | +908503095667 | https://www.conhost.com.tr | 2024-10-08T15:20:43.000Z |
 | OKAN IŞIK | company | Kale Mh. Kazımpaşa cd. Akman İş Merkezi No18/10 | +908508889089 | http://www.gulcearastirma.com.tr | 2024-10-08T15:23:07.000Z |
 | ANGI YAYINCILIK SAN. LTD. ŞTİ. | company | SANAYİ CAD. NO:17/2-3 ULUS | +903123123655 | https://www.angi.com.tr | 2024-10-09T11:54:04.000Z |
-| SKY ATLAS İLETİŞİM SANAYİ VE TİCARET ANONİM ŞİRKETİ | company | YTÜ DAVUTPAŞA KAMPÜSÜ TEKNOPARK D2 107 ESENLER 34220 | +908508850357 | http://www.skyatlas.com | 2024-10-10T16:47:45.000Z |
 | Görkem Bayram | company | Çekirge Mah. 2 Dark sok. No:17 Osmangazi | +908505328285 | https://www.crenw.net/ | 2024-10-10T19:40:07.000Z |
 | Tuncay IŞIK | company | Hürriyet mahallesi kestane sokak no 17 daire 2 Kağıthane/İstanbul | +902129093800 | https://oksbilisim.net | 2024-10-11T09:17:16.000Z |
 | İlginet Telekomünikasyon ve İnternet Hizmetleri San. Tic. Ltd. Şti. | company | Yeni Mahalle Lise/2 Sokak No:2/B Piraziz | +908503045678 | https://ilgihost.com | 2024-10-11T09:19:31.000Z |
@@ -1994,3 +1991,5 @@
 | FİBTEGİS YAZILIM PROJE VE DANIŞMANLIK HİZMETLERİ LİMİTED ŞİRKETİ | company | ADALET MAH. MANAS BUL. FOLKART TOWERS BLOK NO: 47B İÇ KAPI NO:  2804 BAYRAKLI / İZMİR 35550 | +905536060071 | https://fibtegis.com | 2024-11-11T14:58:58.000Z |
 | WNM Yazılım Limited Şirketi | company | Çamçeşme Mahallesi Coşkun Sokak No:4/2 | +902163968080 | https://wnm.com.tr | 2024-11-11T16:58:47.000Z |
 | ŞÜKRÜ AK | company | Ziya Gökalp Mh. Süleyman Demirel Bulvarı Mall Of İstanbul Kat:17 D:136 Başakşehir | +905365741672 | https://www.akwebhostingi.com | 2024-11-11T22:09:18.000Z |
+| INTERNIC BİLİŞİM TEKNOLOJİLERİ LİMİTED ŞİRKETİ | company | ANADOLU CAD. ADALET MAH. NO:41/091 | +908508851808 | https://internic.com.tr | 2024-11-12T16:54:19.000Z |
+| SKY ATLAS İLETİŞİM SANAYİ VE TİCARET ANONİM ŞİRKETİ | company | YTÜ DAVUTPAŞA KAMPÜSÜ TEKNOPARK D2 107 ESENLER 34220 | +908508850357 | http://www.skyatlas.com | 2024-11-12T17:20:48.000Z |
