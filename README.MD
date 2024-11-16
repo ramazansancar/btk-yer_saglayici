@@ -1876,7 +1876,6 @@
 | BİROL KOÇ | company | AKSU MAHALLESİ PAZAR CADDESİ NO:58/A | +905466382800 | http://www.liderhost.com.tr | 2024-10-05T19:50:56.000Z |
 | NURULLAH BAYRAKTAR | company | Küplüce mah. mehmet ağa cad. çankaya sok. no:22/3 kat:4 Üsküdar/İstanbul | +905327447803 | http://alemdarhost.com | 2024-10-05T21:52:52.000Z |
 | Can Uğur BORA | company | istanbul beşiktaş kuruçeşme akıncılar bayırı no 13 | +908503031409 | https://www.gamedoping.com | 2024-10-07T02:47:01.000Z |
-| BENTAŞ BİLGİSAYAR ENDÜSTRİ MÜHENDİSLİK VE TİCARET A.Ş. | company | YILANLI AYAZMA SOKAK NO:12 KAT:2 34010 DAVUTPAŞA | +902122313500 | https://www.bentas.com | 2024-10-07T11:03:24.000Z |
 | EMRE ÇİFTCİBAŞI | company | BAHÇELİEVLER MAH. MUSTAFA PARMAKSIZ CAD. 4/A MERKEZ/NEVŞEHİR | +905518602850 | https://kapadokyabilisim.com | 2024-10-07T13:16:02.000Z |
 | Mustafa Emir Çebi | company | Esenler Emlak Konutları A11 Blok Kat 12 Daire 131 Esenler / İstanbul | +905056433546 | https://litrosweb.com | 2024-10-07T13:29:54.000Z |
 | fethi akkın | company | bağarası mahallesi 1990.sk no:4 | +905433207615 | https://akkin.net.tr/ | 2024-10-07T21:23:58.000Z |
@@ -1992,3 +1991,4 @@
 | INTERNIC BİLİŞİM TEKNOLOJİLERİ LİMİTED ŞİRKETİ | company | ANADOLU CAD. ADALET MAH. NO:41/091 | +908508851808 | https://internic.com.tr | 2024-11-12T16:54:19.000Z |
 | SKY ATLAS İLETİŞİM SANAYİ VE TİCARET ANONİM ŞİRKETİ | company | YTÜ DAVUTPAŞA KAMPÜSÜ TEKNOPARK D2 107 ESENLER 34220 | +908508850357 | http://www.skyatlas.com | 2024-11-12T17:20:48.000Z |
 | METSA BİLİŞİM TİCARET VE LİMİTED ŞİRKETİ | company | BARBAROS MAH. KARAGÖL CAD. BIRLIK APT NO: 24 IÇ KAPI NO: 5 ÇUBUK/ ANKARA | +908503078014 | https://www.metbi.net/ | 2024-11-13T12:59:41.000Z |
+| BENTAŞ BİLGİSAYAR ENDÜSTRİ MÜHENDİSLİK VE TİCARET A.Ş. | company | YILANLI AYAZMA SOKAK NO:12 KAT:2 34010 DAVUTPAŞA | +902122313500 | https://www.bentas.com | 2024-11-15T09:36:37.000Z |
