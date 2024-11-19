@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 1986
+## Kayıt Sayısı: 1985
 
 ### Kaynak: <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -1604,7 +1604,6 @@
 | İksero Bilişim Hizmetleri Ticaret Limited Şirketi | company | KONAK MAH. CUMHURİYET BUL. KAPANİ İŞ MERKEZİ NO: 36 İÇ KAPI NO: 711 KONAK / İZMİR | +905308351632 | http://iksero.com | 2024-01-03T11:51:55.000Z |
 | ÖMER FARUK KANDİLCİ | company | Kışla Mah. 37 Sk. Cengizhan Apt. No: 6 D: 102 Muratpaşa / ANTALYA | +905551068510 | https://prodamedya.com | 2024-01-04T10:18:31.000Z |
 | ATASAYAR TEKNOLOJİ A.Ş. | company | Kültür Mahallesi D100 Karayolu Yan Yol 349/a No:13 Atasayar Plaza | +903804448412 | https://atasayarteknoloji.com/ | 2024-01-04T15:34:10.000Z |
-| Sercan Arğa | company | Halil Rıfat Paşa Mah. Yüzer Havuz Sok. No:1 İç Kapı No:A/474 Şişli/İstanbul | +905071773757 | https://sercanarga.com | 2024-01-04T19:29:52.000Z |
 | Emirhan Kurt | company | YENI YALI MAHALLESİ KUTLU SOKAK NO 4 KAT 2 | +908503073083 | https://netvay.com | 2024-01-05T09:24:19.000Z |
 | Adetaş İç ve Dış Ticaret Ltd Şti | company | İçerenköy Mah. Kavaklar Sok No:19/b | +902165736613 | https://turboserver.com.tr | 2024-01-05T09:29:36.000Z |
 | Barış Emre Teksin | company | Çeysa Twin Towers plaza B blok kat 7 no 48 | +905534477669 | https://www.btekhost.com/ | 2024-01-05T09:33:36.000Z |
@@ -1890,7 +1889,6 @@
 | Tuncay IŞIK | company | Hürriyet mahallesi kestane sokak no 17 daire 2 Kağıthane/İstanbul | +902129093800 | https://oksbilisim.net | 2024-10-11T09:17:16.000Z |
 | İlginet Telekomünikasyon ve İnternet Hizmetleri San. Tic. Ltd. Şti. | company | Yeni Mahalle Lise/2 Sokak No:2/B Piraziz | +908503045678 | https://ilgihost.com | 2024-10-11T09:19:31.000Z |
 | Yunus Emre Taşkın | company | Yalı mah. Kemal Gürsoy Cad No : 29 | +905060276169 | https://www.cloudviba.com | 2024-10-13T02:17:47.000Z |
-| Yasin Hanta | company | Adalet Mah. Manas Bulvarı Folkart Towers No:47 B Kat:28 D.No:2809 PK.:25530 Bayraklı İzmir Türkiye | +905534958383 | https://theoldgamer.com | 2024-10-14T09:56:19.000Z |
 | Siyah Kalem Grafik Film Matbaa Reklam ve Prodüksiyon Üretim Hizmetleri Pazarlama Ticaret Limited Şirketi | company | Şerifali Mahallesi Turgut Özal Bulvarı No 63 Ümraniye | +902164455115 | https://siyahhost.com | 2024-10-14T10:04:02.000Z |
 | Noma Teknoloji ve Bilişim Hizmetleri LTD ŞTİ | company | Ankara Cad. No:289 Yelken Plaza B Blok Kat: 2, D:3, 34100 Pendik/İstanbul | +905466740518 | https://nomabilisim.com | 2024-10-14T10:12:29.000Z |
 | Fatih Şanlı | company | Örnek mah. 1368. sk. no 26 daire 7 Esenyurt/İstanbul | +908508406617 | https://mecrabilisim.com | 2024-10-15T09:20:55.000Z |
@@ -1992,3 +1990,4 @@
 | BENTAŞ BİLGİSAYAR ENDÜSTRİ MÜHENDİSLİK VE TİCARET A.Ş. | company | YILANLI AYAZMA SOKAK NO:12 KAT:2 34010 DAVUTPAŞA | +902122313500 | https://www.bentas.com | 2024-11-15T09:36:37.000Z |
 | BİROL KOÇ | company | AKSU MAHALLESİ PAZAR CADDESİ NO:58/A | +905466382800 | http://www.liderhost.com.tr | 2024-11-16T20:42:55.000Z |
 | DURUL ŞİLLİ | company | Hürriyet Mahallesi kar sokak no 11/2 daire 6 Süleymanpaşa | +905444037059 | http://www.tasarim59.com | 2024-11-17T21:00:45.000Z |
+| Sercan Arğa | company | Halil Rıfat Paşa Mah. Yüzer Havuz Sok. No:1 İç Kapı No:A/474 Şişli/İstanbul | +905071773757 | https://sercanarga.com | 2024-11-18T15:15:02.000Z |
