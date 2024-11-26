@@ -1973,7 +1973,6 @@
 | İnteralan Bilişim A.Ş. | company | Prof. Dr. Ahmet Taner Kışlalı Mah. 2873 Cad. Ulucan Sit. No:3 İç Kapı No:5 Çankaya | +908508850222 | https://interalan.com | 2024-11-10T16:26:44.000Z |
 | Kodes İnteraktif Medya ve Yazılım Hizmetleri A.Ş. | company | Mustafa Kemal Mahallesi Dumlupınar Bulvarı No:280 G/1260 06510 Çankaya | +903129220196 | https://www.kodes.com.tr | 2024-11-11T14:12:08.000Z |
 | ADA-NET İNTERNET VE İLETİŞİM HİZMETLERİ TİC. A.Ş. | company | AKPINAR MAHALLESİ DİKMEN CADDESİ NO: 574/B 06460 DİKMEN | +903125733333 | https://www.ada.net.tr | 2024-11-11T14:53:06.000Z |
-| FİBTEGİS YAZILIM PROJE VE DANIŞMANLIK HİZMETLERİ LİMİTED ŞİRKETİ | company | ADALET MAH. MANAS BUL. FOLKART TOWERS BLOK NO: 47B İÇ KAPI NO:  2804 BAYRAKLI / İZMİR 35550 | +905536060071 | https://fibtegis.com | 2024-11-11T14:58:58.000Z |
 | WNM Yazılım Limited Şirketi | company | Çamçeşme Mahallesi Coşkun Sokak No:4/2 | +902163968080 | https://wnm.com.tr | 2024-11-11T16:58:47.000Z |
 | ŞÜKRÜ AK | company | Ziya Gökalp Mh. Süleyman Demirel Bulvarı Mall Of İstanbul Kat:17 D:136 Başakşehir | +905365741672 | https://www.akwebhostingi.com | 2024-11-11T22:09:18.000Z |
 | INTERNIC BİLİŞİM TEKNOLOJİLERİ LİMİTED ŞİRKETİ | company | ANADOLU CAD. ADALET MAH. NO:41/091 | +908508851808 | https://internic.com.tr | 2024-11-12T16:54:19.000Z |
@@ -1999,3 +1998,4 @@
 | EGEDATACENTER BİLİŞİM TEKNOLOJİLERİ SAN. TİC. LTD. ŞTİ | company | K.Çiğli mh. 8708/1 sok. NO:1/1 Kat:2 Daire:4 Çiğli | +902324251960 | http://www.egedatacenter.net | 2024-11-21T22:23:49.000Z |
 | Cahit Bodur | company | Esentepe Mah 2389/2 Sk No:5 D:16 Sultangazi | +905415365255 | https://sizinsayfaniz.com | 2024-11-21T23:15:24.000Z |
 | SPACE DIGITAL BİLİŞİM LİMİTED ŞİRKETİ | company | YUKARI MAH. İSTASYON CAD. UZUNKAYA BLOK NO: 8 İÇ KAPI NO: 165 KARTAL / İSTANBUL | +902166065610 | https://ruzgarhost.com | 2024-11-22T14:28:02.000Z |
+| FİBTEGİS YAZILIM PROJE VE DANIŞMANLIK HİZMETLERİ LİMİTED ŞİRKETİ | company | ADALET MAH. MANAS BUL. FOLKART TOWERS BLOK NO: 47B İÇ KAPI NO:  2804 BAYRAKLI / İZMİR 35550 | +905536060071 | https://fibtegis.com | 2024-11-25T12:32:55.000Z |
