@@ -1821,7 +1821,6 @@
 | KUZEY VERİ MERKEZİ ANONİM ŞİRKETİ | company | MİMAR SİNAN MAH. MESUT SOK. NO: 91 | +908503034310 | https://www.kuzeydc.com | 2024-09-10T14:46:33.000Z |
 | NUAGE TEKNOLOJİ ANONİM ŞİRKETİ | company | CUMHURİYET MAH. CEVVAL SOK. NO:1/3 C K:10 D:158 | +902129510061 | https://www.nuagedc.com | 2024-09-10T14:50:11.000Z |
 | Muhammed Fatih Asan | company | Uğur Mumcu, İÇ KAPI, 2286. Sk NO: 15 NO: 4, 34265 Sultangazi/İstanbul | +908503048147 | https://hostingturkiye.com.tr/ https://antoryumbilisim.com/ | 2024-09-10T16:26:36.000Z |
-| SFCTEK Bilişim Yazılım ve Telekomünikasyon Hiz. San. ve Tic. LTD. ŞTİ. | company | Çiftlikköy Mah. Mersin Üniversitesi Kampüs Alanı Teknopark No: 35B / Z06 | +908503045041 | https://www.sunucu.al | 2024-09-11T03:15:14.000Z |
 | AYFANET BİLG. DANŞ. TUR. SAN. VE TİC. LTD. ŞTİ. | company | ETİLER MH. ADNAN MENDERES BULV. NO:67 KAT:3 D:7 MURATPAŞA ANTALYA | +908506660770 | https://antalyahost.net | 2024-09-12T15:30:07.000Z |
 | SELFKOD YAZILIM TEKNOLOJİLERİ İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ | company | TERZİALİLER MAH. ATATÜRK BUL. NO: 148 İÇ KAPI NO: 8 ORTACA / MUĞLA | +908508850406 | https://selfkod.com | 2024-09-13T09:02:01.000Z |
 | KOLEKTİF İTHALAT İHRACAT TİCARET LİMİTED ŞİRKETİ | company | Esentepe Mah. Talat Paşa Cad. No:5/1 Şişli | +902129062710 | https://www.tescille.com | 2024-09-13T09:05:09.000Z |
@@ -2005,3 +2004,4 @@
 | Muhammet Aydemir | company | Inonu mh 7048 sk no 29 Akyazı | +908503078800 | https://hostmatik.com.tr | 2024-11-26T10:10:20.000Z |
 | Globaliser Teknoloji A.Ş. | company | Esentepe Mah. Büyükdere Cad. Levent 199 Plaza No:199/6 34394 Şişli | +902122594690 | https://www.globaliser.com | 2024-11-26T10:13:11.000Z |
 | MS TEKNOLOJI TIC.LTD.STI | company | Esentepe Mh.Kelebek Sk.No:2/24 | +908505326700 | https://www.ms.net.tr | 2024-11-26T10:33:50.000Z |
+| SFCTEK Bilişim Yazılım ve Telekomünikasyon Hiz. San. ve Tic. LTD. ŞTİ. | company | Çiftlikköy Mah. Mersin Üniversitesi Kampüs Alanı Teknopark No: 35B / Z06 | +908503045041 | https://www.sunucu.al | 2024-11-28T00:51:53.000Z |
