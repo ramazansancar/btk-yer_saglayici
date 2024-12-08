@@ -1894,7 +1894,6 @@
 | Volkan Çapar | company | Büyükşehir mah. İstiklal cad. C18 blok D:36 Beylikdüzü/İstanbul | +905442285680 | https://euperline.com | 2024-11-02T15:59:11.000Z |
 | FARK BİLİŞİM E-TİCARET İTHALAT VE İHRACAT SANAYİ LİMİTED ŞİRKETİ | company | SARAY MH. YUNUS EMRE CD. TEKER APT. NO:50 KAT:1 DAİRE:4 ALANYA / ANTALYA | +902425138005 | https://www.farkbilisim.com | 2024-11-03T21:13:25.000Z |
 | Atakan Telekomünikasyon İnternet Bilişim Turizm Limited Şirketi | company | Aşağı Yahyalar Mah. 994.Cad. 11B Yenimahalle/Ankara | +905317815293 | https://atasunucum.com/ | 2024-11-04T01:38:54.000Z |
-| Fatih Bora | company | Merkez Mah. Abidei Hürriyet Caddesi Blackout A Blok Kat 1 | +905319203560 | https://fbsoftwarehosting.com | 2024-11-04T10:38:45.000Z |
 | SILA ŞANLIOĞLU | company | Elite Park Plaza, Alemdağ Cd No:140-144 Kat:5, 34764 Ümraniye/İstanbul | +908503027253 | https://www.sanlioglubilisim.com.tr/ | 2024-11-05T10:31:20.000Z |
 | Taha Yasin Arkadaş | company | DURUCASU MAH. DURUCASU CUMHURİYET 1 SK. NO: 2 YAZIHAN/ MALATYA | +905330351705 | https://tya.com.tr | 2024-11-05T10:37:14.000Z |
 | Teknosos Bilişim Hizmetleri Ve Ticaret Limited Şirketi | company | Tarım Mah. Perge Blv. C Blok İş Merkezi No: 13 İç Kapı No: 106 Muratpaşa/ Antalya | +908508853682 | https://teknosos.com.tr/ | 2024-11-05T11:34:06.000Z |
@@ -2006,3 +2005,4 @@
 | İBRAHİM GÜZEL | company | NAMIK KEMAL MAH. DEĞİRMEN SK. NO 46 DAİRE 3 | +908503085672 | https://lixibu.com | 2024-12-06T16:58:41.000Z |
 | Respa Teknoloji San. Tic. Ltd. Şti. | company | Evliya Çelebi Mah. Sadi Konuralp Cad. IKSV Vakfı Binası No:5/2 Beyoğlu | +908503024452 | https://hostinic.com | 2024-12-06T19:01:47.000Z |
 | Güray Avcı | company | SARAYLAR MAH. 464 SK. DURMUŞ ALİ ÇOBAN İŞ MERKEZİ NO: 1 İÇ KAPI NO: 12 Merkezefendi | +908503029188 | https://www.sibermimar.com.tr | 2024-12-06T22:00:39.000Z |
+| Fatih Bora | company | Merkez Mah. Abidei Hürriyet Caddesi Blackout A Blok Kat 1 | +905319203560 | https://fbsoftwarehosting.com | 2024-12-07T06:29:40.000Z |
