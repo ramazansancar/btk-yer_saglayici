@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 2004
+## Kayıt Sayısı: 2008
 
 ### Kaynak: <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -1905,7 +1905,6 @@
 | Kodes İnteraktif Medya ve Yazılım Hizmetleri A.Ş. | company | Mustafa Kemal Mahallesi Dumlupınar Bulvarı No:280 G/1260 06510 Çankaya | +903129220196 | https://www.kodes.com.tr | 2024-11-11T14:12:08.000Z |
 | WNM Yazılım Limited Şirketi | company | Çamçeşme Mahallesi Coşkun Sokak No:4/2 | +902163968080 | https://wnm.com.tr | 2024-11-11T16:58:47.000Z |
 | ŞÜKRÜ AK | company | Ziya Gökalp Mh. Süleyman Demirel Bulvarı Mall Of İstanbul Kat:17 D:136 Başakşehir | +905365741672 | https://www.akwebhostingi.com | 2024-11-11T22:09:18.000Z |
-| BENTAŞ BİLGİSAYAR ENDÜSTRİ MÜHENDİSLİK VE TİCARET A.Ş. | company | YILANLI AYAZMA SOKAK NO:12 KAT:2 34010 DAVUTPAŞA | +902122313500 | https://www.bentas.com | 2024-11-15T09:36:37.000Z |
 | DURUL ŞİLLİ | company | Hürriyet Mahallesi kar sokak no 11/2 daire 6 Süleymanpaşa | +905444037059 | http://www.tasarim59.com | 2024-11-17T21:00:45.000Z |
 | hüseyin karakul | company | Cadde Flora Residans Bahçeşehir 2. Kısım mah. Mercedes Bulvarı E/30 K:1 D:11 Başakşehir/İstanbul | +905061114569 | https://profeshosting.com.tr | 2024-11-19T14:41:59.000Z |
 | NET UND WEB TELEKOMÜNİKASYON TİCARET LİMİTED ŞİRKETİ | company | FULYA MAH. BÜYÜKDERE CAD. TORUN CENTER D BLOK NO: 74 D İÇ KAPI NO: 43 ŞİŞLİ/ İSTANBUL | +908503460689 | https://www.netweb.com.tr | 2024-11-19T15:00:16.000Z |
@@ -2006,7 +2005,12 @@
 | ARDA ALTAY | company | MEVLANA MH.YILDIRIM BEYAZIT CD. NO :11/33 34515 ESENYURT | +908503098594 | http://www.fortezza.com.tr | 2024-12-10T23:21:54.000Z |
 | Sabri Arın Ümit | company | BAHÇELİEVLER MAH. ÇIRA SK. A5 NO: 1 /18 İÇ KAPI NO: 2 SÜLEYMANPAŞA/ TEKİRDAĞ | +905456986640 | https://www.demarweb.com | 2024-12-11T10:33:45.000Z |
 | Kerem Uluboy | company | Fenerbahçe Mah. İğrip Sk. No: 13 İç Kapı No: 1 Kadıköy/İstanbul | +908503037099 | https://whitebilisim.com | 2024-12-11T10:36:40.000Z |
-| SEÇKİN CAN ÇELENK | company | Serhat Mah. 1318. Sk. No: 1/8 Yenimahalle/Ankara | +908503040612 | https://w9.com.tr | 2024-12-11T13:41:50.000Z |
 | BARIŞ SAKIZLI | company | KARADOLAP MAH. 1.KÜLTÜR SOK. NO:4 D:10 | +905071310019 | https://customer.tospi.tech | 2024-12-11T13:52:55.000Z |
 | CENGAVER KAHAN YURDUSEVEN | company | ismet kaptan mahallesi, gaziosman paşa bulvarı no 15 daire:86 konak izmir | +905529434200 | http://www.teklan.com.tr | 2024-12-11T13:59:51.000Z |
 | REŞİT ÖKKEŞ ÇİÇEK | company | Kötekli Mah. 240.Sokak 9/2 Menteşe/Muğla | +905314397484 | https://zimasoft.com.tr | 2024-12-12T16:28:37.000Z |
+| SEÇKİN CAN ÇELENK | company | Serhat Mah. 1318. Sk. No: 1/8 Yenimahalle/Ankara | +908503040612 | https://w9.com.tr | 2024-12-13T03:00:13.000Z |
+| Benos Yazılım Teknolojileri ve Danışmanlık A.Ş. | company | Yenibağlar Mahallesi karargah sokak 10/2 tepebaşı/eskişehir | +908503088905 | https://www.benoshost.com | 2024-12-13T09:50:12.000Z |
+| Cahit Bodur | company | Esentepe Mah 2389/2 Sk No:5 D:16 Sultangazi | +905415365255 | https://sizinsayfaniz.com | 2024-12-13T10:22:28.000Z |
+| Baran Çırak | company | Emniyet Evleri Mahallesi Pehlivan Sokak No: 3 D: 12 | +908503080778 | https://brnchost.com | 2024-12-13T10:23:30.000Z |
+| SUNUCUN BİLGİ İLETİŞİM TEKNOLOJİLERİ VE TİCARET LİMİTED ŞİRKETİ | company | MASLAK MAH. AOS 55. SK. 42 MASLAK B BLOK NO: 4 İÇ KAPI NO: 542 SARIYER/ İSTANBUL | +908523088226 | https://www.sunucun.com.tr | 2024-12-13T10:27:04.000Z |
+| BENTAŞ BİLGİSAYAR ENDÜSTRİ MÜHENDİSLİK VE TİCARET A.Ş. | company | YILANLI AYAZMA SOKAK NO:12 KAT:2 34010 DAVUTPAŞA | +902122313500 | https://www.bentas.com | 2024-12-13T11:00:50.000Z |
