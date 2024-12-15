@@ -1897,7 +1897,6 @@
 | Zeynep Erbaşlı | company | Mithatpaşa Cad. No: 218/12 Barbaros Mah. PK: 35260 Konak - İzmir / Türkiye | +902323351932 | https://smyrnaweb.com | 2024-11-06T10:45:03.000Z |
 | Dokunmatik Ekran Teknolojileri Bilişim İnşaat Tic Ltd Şti | company | Hürriyet mahallesi altın Sokak no 35/b | +905324676926 | https://treas.host | 2024-11-07T10:40:23.000Z |
 | PRONER TEKNOLOJİ SANAYİ VE TİCARET A.Ş | company | kültür mah. kuyumcuzade bulvarı no : 17/4 | +903806060535 | https://kolaynet.com.tr | 2024-11-07T14:21:29.000Z |
-| UFUK AYKUT | company | Armutalan Mah. Hamdi Yüzak Cad. Kardelen Sitesi No: 173/1 Marmaris | +908503801148 | https://www.marissoft.com.tr | 2024-11-07T20:10:04.000Z |
 | MUSTAFA BOZTEPE | company | Sakarya hendek 2180 sok no 16 | +905320506842 | https://www.hosttepe.com | 2024-11-08T09:24:06.000Z |
 | Harun Bülbül | company | yeşilırmak mah. çeçenistan bulvarı no 64 d | +905523144260 | https://gamesunucum.com.tr/index.php | 2024-11-08T09:33:05.000Z |
 | Taha Ege Aydın | company | Askent Sok. 1/C D:28 Ataşehir | +905059280907 | https://gyrohosting.com | 2024-11-08T12:56:41.000Z |
@@ -2014,3 +2013,4 @@
 | Baran Çırak | company | Emniyet Evleri Mahallesi Pehlivan Sokak No: 3 D: 12 | +908503080778 | https://brnchost.com | 2024-12-13T10:23:30.000Z |
 | SUNUCUN BİLGİ İLETİŞİM TEKNOLOJİLERİ VE TİCARET LİMİTED ŞİRKETİ | company | MASLAK MAH. AOS 55. SK. 42 MASLAK B BLOK NO: 4 İÇ KAPI NO: 542 SARIYER/ İSTANBUL | +908523088226 | https://www.sunucun.com.tr | 2024-12-13T10:27:04.000Z |
 | BENTAŞ BİLGİSAYAR ENDÜSTRİ MÜHENDİSLİK VE TİCARET A.Ş. | company | YILANLI AYAZMA SOKAK NO:12 KAT:2 34010 DAVUTPAŞA | +902122313500 | https://www.bentas.com | 2024-12-13T11:00:50.000Z |
+| UFUK AYKUT | company | Armutalan Mah. Hamdi Yüzak Cad. Kardelen Sitesi No: 173/1 Marmaris | +908503801148 | https://www.marissoft.com.tr | 2024-12-14T22:30:30.000Z |
