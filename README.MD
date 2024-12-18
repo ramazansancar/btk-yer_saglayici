@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 2007
+## Kayıt Sayısı: 2010
 
 ### Kaynak: <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -1958,7 +1958,6 @@
 | Muhammet Soyoğlu | company | FENERBAHÇE MAH. İĞRİP SK. NO: 13 İÇ KAPI NO: 1 Kadıköy | +905342687231 | https://www.firstbilisim.com | 2024-12-03T15:33:33.000Z |
 | ESKİŞEHİR BİLİŞİM İLETİŞİM A.Ş. | company | ORGANİZE SANAYİ BÖLGESİ 15.CAD. NO:1 26110 ODUNPAZARI | +902222360375 | http://www.eso-es.net | 2024-12-03T15:55:06.000Z |
 | BARIŞ ZIBAHALAT MOFRAD | company | Cennet Mahallesi Yahya Kemal Beyatlı Caddesi No:23 D:3 Küçükçekmece | +908503085778 | https://mofradhost.com | 2024-12-04T00:36:14.000Z |
-| KOÇSİSTEM BİLGİ VE İLETİŞİM HİZMETLERİ A.Ş. | company | ÜNALAN MH. ÇAĞLA SOK. ÇAMLICA İŞ MERKEZİ B3 BLOK ÜSKÜDAR | +902165561100 | https://kocsistem.com.tr | 2024-12-04T12:02:08.000Z |
 | E VERİ BİLİŞİM TURİZİM SAN.VE TİC.LTD.ŞTİ. | company | KÜÇÜKBAKKALKÖY MAH.KÜÇÜKSETLİ SOK.NO:5-9 ATAŞEHİR-İSTANBUL | +905546606363 | http://e-veri.com | 2024-12-04T15:15:45.000Z |
 | Orhan Arslan | company | Turgut Reis Mahallesi Esence Caddesi 28/2 | +905419637632 | https://www.atydijital.nl | 2024-12-04T16:13:06.000Z |
 | Fatih Çolak | company | Bulgurlu Mah. Atalar Sk. Cemal Yılmaz Apt. No:33 İç Kapı No:3 Üsküdar | +905315471111 | https://www.realtescil.com | 2024-12-04T17:11:06.000Z |
@@ -2013,3 +2012,7 @@
 | BENTAŞ BİLGİSAYAR ENDÜSTRİ MÜHENDİSLİK VE TİCARET A.Ş. | company | YILANLI AYAZMA SOKAK NO:12 KAT:2 34010 DAVUTPAŞA | +902122313500 | https://www.bentas.com | 2024-12-13T11:00:50.000Z |
 | UFUK AYKUT | company | Armutalan Mah. Hamdi Yüzak Cad. Kardelen Sitesi No: 173/1 Marmaris | +908503801148 | https://www.marissoft.com.tr | 2024-12-14T22:30:30.000Z |
 | Sabri Arın Ümit | company | BAHÇELİEVLER MAH. ÇIRA SK. A5 NO: 1 /18 İÇ KAPI NO: 2 SÜLEYMANPAŞA/ TEKİRDAĞ | +905456986640 | https://www.demarweb.com | 2024-12-16T20:15:40.000Z |
+| HİDAYET DEMİR | company | YENİMAHALLE MENDERES CAD. NO:33/A ÇAYIROVA | +902626101180 | https://www.ennetbilisim.com | 2024-12-17T10:26:54.000Z |
+| Mergensoft Yazılım Tasarım Sanayi ve Ticaret Limited Şirketi | company | Kızılay mah. Necatibey cad. 21/37 | +905075447033 | https://mergensoft.com/ | 2024-12-17T11:14:34.000Z |
+| KOÇSİSTEM BİLGİ VE İLETİŞİM HİZMETLERİ A.Ş. | company | ÜNALAN MH. ÇAĞLA SOK. ÇAMLICA İŞ MERKEZİ B3 BLOK ÜSKÜDAR | +902165561100 | https://kocsistem.com.tr | 2024-12-17T15:10:11.000Z |
+| OKSİTWEB BİLİŞİM TEKNOLOJİLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ | company | DEĞİRMİÇEM MAH. NAİL BİLEN CAD. NO: 4 İÇ KAPI NO: 43 ŞEHİTKAMİL | +903426060165 | https://oksitweb.com/ | 2024-12-17T16:37:43.000Z |
