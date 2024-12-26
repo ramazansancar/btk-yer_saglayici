@@ -1614,7 +1614,6 @@
 | Mert Efe Tınarözü | company | Bolluca Mahallesi, Battalgazi Caddesi No: 46, İç Kapı No: 2, Arnavutköy/İstanbul | +905443976674 | https://www.devirhosting.net.tr/ | 2024-01-16T11:42:17.000Z |
 | Yiğiter SALMAN | company | Yeni Mahalle 2071 Sokak No:1/10 | +908505504554 | https://hensoft.com.tr | 2024-01-17T10:02:07.000Z |
 | MÜCAHİD SELVİ | company | SERDAR MH. EMİR SULTAN CD. KUBA SK. KUBA APT. B BLOK | +902623423411 | https://www.yaztekteknoloji.com.tr | 2024-01-18T14:27:08.000Z |
-| WİBESOFT YAZILIM BİLİŞİM TEKNOLOJİLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ | company | İsmetpaşa Mahallesi Yeni Havra Sokak No: 6 İç Kapı No: 1 Merkez/Çanakkale | +908503095824 | https://www.hostingdunyasi.com | 2024-01-22T15:55:20.000Z |
 | MUHAMMED KURUM | company | YAKUPLU MAHALLESİ 46. SOKAK NO:34 D:15 BEYLİKDÜZÜ | +905398650503 | https://softruct.com | 2024-01-23T10:05:03.000Z |
 | TECHLAPS TEKNOLOJİ VE TİCARET A.Ş. | company | Zümrütevler Mahallesi, Eski Üsküdar Caddesi, Ural Sokak, No:11 34852 Maltepe, İstanbul | +902165892734 | https://techlaps.net | 2024-01-25T08:49:27.000Z |
 | Kaan BOZKURT | company | Mevlana mahallesi Çayır Sokak no:2/30 | +905468111479 | https://www.sadeceserver.com | 2024-01-25T15:07:33.000Z |
@@ -1817,7 +1816,6 @@
 | UZAI TEKNOLOJİ YAZILIM LİMİTED ŞİRKETİ | company | KÖRFEZ MAH. 5069 SK. NO: 9A ATAKUM / SAMSUN | +905052084604 | https://uzaiteknoloji.com | 2024-09-17T08:43:16.000Z |
 | Emrah Kara | company | Hamidiye Mahallesi Kartal Sokak Bütünler Apartmanı No:7 Daire:1 | +905522156567 | https://www.serverdata.com.tr | 2024-09-17T08:54:00.000Z |
 | SERVER SİSTEMLERİ BİLİŞİM SAN.TİC.LTD.ŞTİ. | company | Mevlana Mah. Issıkgöl Cad. No:99 K:5 D:74 Gökdemir Plaza Gebze | +905545042981 | https://serversistemleri.com/ | 2024-09-18T20:38:23.000Z |
-| HAKAN ŞENYÜZ | company | dalyan mah marmarlı sk no 51 1 | +908508851689 | https://www.e-ticaretim.net | 2024-09-19T12:37:19.000Z |
 | SAGANETWORK TELEKOMÜNİKASYON ANONİM ŞİRKETİ | company | Atatürk Mah. Bandırma Cad. NO:25/A | +908503035208 | https://saganetwork.net | 2024-09-20T09:35:34.000Z |
 | PNET BİLİŞİM TEKNOLOJİLERİ LTD ŞTİ | company | ÇINARLI MAH. ÖNDER CAD. NO:76 D:8 | +908508851453 | https://www.1lirahosting.com | 2024-09-20T14:10:15.000Z |
 | Emre Polat | company | SULTAN SELİM MAH. ESKİ BÜYÜKDERE CAD. NO: 61 İÇ KAPI NO: 2 KAĞITHANE/ İSTANBUL | +908503072705 | https://bulutpark.com | 2024-09-20T16:27:56.000Z |
@@ -2018,3 +2016,5 @@
 | ERŞAN DAYANKAÇ | company | Hacı Abdi Mah. Sofa Sok. No:40/7 Battalgazi | +904223330112 | https://www.kilitkutu.com | 2024-12-20T14:48:11.000Z |
 | Unitel Bilgi Teknolojileri Sanayi Ve Ticaret Limited Şirketi | company | F. S. M. mah. Poligon cad. No: 8 C / 1 | +902165155005 | https://unitel.com.tr | 2024-12-22T14:54:30.000Z |
 | faruk sürü | company | İnönü, Maslak Çeşme Cd., 34290 Küçükçekmece/İstanbul | +905511801664 | https://www.faruksoft.com/ | 2024-12-23T16:54:24.000Z |
+| HAKAN ŞENYÜZ | company | dalyan mah marmarlı sk no 51 1 | +908508851689 | https://www.e-ticaretim.net | 2024-12-25T16:29:48.000Z |
+| WİBESOFT YAZILIM BİLİŞİM TEKNOLOJİLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ | company | İsmetpaşa Mahallesi Yeni Havra Sokak No: 6 İç Kapı No: 1 Merkez/Çanakkale | +908503095824 | https://www.hostingdunyasi.com | 2024-12-25T20:53:03.000Z |
