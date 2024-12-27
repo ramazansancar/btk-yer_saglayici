@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 2012
+## Kayıt Sayısı: 2011
 
 ### Kaynak: <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -2007,7 +2007,6 @@
 | HİDAYET DEMİR | company | YENİMAHALLE MENDERES CAD. NO:33/A ÇAYIROVA | +902626101180 | https://www.ennetbilisim.com | 2024-12-17T10:26:54.000Z |
 | Mergensoft Yazılım Tasarım Sanayi ve Ticaret Limited Şirketi | company | Kızılay mah. Necatibey cad. 21/37 | +905075447033 | https://mergensoft.com/ | 2024-12-17T11:14:34.000Z |
 | KOÇSİSTEM BİLGİ VE İLETİŞİM HİZMETLERİ A.Ş. | company | ÜNALAN MH. ÇAĞLA SOK. ÇAMLICA İŞ MERKEZİ B3 BLOK ÜSKÜDAR | +902165561100 | https://kocsistem.com.tr | 2024-12-17T15:10:11.000Z |
-| OKSİTWEB BİLİŞİM TEKNOLOJİLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ | company | DEĞİRMİÇEM MAH. NAİL BİLEN CAD. NO: 4 İÇ KAPI NO: 43 ŞEHİTKAMİL | +903426060165 | https://oksitweb.com/ | 2024-12-17T16:37:43.000Z |
 | DURUL ŞİLLİ | company | Hürriyet Mahallesi kar sokak no 11/2 daire 6 Süleymanpaşa | +905444037059 | http://www.tasarim59.com | 2024-12-19T10:50:25.000Z |
 | ODEAWEB BULUT İNTERNET HİZMETLERİ ANONİM ŞİRKETİ | company | NİSBETİYE MAH. AHMET ADNAN SAYGUN CAD. MENEKŞE 1 NO: 8 A BEŞİKTAŞ/ İSTANBUL | +908503033132 | https://www.odeaweb.com | 2024-12-20T09:33:35.000Z |
 | Mustafa Sefa Ayyıldız | company | Beyazşehir, 824. Sk., no: 6/37 Kocasinan/Kayseri | +905464017837 | https://divansunucum.net | 2024-12-20T09:38:15.000Z |
