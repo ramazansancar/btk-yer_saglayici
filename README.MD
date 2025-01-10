@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 2016
+## Kayıt Sayısı: 2017
 
 ### Kaynak: <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -216,9 +216,9 @@
 | YASİN İLKAYA | company | ESENYURT MAH. PORSUK SOK. NO: 5 | +905536633842 | http://ipekhosting.com | 2019-03-13T12:35:36.000Z |
 | LEYLA ÖZLEN | company | KAVAKLI MAHALLESİ YEŞİLYURT CADDESİ NO:6/Z D:2 | +905392165122 | http://powersunucu.com | 2019-03-13T12:35:36.000Z |
 | KAAN YILMAZ | company | ESENEVLER MAHALLESİ 352. SOKAK NO:2 | +903629880203 | http://www.keydijital.net | 2019-03-13T12:35:36.000Z |
-| AYCAN KERPİC | company | PENDİK / İSTANBUL | +905340481028 | www.iskoc.com | 2019-03-13T12:35:37.000Z |
 | MUSTAFA ZEKİ BACAK | company | VİŞNEZADE MAH. SÜLEYMAN SEBA CAD. 79/1 34357 BEŞİKTAŞ | +908503467535 | http://www.bsinternet.com | 2019-03-13T12:35:37.000Z |
 | DAĞHAN VELİ ÇAYIR | company | SARUHAN MH ESKİ MUZE CD 19/B MERKEZ NİĞDE | +905071030701 | http://rabisu.com | 2019-03-13T12:35:37.000Z |
+| AYCAN KERPİC | company | PENDİK / İSTANBUL | +905340481028 | www.iskoc.com | 2019-03-13T12:35:37.000Z |
 | EMRE AKYILDIZ | company | VELİEFENDİ MAHALLESİ 75/2 SOKAK NO:14 DAİRE:2 ZEYTİNBURNU | +908505329116 | http://www.mikrodc.com | 2019-03-13T12:35:37.000Z |
 | YAŞAR ŞAHİN | company | KİRAZLITEPE MAHALLESİ EMRAH SOKAK 11/1 | +902163186229 | https://bluedizayn.com | 2019-03-13T12:35:37.000Z |
 | FIRAT SENEM | company | 59 NOLU KOOP. 1710.CAD NO:5 BATIKENT | +905347713524 | http://www.mezuhost.com | 2019-03-13T12:35:38.000Z |
@@ -1926,12 +1926,10 @@
 | oğuzhan yalnız | company | Turgut Özal Mahallesi, 2192 Sokak 4/D 12 | +905443345274 | https://www.yalniz.net | 2024-12-08T18:56:31.000Z |
 | SFCTEK Bilişim Yazılım ve Telekomünikasyon Hiz. San. ve Tic. LTD. ŞTİ. | company | Çiftlikköy Mah. Mersin Üniversitesi Kampüs Alanı Teknopark No: 35B / Z06 | +908503045041 | https://www.sunucu.al | 2024-12-09T01:52:55.000Z |
 | NAZİM DOĞUKAN ERDİÇ | company | PINARBAŞI MAHALLESİ AKARSU 2 SOKAK NO:13A | +908503054519 | https://www.dehost.com.tr | 2024-12-09T07:30:55.000Z |
-| FARK BİLİŞİM E-TİCARET İTHALAT VE İHRACAT SANAYİ LİMİTED ŞİRKETİ | company | SARAY MH. YUNUS EMRE CD. TEKER APT. NO:50 KAT:1 DAİRE:4 ALANYA / ANTALYA | +902425138005 | https://www.farkbilisim.com | 2024-12-09T16:51:17.000Z |
 | HALİL ÖMER TEKİN | company | Yeşilkent Mh. 2011 Sk. Bina No: 18C | +908502419362 | https://ilinerteknoloji.com/ https://webhostingdunyasi.com | 2024-12-09T17:48:51.000Z |
 | Sercan Arğa | company | Halil Rıfat Paşa Mah. Yüzer Havuz Sok. No:1 İç Kapı No:A/474 Şişli/İstanbul | +905071773757 | https://sercanarga.com | 2024-12-09T19:37:11.000Z |
 | VİTAL TEKNOLOJİ TELEKOMÜNİKASYON BİLG. HİZ. VE SAN. TİC. LTD. ŞTİ. | company | Geçit, Balkar Plaza, 6. Gümüş Sk. No:4 D:Kat 5 Daire 14, 16265 Osmangazi/Bursa | +902244436060 | https://vit.com.tr | 2024-12-09T21:44:32.000Z |
 | MS TEKNOLOJI TIC.LTD.STI | company | Esentepe Mh.Kelebek Sk.No:2/24 | +908505326700 | https://www.ms.net.tr | 2024-12-10T14:46:55.000Z |
-| METSA BİLİŞİM TİCARET VE LİMİTED ŞİRKETİ | company | BARBAROS MAH. KARAGÖL CAD. BIRLIK APT NO: 24 IÇ KAPI NO: 5 ÇUBUK/ ANKARA | +908503078014 | https://www.metbi.net/ | 2024-12-10T17:24:40.000Z |
 | BİROL KOÇ | company | AKSU MAHALLESİ PAZAR CADDESİ NO:58/A | +905466382800 | http://www.liderhost.com.tr | 2024-12-10T20:13:46.000Z |
 | İnteralan Bilişim A.Ş. | company | Prof. Dr. Ahmet Taner Kışlalı Mah. 2873 Cad. Ulucan Sit. No:3 İç Kapı No:5 Çankaya | +908508850222 | https://interalan.com | 2024-12-10T22:01:27.000Z |
 | ARDA ALTAY | company | MEVLANA MH.YILDIRIM BEYAZIT CD. NO :11/33 34515 ESENYURT | +908503098594 | http://www.fortezza.com.tr | 2024-12-10T23:21:54.000Z |
@@ -2022,3 +2020,6 @@
 | SKY ATLAS İLETİŞİM SANAYİ VE TİCARET ANONİM ŞİRKETİ | company | YTÜ DAVUTPAŞA KAMPÜSÜ TEKNOPARK D2 107 ESENLER 34220 | +908508850357 | http://www.skyatlas.com | 2025-01-08T10:52:54.000Z |
 | necmi taban | company | MERKEZ MAH. GEYİK SK. LALE APT NO: 3 İÇ KAPI NO: 8 GÜNGÖREN | +908505540701 | https://hazalhost.com/ | 2025-01-08T19:12:21.000Z |
 | ŞÜKRÜ AK | company | Ziya Gökalp Mh. Süleyman Demirel Bulvarı Mall Of İstanbul Kat:17 D:136 Başakşehir | +905365741672 | https://www.akwebhostingi.com | 2025-01-09T01:43:01.000Z |
+| NETTA COMPANY BİLİŞİM ANONİM ŞİRKETİ | company | SÜMER MAH. PROF. DR. TURAN GÜNEŞ CAD. DENIZ ATI A-2 BLOK NO: 37 İÇ KAPI NO: 12 ZEYTİNBURNU/ İSTANBUL | +908505325260 | https://nettacompany.com | 2025-01-09T14:57:26.000Z |
+| METSA BİLİŞİM TİCARET VE LİMİTED ŞİRKETİ | company | BARBAROS MAH. KARAGÖL CAD. BIRLIK APT NO: 24 IÇ KAPI NO: 5 ÇUBUK/ ANKARA | +908503078014 | https://www.metbi.net/ | 2025-01-09T16:58:09.000Z |
+| FARK BİLİŞİM E-TİCARET İTHALAT VE İHRACAT SANAYİ LİMİTED ŞİRKETİ | company | SARAY MH. YUNUS EMRE CD. TEKER APT. NO:50 KAT:1 DAİRE:4 ALANYA / ANTALYA | +902425138005 | https://www.farkbilisim.com | 2025-01-09T21:57:53.000Z |
