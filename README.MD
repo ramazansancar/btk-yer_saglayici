@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 2017
+## Kayıt Sayısı: 2016
 
 ### Kaynak: <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -1892,7 +1892,6 @@
 | Sıraç Oto Kiralama Bilgisayar İnşaat Sanayi ve Ticaret Limited Şirketi | company | İnönü Mah. Ordu Caddesi Ordu Çarşısı No:29 Kat:1/111 | +904462244624 | https://www.erzincanwebtasarim.com/ | 2024-11-20T10:56:05.000Z |
 | SAMET GİRGİNER | company | HAMİDİYE MAH. RÜŞTİYE CD. C BLOK NO: 26 DAİRE: 2 MUSTAFAKEMALPAŞA/BURSA | +908503027035 | https://sunucumburada.com | 2024-11-21T11:51:57.000Z |
 | idris Aghamammadov | company | Mehmet akif 326 sokak 93/3 Küçükçekmece | +905446106455 | https://b4cloud.com.tr | 2024-11-21T11:53:43.000Z |
-| Cemal Turgut Aldemir | company | SARAYCIK MAH. 2433 CAD. NO: 1 /19 İÇ KAPI NO: 2 SİNCAN/ ANKARA | +905536632403 | https://netzoda.com/ | 2024-11-21T11:58:53.000Z |
 | PD PROF YAZILIM VE BİLİŞİM TEKNOLOJİLERİ LİMİTED ŞİRKETİ | company | SÖĞÜTLÜ MAH. İSTANBUL PASAJI SK. NO: 1 İÇ KAPI NO: 15 MERKEZ/ IĞDIR | +908502423505 | https://pdhosting.com.tr | 2024-11-21T18:05:23.000Z |
 | Songül Gök | company | Alanya Mahmutlar Mahallesi atatürk caddesi Toros 1 | +905418148825 | https://darkhost.com.tr | 2024-11-21T18:27:38.000Z |
 | EGEDATACENTER BİLİŞİM TEKNOLOJİLERİ SAN. TİC. LTD. ŞTİ | company | K.Çiğli mh. 8708/1 sok. NO:1/1 Kat:2 Daire:4 Çiğli | +902324251960 | http://www.egedatacenter.net | 2024-11-21T22:23:49.000Z |
