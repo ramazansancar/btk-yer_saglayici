@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 2021
+## Kayıt Sayısı: 2020
 
 ### Kaynak: <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -1607,7 +1607,6 @@
 | Yiğiter SALMAN | company | Yeni Mahalle 2071 Sokak No:1/10 | +908505504554 | https://hensoft.com.tr | 2024-01-17T10:02:07.000Z |
 | MÜCAHİD SELVİ | company | SERDAR MH. EMİR SULTAN CD. KUBA SK. KUBA APT. B BLOK | +902623423411 | https://www.yaztekteknoloji.com.tr | 2024-01-18T14:27:08.000Z |
 | MUHAMMED KURUM | company | YAKUPLU MAHALLESİ 46. SOKAK NO:34 D:15 BEYLİKDÜZÜ | +905398650503 | https://softruct.com | 2024-01-23T10:05:03.000Z |
-| TECHLAPS TEKNOLOJİ VE TİCARET A.Ş. | company | Zümrütevler Mahallesi, Eski Üsküdar Caddesi, Ural Sokak, No:11 34852 Maltepe, İstanbul | +902165892734 | https://techlaps.net | 2024-01-25T08:49:27.000Z |
 | Kaan BOZKURT | company | Mevlana mahallesi Çayır Sokak no:2/30 | +905468111479 | https://www.sadeceserver.com | 2024-01-25T15:07:33.000Z |
 | İsmet Çağrı Çukurlu | company | Halkalı Merkez Mah. Dereboyu Cad. No: 4 Antplato A+ Office Kat: 8 Ofis: 62, Antplato A+ Office Kat: 3 Ofis: 22 Küçükçekmece | +905323642912 | https://www.wookweb.com | 2024-01-29T10:46:19.000Z |
 | Cem Koray SOYSAL | company | Hamidiye mah. Uğur Mumcu Cad. Park O'live Evleri d2 16 | +905524361985 | https://datakale.net | 2024-01-29T11:12:49.000Z |
@@ -1868,7 +1867,6 @@
 | Taha Yasin Arkadaş | company | DURUCASU MAH. DURUCASU CUMHURİYET 1 SK. NO: 2 YAZIHAN/ MALATYA | +905330351705 | https://tya.com.tr | 2024-11-05T10:37:14.000Z |
 | Teknosos Bilişim Hizmetleri Ve Ticaret Limited Şirketi | company | Tarım Mah. Perge Blv. C Blok İş Merkezi No: 13 İç Kapı No: 106 Muratpaşa/ Antalya | +908508853682 | https://teknosos.com.tr/ | 2024-11-05T11:34:06.000Z |
 | Ömer Ayvaz | company | MECİDİYEKÖY MAH. SELAHATTİN PINAR ARALIĞI SK. HÜSEYIN ÖZER IŞ MERKEZI NO: 3 İÇ KAPI NO: 8 | +908503708812 | https://sosyohost.com | 2024-11-05T11:40:06.000Z |
-| SİBERDİZAYN BİLİŞİM TEKNOLOJİLERİ ANONİM ŞİRKETİ | company | KEÇECİ MAH. 190 CAD. NO: 54 | +908508850332 | https://www.siberdizayn.com.tr | 2024-11-05T13:22:59.000Z |
 | EKİPHOST BİLİŞİM TEKNOLOJİLERİ SAN. TIC. LTD. ŞTİ. | company | GÖZTEPE MAH. BATIŞEHİR CAD. BATIŞEHİR SİTESİ K BLOK NO: 2/2 İÇ KAPI NO: 115 BAĞCILAR | +908503029805 | https://ekiphost.com | 2024-11-05T13:59:41.000Z |
 | HASAN USTAOĞLU | company | Kuzeykent Mah. Karayılan Sk. No:1A/31 İŞGEM | +903665022606 | https://ustbilisim.com.tr/ | 2024-11-06T10:27:17.000Z |
 | VERİYUM TEKNOLOJİ A.Ş. | company | HİLAL MH. CEZAYİR CAD. NO: 15/A ÇANKAYA | +903124722233 | https://www.vr.net.tr | 2024-11-06T10:30:58.000Z |
@@ -2027,3 +2025,4 @@
 | irfan üçer | company | Yenişehir Mah. Dursun Özdemir Sk. | +905444526326 | https://forqua.com.tr | 2025-01-16T10:49:34.000Z |
 | Ewosis Elektronik Hizmetler Ticaret Limited Şirketi | company | ŞEHİT MUHTAR MAH. MİS SK. NO: 24 İÇ KAPI NO: 28 | +905396997352 | https://ewosis.net | 2025-01-16T11:09:04.000Z |
 | KOÇSİSTEM BİLGİ VE İLETİŞİM HİZMETLERİ A.Ş. | company | ÜNALAN MH. ÇAĞLA SOK. ÇAMLICA İŞ MERKEZİ B3 BLOK ÜSKÜDAR | +902165561100 | https://kocsistem.com.tr | 2025-01-16T14:42:01.000Z |
+| SİBERDİZAYN BİLİŞİM TEKNOLOJİLERİ ANONİM ŞİRKETİ | company | KEÇECİ MAH. 190 CAD. NO: 54 | +908508850332 | https://www.siberdizayn.com.tr | 2025-01-18T14:32:23.000Z |
