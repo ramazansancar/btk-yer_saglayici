@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 2020
+## Kayıt Sayısı: 2019
 
 ### Kaynak: <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -1514,7 +1514,6 @@
 | EFE CAN BÜYÜKKABAKÇI | company | MERKEZ MAH. HASTANE SK. AYŞEGÜL APT NO: 9 B, GAZİOSMANPAŞA/ İSTANBUL | +905455967329 | https://softsunucum.com.tr | 2023-09-28T09:04:59.000Z |
 | NOVA HABERLEŞME UYDU SIS.GÜV.MED.İNTERNET HIZMETLERI TIC.SANLTD.ŞTI. | company | Camikebir Mh. Ulu Sk. No:4 Tashan K:10 Melikgazi | +908503020220 | https://organiktrafik.com.tr/ | 2023-10-03T15:46:25.000Z |
 | Kerim aksanaoğlu | company | ESENTEPE MAH. KESKİN KALEM SK. ARYA PLAZA NO: 17 İÇ KAPI NO: 2 ŞİŞLİ/ İSTANBUL | +905389724767 | https://jushost.net | 2023-10-03T16:37:00.000Z |
-| Erdem Uzun | company | Kartaltepe mahallesi saydam sokak no:6 kat:2 | +908503094596 | https://sourcebilisim.com | 2023-10-03T16:40:16.000Z |
 | Emirhan Akgül | company | Halıkent Mah. 5206 Sokak Gültur Sitesi G Blok Kat 5 Daire17 | +905423300807 | https://elinsoft.com | 2023-10-04T02:52:53.000Z |
 | Ajannet Bilişim Hizmetleri Sanayi ve Ticaret Ltd Şti. | company | Oruç Reis mah. Giyimkent sitesi İdris Nebi Cad. 9.Sokak No :17/A 34235 Esenler | +902123203030 | https://ajan.net | 2023-10-04T16:42:24.000Z |
 | KORP Yazılım ve Bilgi Teknolojileri Limited Şirketi | company | Beşevler Mahallesi Yıldırım Caddesi 274/1C | +908508889060 | https://www.korpcloud.com | 2023-10-05T20:25:46.000Z |
