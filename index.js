@@ -44,6 +44,13 @@ String.prototype.replaceAll = function (search, replacement) {
   return target.split(search).join(replacement);
 };
 
+const nullCheck = (value) => {
+  if (value === null || value === undefined || value === "null" || value === "undefined" || value === "") {
+    return "";
+  }
+  return value;
+};
+
 // Base URL: https://www.btk.gov.tr/web-api/contentprovider/company?lang=tr&page=1
 
 const fetchCompanies = async (page) => {
@@ -75,10 +82,11 @@ const fetchCompanies = async (page) => {
         ...allowLegacyRenegotiation,
       }
     )
-    .then((resp) => {
-      let response = resp.data;
-      count = response.stats.total;
-      console.info(`Fetched ${response.data.length} companies from page ${page}. Total count: ${count}`);
+    .then(async (resp) => {
+      let response = resp?.data;
+      count = response?.stats?.total;
+      console.info(`Fetched ${response?.data?.length} companies from page ${page}. Total count: ${count}`);
+      await new Promise((resolve) => setTimeout(resolve, 200));
       return response.data;
     })
     .catch((err) => {
@@ -94,15 +102,47 @@ const fetchCompanies = async (page) => {
 const fetchAllCompanies = async () => {
   let page = 1;
   let response = await fetchCompanies(page);
-  if(response === undefined) response = await fetchCompanies(page);
-  companies = [...companies, ...response];
-  while (response.length > 0) {
-    page++;
+  if(response !== undefined){
+    companies = [...companies, ...response];
+  }else{
     response = await fetchCompanies(page);
+  }
+  if(response !== undefined){
     companies = [...companies, ...response];
   }
+  while (response?.length > 0) {
+    page++;
+    response = await fetchCompanies(page);
+    if(response !== undefined){
+      companies = [...companies, ...response];
+    }else{
+      response = await fetchCompanies(page);
+    }
+  }
   writeFile("raw_companies.json", JSON.stringify(companies, null, 2));
+  if(companies.length === 0){
+    console.error("Companies could not be fetched.");
+    return;
+  }
   companies = companies.map((item) => {
+    // Null check
+    item.company = nullCheck(item.company);
+    item.address = nullCheck(item.address);
+    item.type = nullCheck(item.type);
+    item.phone = nullCheck(item.phone);
+    item.fax = nullCheck(item.fax);
+    item.web = nullCheck(item.web);
+    
+    if(
+      item.company === null ||
+      item.address === null ||
+      item.type === null ||
+      item.phone === null ||
+      item.fax === null ||
+      item.web === null
+    ){
+      return null;
+    }
     (item.address.includes('|')) ? item.address = item.address.replace('|', ' ') : item.address = item.address;
     (item.web.split('&')) ? item.web = item.web.split('&').join(' ') : item.web = item.web;
     (item.web.split(';')) ? item.web = item.web.split(';').join(' ') : item.web = item.web;
@@ -150,8 +190,12 @@ const fetchAllCompanies = async () => {
     return item;
   });
 
-  companies.sort((a, b) => {
+  /*companies.sort((a, b) => {
     return new Date(a.approve_date) - new Date(b.approve_date);
+  });*/
+  companies = companies.filter((item) => item !== null);
+  companies.sort((a, b) => {
+    return a.company.localeCompare(b.company);
   });
   await new Promise((resolve) => setTimeout(resolve, 1000));
 
