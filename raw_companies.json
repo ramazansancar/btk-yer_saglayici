@@ -1,6 +1,686 @@
 [
   {
-    "id": 4223958,
+    "id": 4226500,
+    "company": "Gizem Kıvanç",
+    "address": "ATA MAH 3498. CAD SERMINA LİFE C BLOK NO:1 C İÇ KAPI NO:23 YENİMAHALLE/ANKARA",
+    "type": "company",
+    "fax": "",
+    "phone": "8503088471",
+    "web": "https://www.upgradebilisim.com.tr/",
+    "approve_date": "2023-06-07 13:46:52+03"
+  },
+  {
+    "id": 4226501,
+    "company": "KOBİZON PROJE DANIŞMANLIK VE YAZILIM TİC.LTD.ŞTİ ",
+    "address": "ÇINARTEPE MAH ADNAN MENDERES CAD 91/C İÇ KAPI NO 15",
+    "type": "company",
+    "fax": "",
+    "phone": "05333089353",
+    "web": "https://kobizon.com.tr/",
+    "approve_date": "2022-08-04 10:03:26+03"
+  },
+  {
+    "id": 4226502,
+    "company": "Hop İnternet Mağazacılığı İç ve Dış Tic. Ltd. ",
+    "address": "Mahmutbey Mh. 2416 SK. ZE Plaza F Blok 8A Bağcılar",
+    "type": "company",
+    "fax": "2129099780",
+    "phone": "2129099770",
+    "web": "https://jumboserver.com",
+    "approve_date": "2022-08-10 19:27:09+03"
+  },
+  {
+    "id": 4226503,
+    "company": "ECEM AYRAL",
+    "address": "FAHRİ KORUTÜRK MAH. ŞEHİTLER CAD. 42/9 ECE APT MAMAK/ANKARA",
+    "type": "company",
+    "fax": "8508409028",
+    "phone": "8508409028",
+    "web": "https://hostsatis.com/",
+    "approve_date": "2022-08-04 09:55:58+03"
+  },
+  {
+    "id": 4226504,
+    "company": "Muhammed Furkan BABUR",
+    "address": "Murat Reis Mh. Selamet Sk. No:9 Üsküdar/İstanbul",
+    "type": "company",
+    "fax": "",
+    "phone": "905316811100",
+    "web": "https://bulutup.com/",
+    "approve_date": "2023-12-01 14:28:27+03"
+  },
+  {
+    "id": 4226505,
+    "company": "Ali Emre Öz",
+    "address": "Gülbahar Mah. Salih Tozan Sok. No:23",
+    "type": "company",
+    "fax": "",
+    "phone": "05491692004",
+    "web": "https://honesthosting.com.tr",
+    "approve_date": "2023-09-22 09:59:05+03"
+  },
+  {
+    "id": 4226506,
+    "company": "YAKAR BİLİŞİM YAZILIM SANAYİ VE TİC. LTD. ŞTİ ",
+    "address": "Efendibey Mah. Mimarsinan Sok. ND6-10B NO 14",
+    "type": "company",
+    "fax": "",
+    "phone": "8503043972",
+    "web": "https://hosturo.com.tr",
+    "approve_date": "2023-05-03 09:14:05+03"
+  },
+  {
+    "id": 4226507,
+    "company": "Mustafa Çakır",
+    "address": "Hasanbey Mahallesi Sokullu Sokak NO : 16 ",
+    "type": "company",
+    "fax": "",
+    "phone": "8503088745",
+    "web": "https://sunucumweb.com/",
+    "approve_date": "2024-08-12 10:27:15+03"
+  },
+  {
+    "id": 4226508,
+    "company": "Ali DÜZEN",
+    "address": "ADATEPE MAH. 3/18 SK. S.S.EGETEKS.KOOP NO: 2 G BUCA/ İZMİR",
+    "type": "company",
+    "fax": "",
+    "phone": "8503088992",
+    "web": "https://www.clouduck.com.tr",
+    "approve_date": "2022-09-16 15:54:56+03"
+  },
+  {
+    "id": 4226509,
+    "company": "MARKABULUT İNTERNET TELEKOMÜNİKASYON LİMİTED ŞİRKETİ ",
+    "address": "KINIKLI MAH. FAKÜLTE CAD. NO: 30 /1 İÇ KAPI NO: 5 PAMUKKALE/ DENİZLİ",
+    "type": "company",
+    "fax": "",
+    "phone": "05544669909",
+    "web": "https://www.markabulut.com",
+    "approve_date": "2023-04-06 09:35:17+03"
+  },
+  {
+    "id": 4226500,
+    "company": "Gizem Kıvanç",
+    "address": "ATA MAH 3498. CAD SERMINA LİFE C BLOK NO:1 C İÇ KAPI NO:23 YENİMAHALLE/ANKARA",
+    "type": "company",
+    "fax": "",
+    "phone": "8503088471",
+    "web": "https://www.upgradebilisim.com.tr/",
+    "approve_date": "2023-06-07 13:46:52+03"
+  },
+  {
+    "id": 4226501,
+    "company": "KOBİZON PROJE DANIŞMANLIK VE YAZILIM TİC.LTD.ŞTİ ",
+    "address": "ÇINARTEPE MAH ADNAN MENDERES CAD 91/C İÇ KAPI NO 15",
+    "type": "company",
+    "fax": "",
+    "phone": "05333089353",
+    "web": "https://kobizon.com.tr/",
+    "approve_date": "2022-08-04 10:03:26+03"
+  },
+  {
+    "id": 4226502,
+    "company": "Hop İnternet Mağazacılığı İç ve Dış Tic. Ltd. ",
+    "address": "Mahmutbey Mh. 2416 SK. ZE Plaza F Blok 8A Bağcılar",
+    "type": "company",
+    "fax": "2129099780",
+    "phone": "2129099770",
+    "web": "https://jumboserver.com",
+    "approve_date": "2022-08-10 19:27:09+03"
+  },
+  {
+    "id": 4226503,
+    "company": "ECEM AYRAL",
+    "address": "FAHRİ KORUTÜRK MAH. ŞEHİTLER CAD. 42/9 ECE APT MAMAK/ANKARA",
+    "type": "company",
+    "fax": "8508409028",
+    "phone": "8508409028",
+    "web": "https://hostsatis.com/",
+    "approve_date": "2022-08-04 09:55:58+03"
+  },
+  {
+    "id": 4226504,
+    "company": "Muhammed Furkan BABUR",
+    "address": "Murat Reis Mh. Selamet Sk. No:9 Üsküdar/İstanbul",
+    "type": "company",
+    "fax": "",
+    "phone": "905316811100",
+    "web": "https://bulutup.com/",
+    "approve_date": "2023-12-01 14:28:27+03"
+  },
+  {
+    "id": 4226505,
+    "company": "Ali Emre Öz",
+    "address": "Gülbahar Mah. Salih Tozan Sok. No:23",
+    "type": "company",
+    "fax": "",
+    "phone": "05491692004",
+    "web": "https://honesthosting.com.tr",
+    "approve_date": "2023-09-22 09:59:05+03"
+  },
+  {
+    "id": 4226506,
+    "company": "YAKAR BİLİŞİM YAZILIM SANAYİ VE TİC. LTD. ŞTİ ",
+    "address": "Efendibey Mah. Mimarsinan Sok. ND6-10B NO 14",
+    "type": "company",
+    "fax": "",
+    "phone": "8503043972",
+    "web": "https://hosturo.com.tr",
+    "approve_date": "2023-05-03 09:14:05+03"
+  },
+  {
+    "id": 4226507,
+    "company": "Mustafa Çakır",
+    "address": "Hasanbey Mahallesi Sokullu Sokak NO : 16 ",
+    "type": "company",
+    "fax": "",
+    "phone": "8503088745",
+    "web": "https://sunucumweb.com/",
+    "approve_date": "2024-08-12 10:27:15+03"
+  },
+  {
+    "id": 4226508,
+    "company": "Ali DÜZEN",
+    "address": "ADATEPE MAH. 3/18 SK. S.S.EGETEKS.KOOP NO: 2 G BUCA/ İZMİR",
+    "type": "company",
+    "fax": "",
+    "phone": "8503088992",
+    "web": "https://www.clouduck.com.tr",
+    "approve_date": "2022-09-16 15:54:56+03"
+  },
+  {
+    "id": 4226509,
+    "company": "MARKABULUT İNTERNET TELEKOMÜNİKASYON LİMİTED ŞİRKETİ ",
+    "address": "KINIKLI MAH. FAKÜLTE CAD. NO: 30 /1 İÇ KAPI NO: 5 PAMUKKALE/ DENİZLİ",
+    "type": "company",
+    "fax": "",
+    "phone": "05544669909",
+    "web": "https://www.markabulut.com",
+    "approve_date": "2023-04-06 09:35:17+03"
+  },
+  {
+    "id": 4226510,
+    "company": "METİN DEMİRYÜREKLİ",
+    "address": "ALACAMESCİT MH. GÜMÜŞÇEKEN CD ONUR İŞHANI NO:22/27 OSMANGAZİ",
+    "type": "company",
+    "fax": "2242246686",
+    "phone": "5362596686",
+    "web": "http://www.kozainteraktif.com",
+    "approve_date": "2022-12-05 10:58:18+03"
+  },
+  {
+    "id": 4226511,
+    "company": "Mutsev Bilişim San. Tic. Ltd. Şti. ",
+    "address": "Yurt Mah. Kurttepe Cad. Burak Apt. No:28/1",
+    "type": "company",
+    "fax": "",
+    "phone": "3224321111",
+    "web": "https://www.mutsev.com",
+    "approve_date": "2022-10-11 09:34:51+03"
+  },
+  {
+    "id": 4226512,
+    "company": "4M DİJİTAL DÖNÜŞÜM VE DANIŞMANLIK LTD. ŞTİ. ",
+    "address": "Mustafa Kemal Mah. Dumlupınar Bulvr. No:266C İç Kapı No:56 Çankaya",
+    "type": "company",
+    "fax": "-",
+    "phone": "3124860221",
+    "web": "http://www.4mtodigital.com",
+    "approve_date": "2022-08-31 16:11:10+03"
+  },
+  {
+    "id": 4226513,
+    "company": "Batuhan Yüksel",
+    "address": "HAVUZLAR MAH. MEHTERAN CAD. NO: 1 İÇ KAPI NO: 12 ÇORLU/ TEKİRDAĞ",
+    "type": "company",
+    "fax": "",
+    "phone": "8502411497",
+    "web": "https://webvosoft.com",
+    "approve_date": "2022-08-26 17:28:41+03"
+  },
+  {
+    "id": 4226514,
+    "company": "Burkay ARAÇ",
+    "address": "Akkent Mh. 6.Ak Sokak No:8 C1-1 D:36 Kütahya/Merkez",
+    "type": "company",
+    "fax": "",
+    "phone": "8503091971",
+    "web": "https://www.servertize.com",
+    "approve_date": "2024-07-19 10:34:21+03"
+  },
+  {
+    "id": 4226515,
+    "company": "BULUTNET TEKNOLOJİ ANONİM ŞİRKETİ ",
+    "address": "KAZIMDİRİK MAH. ÜNİVERSİTE CAD. NO: 116 İÇ KAPI NO: 75",
+    "type": "company",
+    "fax": "",
+    "phone": "8503076544",
+    "web": "https://bulutnet.com",
+    "approve_date": "2022-12-08 09:45:38+03"
+  },
+  {
+    "id": 4226516,
+    "company": "KORP Yazılım ve Bilgi Teknolojileri Limited Şirketi ",
+    "address": "Beşevler Mahallesi Yıldırım Caddesi 274/1C",
+    "type": "company",
+    "fax": "",
+    "phone": "8508889060",
+    "web": "https://www.korpcloud.com",
+    "approve_date": "2023-10-05 20:25:46+03"
+  },
+  {
+    "id": 4226517,
+    "company": "OZAN ÖZ",
+    "address": "100. YIL MAH. 2121 SOK. 25/4 BAĞCILAR ",
+    "type": "company",
+    "fax": "2129099686",
+    "phone": "2129099686",
+    "web": "http://sonyazilim.net",
+    "approve_date": "2025-03-02 18:36:43+03"
+  },
+  {
+    "id": 4226518,
+    "company": "NURHAN AKYÜZ",
+    "address": "Bağlık Mah. Şair Abay Kunanbay Sk. No:14/A",
+    "type": "company",
+    "fax": "",
+    "phone": "8502593367",
+    "web": "https://www.dcnet.com.tr",
+    "approve_date": "2024-06-24 14:28:21+03"
+  },
+  {
+    "id": 4226519,
+    "company": "Taha Ege Aydın",
+    "address": "Askent Sok. 1/C D:28 Ataşehir",
+    "type": "company",
+    "fax": "",
+    "phone": "5059280907",
+    "web": "https://gyrohosting.com",
+    "approve_date": "2024-11-08 12:56:41+03"
+  },
+  {
+    "id": 4226520,
+    "company": "Z4M Medya Bilişim Teknolojileri İnşaat Turizm A.Ş. ",
+    "address": "Seyrantepe Mah. Yayıncılar Sok. No:2/19",
+    "type": "company",
+    "fax": "",
+    "phone": "8505320192",
+    "web": "https://z4mmedya.com",
+    "approve_date": "2022-09-09 16:21:56+03"
+  },
+  {
+    "id": 4226521,
+    "company": "Güney AKTAŞ",
+    "address": "KEMERALTI MAHALLESİ ESKİ DATCA YOLU CADDESİ SEDAT ASLAN APARTMANI NO:77/6",
+    "type": "company",
+    "fax": "",
+    "phone": "+905367701327",
+    "web": "https://www.exoras.com.tr/",
+    "approve_date": "2023-05-12 09:52:07+03"
+  },
+  {
+    "id": 4226522,
+    "company": "ercan yüren",
+    "address": "zafer mahallesi 4301 sokak no:86 d:2",
+    "type": "company",
+    "fax": "",
+    "phone": "5554070606",
+    "web": "https://canbulut.com",
+    "approve_date": "2022-09-22 16:08:40+03"
+  },
+  {
+    "id": 4226523,
+    "company": "ATİS TEKNOLOJİ BİLİŞİM MEDİKAL İNŞAAT DANIŞMANLIK SANAYİ VE TİCARET LİMİTED ŞİRKETİ ",
+    "address": "YENİBAĞLAR MAH. İSMETİNÖNÜ-1.CAD. NO:140 KAPI NO:30 TEPEBAŞI /ESKİŞEHİR",
+    "type": "company",
+    "fax": "",
+    "phone": "05335592669",
+    "web": "https://jokerhost.com/",
+    "approve_date": "2023-05-05 15:23:18+03"
+  },
+  {
+    "id": 4226524,
+    "company": "SELAHADDİN SIRAÇ GİRGİN",
+    "address": "TORBALI MAHALLESİ 5014 SOKAK",
+    "type": "company",
+    "fax": "8508404935",
+    "phone": "8508404935",
+    "web": "https://turkdb.com.tr",
+    "approve_date": "2023-09-06 15:27:07+03"
+  },
+  {
+    "id": 4226525,
+    "company": "arife  uyar kaçmaz",
+    "address": "gerzele mh yeşilvadi cd no 23 d2",
+    "type": "company",
+    "fax": "",
+    "phone": "5324655611",
+    "web": "https://www.uzman.net.tr",
+    "approve_date": "2023-12-16 18:14:43+03"
+  },
+  {
+    "id": 4226526,
+    "company": "OXIT BİLİŞİM TEKNOLOJİLERİ LTD.ŞTİ. ",
+    "address": "İvedik OSB Mah. 2224. Cadde No:1/221 Yenimahalle/ANKARA",
+    "type": "company",
+    "fax": "",
+    "phone": "8503463462",
+    "web": "https://www.oxit.com.tr",
+    "approve_date": "2023-09-18 17:25:07+03"
+  },
+  {
+    "id": 4226527,
+    "company": "Kerem Emre Örer",
+    "address": "sultançiftliği mahallesi 179. Sokak no 24 daire 13",
+    "type": "company",
+    "fax": "",
+    "phone": "05076789195",
+    "web": "https://www.netlack.com",
+    "approve_date": "2025-02-01 08:33:46+03"
+  },
+  {
+    "id": 4226528,
+    "company": "Furkan Gültekin",
+    "address": "Şahintepe mah. 3132 sk. no:4 d:1 Sarıçam/Adana",
+    "type": "company",
+    "fax": "",
+    "phone": "05342239091",
+    "web": "https://turkclouds.com",
+    "approve_date": "2023-08-04 14:57:56+03"
+  },
+  {
+    "id": 4226529,
+    "company": "Murat Zengin",
+    "address": "İNÖNÜ MAH. DENİZATI SK. B BLOK NO: 2 B İÇ KAPI NO: 4 ATAŞEHRİ",
+    "type": "company",
+    "fax": "",
+    "phone": "8503047134",
+    "web": "https://sadehost.com/",
+    "approve_date": "2023-11-09 10:35:31+03"
+  },
+  {
+    "id": 4226530,
+    "company": " Netuv Bilişim A.Ş. ",
+    "address": "Esenler Mahallesi, Gözde Sokak, Mete İş Merkezi, No: 14, Kat: 2 - Pendik",
+    "type": "company",
+    "fax": "8503048763",
+    "phone": "2163868763",
+    "web": "https://netuv.com",
+    "approve_date": "2022-09-27 16:11:56+03"
+  },
+  {
+    "id": 4226531,
+    "company": "NETFACTOR TELEKOMİNİKASYON VE TEKNOLOJİ HİZMETLERİ A.Ş. ",
+    "address": "Mahir İz Cad. No 28 B1 Altunizade",
+    "type": "company",
+    "fax": "2164749979",
+    "phone": "2164742424",
+    "web": "https://www.netfactor.com.tr/",
+    "approve_date": "2025-03-01 11:15:00+03"
+  },
+  {
+    "id": 4226532,
+    "company": " İş Net Elektronik Bilgi Üretim Dağıtım Ticaret ve İletişim Hizmetleri AŞ  ",
+    "address": " İçmeler Mah. Piri Reis Cd. No: 62 Türkiye İş Bankası Tuzla Teknoloji ve Operasyon Merkezi D Blok Tuzla/İstanbul ",
+    "type": "company",
+    "fax": "2165147350",
+    "phone": "8502902255",
+    "web": "http://www.isnet.net.tr",
+    "approve_date": "2025-03-05 15:03:44+03"
+  },
+  {
+    "id": 4226533,
+    "company": "WNM Yazılım Limited Şirketi  ",
+    "address": "Çamçeşme Mahallesi Coşkun Sokak No:4/2",
+    "type": "company",
+    "fax": "",
+    "phone": "2163968080",
+    "web": "https://wnm.com.tr",
+    "approve_date": "2025-03-18 10:39:34+03"
+  },
+  {
+    "id": 4226534,
+    "company": "yusuf berke akkaya",
+    "address": "MERKEZ MAH. NAMIK KEMAL CAD. KAYTAZOĞLU APT. KAYTAZOĞLU APT. Kapı No:26 A/ AVCILAR-İSTANBUL",
+    "type": "company",
+    "fax": "",
+    "phone": "05396489465",
+    "web": "https://www.burnhost.com.tr",
+    "approve_date": "2023-03-06 14:40:58+03"
+  },
+  {
+    "id": 4226535,
+    "company": "Erdem Özyurt",
+    "address": "Hızırtepe Mahallesi Sadık Sokak No:26 / Adapazarı",
+    "type": "company",
+    "fax": "",
+    "phone": "05392941916",
+    "web": "https://siberkale.com",
+    "approve_date": "2025-02-14 10:54:09+03"
+  },
+  {
+    "id": 4226536,
+    "company": "DENİZSOFT BİLGİSAYAR VE YAZILIM HİZMETLERİ İÇ VE DIŞ TİCARET LTD ŞTİ ",
+    "address": "PERPA TIC MER A BLOK KAT 13 NO 1993 ",
+    "type": "company",
+    "fax": "",
+    "phone": "8505770574",
+    "web": "https://www.denizsoft.com.tr",
+    "approve_date": "2023-05-06 19:42:35+03"
+  },
+  {
+    "id": 4226537,
+    "company": "BURCU ŞENGÜL",
+    "address": "Atatürk mahallesi 327. Sokak no 5 daire 3",
+    "type": "company",
+    "fax": "",
+    "phone": "05370534559",
+    "web": "https://www.daramahost.net",
+    "approve_date": "2023-11-30 15:31:50+03"
+  },
+  {
+    "id": 4226538,
+    "company": "Ömer Ayvaz",
+    "address": " MECİDİYEKÖY MAH. SELAHATTİN PINAR ARALIĞI SK.  HÜSEYIN ÖZER IŞ MERKEZI NO: 3 İÇ KAPI NO: 8 ",
+    "type": "company",
+    "fax": "",
+    "phone": "8503708812",
+    "web": "https://sosyohost.com",
+    "approve_date": "2024-11-05 11:40:06+03"
+  },
+  {
+    "id": 4226539,
+    "company": "GAZANFER SÜTÇÜ",
+    "address": "TÜRKÖZÜ MAH. 437 CAD. 11/5",
+    "type": "company",
+    "fax": "",
+    "phone": "8503096750",
+    "web": "https://rost.net.tr/",
+    "approve_date": "2023-11-07 10:59:12+03"
+  },
+  {
+    "id": 4226540,
+    "company": "ALTINSOFT BİLİŞİM TEKNOLOJİLERİ TİC. LTD. ŞTİ. ",
+    "address": "Fevzi çakmak mah. Gazi Mustafa Kemal Bulvarı No:30 Veli Abalı Apt. D:8 Babaeski",
+    "type": "company",
+    "fax": "8503038159",
+    "phone": "8503038159",
+    "web": "https://www.altinsoft.com",
+    "approve_date": "2022-10-05 09:33:44+03"
+  },
+  {
+    "id": 4226541,
+    "company": "SURVIVOR Bilişim Teknolojileri A.Ş. ",
+    "address": "Bağlarbaşı Mh. Feyzullah Cd. No 107/A",
+    "type": "company",
+    "fax": "",
+    "phone": "8508406452",
+    "web": "https://www.survivor.com.tr",
+    "approve_date": "2024-03-27 09:03:32+03"
+  },
+  {
+    "id": 4226542,
+    "company": "NEXT AJANS DİJİTAL REKLAMCILIK AMBALAJ MATBAA KIRTASİYE TEDARİK HİZMETLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ\t ",
+    "address": "KEMALPAŞA MAH. NEBİOĞLU SK. KIRAN IŞ MERKEZI BLOK NO: 8 İÇ KAPI NO: 11 KÜÇÜKÇEKMECE",
+    "type": "company",
+    "fax": "",
+    "phone": "2126242422",
+    "web": "https://www.nextajans.com.tr",
+    "approve_date": "2022-10-07 17:45:26+03"
+  },
+  {
+    "id": 4226543,
+    "company": "ENGİN TEKİN",
+    "address": "YUNUS EMRE MAH. TOPCAM SOK. NO :6/19",
+    "type": "company",
+    "fax": "03129110013",
+    "phone": "3129110013",
+    "web": "http://www.enghost.com.tr",
+    "approve_date": "2022-10-05 14:57:30+03"
+  },
+  {
+    "id": 4226544,
+    "company": "Tolga Hürmüzlü",
+    "address": "Emek Mah. Kırım Cad. Şenyuva Blokları 4.Blok (N1 blok) 8/B Çankaya Ankara",
+    "type": "company",
+    "fax": "",
+    "phone": "05058638897",
+    "web": "https://webloggi.com",
+    "approve_date": "2023-08-07 17:13:17+03"
+  },
+  {
+    "id": 4226545,
+    "company": "Veysel Garani Yaşar",
+    "address": "Gaziilyas Mah. Şafak 1 Cad. No: 40 A",
+    "type": "company",
+    "fax": "",
+    "phone": "2666060630",
+    "web": "https://hostavir.com",
+    "approve_date": "2023-05-13 12:43:09+03"
+  },
+  {
+    "id": 4226546,
+    "company": "SUNSOFT YAZILIM LİMİTED ŞİRKETİ ",
+    "address": "HOCAPAŞA MAH.MURADİYE CAD.SAF HAN NO:25 İÇ KAPI NO:501 FATİH",
+    "type": "company",
+    "fax": "",
+    "phone": "5356947922",
+    "web": "https://www.sunsoft.me",
+    "approve_date": "2023-12-02 14:07:20+03"
+  },
+  {
+    "id": 4226547,
+    "company": "Pasha Bilgi Bilişim Teknoloji Danışmanlık San. ve Tic. Ltd. Şti. ",
+    "address": "Mehmet Akif Mah. Cimen Sk. No:17/9",
+    "type": "company",
+    "fax": "8503467536",
+    "phone": "5394509103",
+    "web": "https://netstabil.com",
+    "approve_date": "2023-05-18 10:17:01+03"
+  },
+  {
+    "id": 4226548,
+    "company": "Emrah Kara",
+    "address": "Hamidiye Mahallesi Kartal Sokak Bütünler Apartmanı No:7 Daire:1",
+    "type": "company",
+    "fax": "",
+    "phone": "5522156567",
+    "web": "https://www.serverdata.com.tr",
+    "approve_date": "2024-09-17 08:54:00+03"
+  },
+  {
+    "id": 4226549,
+    "company": "DIJITAL KLINIK TEKNOLOJI VE PAZARLAMA SANAYI TICARET LIMITED SIRKETI ",
+    "address": "BULGURLU MAH. IZZETTINBEY SK. NO: 9 /2 IÇ KAPI NO: 2 ÜSKÜDAR/ ISTANBUL",
+    "type": "company",
+    "fax": "",
+    "phone": "8508409593",
+    "web": "https://dijitalklinik.com",
+    "approve_date": "2023-05-24 16:10:07+03"
+  },
+  {
+    "id": 4226550,
+    "company": "Muhammet Güngören",
+    "address": "İNALI MAH. LALEZAR SK. YAŞAM SITESI B BLOK .Blok No:4B Daire:14 MERKEZ / BİNGÖL",
+    "type": "company",
+    "fax": "",
+    "phone": "8503074678",
+    "web": "https://www.uluhost.com",
+    "approve_date": "2023-01-05 03:09:21+03"
+  },
+  {
+    "id": 4226551,
+    "company": "Celalettin Abdurrahim Şimşek",
+    "address": "CUMHURİYET MAH. 132/ŞEHİT POLİS RESUL KORKMAZ CAD. TOKI 3 ETAP YAYLA KENT SITESI SİTES",
+    "type": "company",
+    "fax": "",
+    "phone": "8503083056",
+    "web": "https://aslyazilim.com",
+    "approve_date": "2023-01-05 14:59:11+03"
+  },
+  {
+    "id": 4226552,
+    "company": "Erdem Kaya",
+    "address": "Zümrüt Mah. Vezirler Cad. B Blok Ayyıldız Sıt No: 23 / 23 Kocasinan",
+    "type": "company",
+    "fax": "",
+    "phone": "8503088856",
+    "web": "https://sunucumerkezim.com/;https://bedelsizhosting.com.tr",
+    "approve_date": "2024-08-16 11:07:31+03"
+  },
+  {
+    "id": 4226553,
+    "company": "Yigit Hosting Bilişim E-Ticaret Gıda Sanayi Ticaret Limited Şirketi ",
+    "address": "Atatürk Mah. Namık Kemal Cad. No:32/1 Kat:2 Daire:2",
+    "type": "company",
+    "fax": "",
+    "phone": "2325085734",
+    "web": "https://yigithosting.com.tr",
+    "approve_date": "2022-10-19 16:24:42+03"
+  },
+  {
+    "id": 4226554,
+    "company": "WE1TOWN PAZARLAMA VE BİLİŞİM TEKNOLOJİLERİ LİMİTED ŞİRKETİ ",
+    "address": "HALİSE HATUN MAH. ANABACI CAD. DR. ASUMAN PASAJI NO: 22 İÇ KAPI NO: 101",
+    "type": "company",
+    "fax": "",
+    "phone": "8503072791",
+    "web": "https://we1.town",
+    "approve_date": "2023-12-11 11:41:25+03"
+  },
+  {
+    "id": 4226555,
+    "company": "WEBOFİSİ YAZILIM HİZMETLERİ TİC.LTD.ŞTİ ",
+    "address": "Yenimahalle Mahallesi 3209. Sokak No: 5",
+    "type": "company",
+    "fax": "",
+    "phone": "8503048350",
+    "web": "https://www.web-ofisi.com/",
+    "approve_date": "2024-09-26 10:27:47+03"
+  },
+  {
+    "id": 4226556,
+    "company": "NarDatabank Bilişim Teknoloji Anonim Şirketi ",
+    "address": "Alaybey Mahallesi Kumruoglu Sokak No.9 Özdemir İş Hanı İç Kapı No.106  Şahinbey",
+    "type": "company",
+    "fax": "8505324662",
+    "phone": "8505324662",
+    "web": "https://nardc.com",
+    "approve_date": "2024-10-30 09:44:14+03"
+  },
+  {
+    "id": 4226557,
+    "company": "Mehmet Öner Erkmen",
+    "address": "Zonguldak Çaycuma Çay Mah. Nihat Kantarcı Cad. NO:10",
+    "type": "company",
+    "fax": "",
+    "phone": "8503024678",
+    "web": "https://verionet.com",
+    "approve_date": "2025-01-31 09:18:43+03"
+  },
+  {
+    "id": 4226558,
     "company": "GELİŞTİR BİLGİ TEKNOLOJİLERİ ORGANİZASYON A.Ş. ",
     "address": "Meşelik Kampüsü, Büyükdere Mahallesi Osmangazi Üniversitesi, Gençlik Blv. No:4/53, 26480 Odunpazarı",
     "type": "company",
@@ -10,7 +690,7 @@
     "approve_date": "2023-12-30 23:58:53+03"
   },
   {
-    "id": 4223959,
+    "id": 4226559,
     "company": "Adetaş İç ve Dış Ticaret Ltd Şti ",
     "address": "İçerenköy Mah. Kavaklar Sok No:19/b",
     "type": "company",
@@ -20,7 +700,7 @@
     "approve_date": "2024-01-05 09:29:36+03"
   },
   {
-    "id": 4223960,
+    "id": 4226560,
     "company": "Levent Beyazıt",
     "address": "Acıbadem Mah. Asafbey Sok. No:7A Kadıkoy",
     "type": "company",
@@ -30,7 +710,7 @@
     "approve_date": "2024-09-27 14:23:48+03"
   },
   {
-    "id": 4223961,
+    "id": 4226561,
     "company": "Liberyus Dijital Medya Ajansı ve Danışmanlık Ltd. Şti ",
     "address": "REŞIT GALIP CADDESI 56/2 KAZIM ÖZALP MAHALLESI ÇANKAYA,06700",
     "type": "company",
@@ -40,7 +720,7 @@
     "approve_date": "2024-10-03 10:00:21+03"
   },
   {
-    "id": 4223962,
+    "id": 4226562,
     "company": "WİBESOFT YAZILIM BİLİŞİM TEKNOLOJİLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ ",
     "address": "İsmetpaşa Mahallesi Yeni Havra Sokak No: 6 İç Kapı No: 1 Merkez/Çanakkale",
     "type": "company",
@@ -50,7 +730,7 @@
     "approve_date": "2024-12-25 20:53:03+03"
   },
   {
-    "id": 4223963,
+    "id": 4226563,
     "company": "ONUR MURAT NAZLIMOĞLU",
     "address": "TABAKLAR MAH. FERİT TALAY CD. NO:8/1 14100",
     "type": "company",
@@ -60,7 +740,7 @@
     "approve_date": "2025-03-06 16:27:00+03"
   },
   {
-    "id": 4223964,
+    "id": 4226564,
     "company": "Barış Emre Teksin",
     "address": "Çeysa Twin Towers plaza B blok kat 7 no 48",
     "type": "company",
@@ -70,7 +750,7 @@
     "approve_date": "2024-01-05 09:33:36+03"
   },
   {
-    "id": 4223965,
+    "id": 4226565,
     "company": "HAKAN TOPUZOĞLU",
     "address": " Erciyes Teknopark Yerleşkesi Tekno-3 Binası Zemin Kat NO: 17 38039 Melikgazi / KAYSERİ",
     "type": "company",
@@ -80,7 +760,7 @@
     "approve_date": "2024-01-05 09:55:53+03"
   },
   {
-    "id": 4223966,
+    "id": 4226566,
     "company": "Uğur Öztürk",
     "address": "Güzelyalı burgaz mah. şehit mehmet cad. asist -2 apt no 69 a Mudanya/Bursa",
     "type": "company",
@@ -90,7 +770,7 @@
     "approve_date": "2024-12-01 20:39:31+03"
   },
   {
-    "id": 4223967,
+    "id": 4226567,
     "company": "Fatih Şanlı",
     "address": "Örnek mah. 1368. sk. no 26 daire 7 Esenyurt/İstanbul",
     "type": "company",
@@ -100,107 +780,7 @@
     "approve_date": "2024-10-15 09:20:55+03"
   },
   {
-    "id": 4223958,
-    "company": "GELİŞTİR BİLGİ TEKNOLOJİLERİ ORGANİZASYON A.Ş. ",
-    "address": "Meşelik Kampüsü, Büyükdere Mahallesi Osmangazi Üniversitesi, Gençlik Blv. No:4/53, 26480 Odunpazarı",
-    "type": "company",
-    "fax": "",
-    "phone": "8503052626",
-    "web": "https://www.gelistir.cloud",
-    "approve_date": "2023-12-30 23:58:53+03"
-  },
-  {
-    "id": 4223959,
-    "company": "Adetaş İç ve Dış Ticaret Ltd Şti ",
-    "address": "İçerenköy Mah. Kavaklar Sok No:19/b",
-    "type": "company",
-    "fax": "",
-    "phone": "2165736613",
-    "web": "https://turboserver.com.tr",
-    "approve_date": "2024-01-05 09:29:36+03"
-  },
-  {
-    "id": 4223960,
-    "company": "Levent Beyazıt",
-    "address": "Acıbadem Mah. Asafbey Sok. No:7A Kadıkoy",
-    "type": "company",
-    "fax": "",
-    "phone": "2166061696",
-    "web": "https://webtech.tr/",
-    "approve_date": "2024-09-27 14:23:48+03"
-  },
-  {
-    "id": 4223961,
-    "company": "Liberyus Dijital Medya Ajansı ve Danışmanlık Ltd. Şti ",
-    "address": "REŞIT GALIP CADDESI 56/2 KAZIM ÖZALP MAHALLESI ÇANKAYA,06700",
-    "type": "company",
-    "fax": "",
-    "phone": "3124370222",
-    "web": "https://www.liberyus.com/",
-    "approve_date": "2024-10-03 10:00:21+03"
-  },
-  {
-    "id": 4223962,
-    "company": "WİBESOFT YAZILIM BİLİŞİM TEKNOLOJİLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ ",
-    "address": "İsmetpaşa Mahallesi Yeni Havra Sokak No: 6 İç Kapı No: 1 Merkez/Çanakkale",
-    "type": "company",
-    "fax": "",
-    "phone": "8503095824",
-    "web": "https://www.hostingdunyasi.com",
-    "approve_date": "2024-12-25 20:53:03+03"
-  },
-  {
-    "id": 4223963,
-    "company": "ONUR MURAT NAZLIMOĞLU",
-    "address": "TABAKLAR MAH. FERİT TALAY CD. NO:8/1 14100",
-    "type": "company",
-    "fax": "3742121252",
-    "phone": "3742121252",
-    "web": "http://www.omn.com.tr",
-    "approve_date": "2025-03-06 16:27:00+03"
-  },
-  {
-    "id": 4223964,
-    "company": "Barış Emre Teksin",
-    "address": "Çeysa Twin Towers plaza B blok kat 7 no 48",
-    "type": "company",
-    "fax": "",
-    "phone": "05534477669",
-    "web": "https://www.btekhost.com/",
-    "approve_date": "2024-01-05 09:33:36+03"
-  },
-  {
-    "id": 4223965,
-    "company": "HAKAN TOPUZOĞLU",
-    "address": " Erciyes Teknopark Yerleşkesi Tekno-3 Binası Zemin Kat NO: 17 38039 Melikgazi / KAYSERİ",
-    "type": "company",
-    "fax": "3522211724",
-    "phone": "3522222294",
-    "web": "http://www.ht.net.tr",
-    "approve_date": "2024-01-05 09:55:53+03"
-  },
-  {
-    "id": 4223966,
-    "company": "Uğur Öztürk",
-    "address": "Güzelyalı burgaz mah. şehit mehmet cad. asist -2 apt no 69 a Mudanya/Bursa",
-    "type": "company",
-    "fax": "8502447834",
-    "phone": "5400772209",
-    "web": "https://evabilisim.com",
-    "approve_date": "2024-12-01 20:39:31+03"
-  },
-  {
-    "id": 4223967,
-    "company": "Fatih Şanlı",
-    "address": "Örnek mah. 1368. sk. no 26 daire 7 Esenyurt/İstanbul",
-    "type": "company",
-    "fax": "",
-    "phone": "8508406617",
-    "web": "https://mecrabilisim.com",
-    "approve_date": "2024-10-15 09:20:55+03"
-  },
-  {
-    "id": 4223968,
+    "id": 4226568,
     "company": "Ümit Berk",
     "address": "Tandoğan Mahallesi Yeniyol Sokak Lalezar Sitesi 2A/2 Sincan/Ankara",
     "type": "company",
@@ -210,7 +790,7 @@
     "approve_date": "2024-10-08 14:34:02+03"
   },
   {
-    "id": 4223969,
+    "id": 4226569,
     "company": "Barış Bolat",
     "address": "Yeşil Bağlar Mahallesi D 100",
     "type": "company",
@@ -220,7 +800,7 @@
     "approve_date": "2024-10-08 14:38:01+03"
   },
   {
-    "id": 4223970,
+    "id": 4226570,
     "company": "Mustafa Sefa Ayyıldız",
     "address": "Beyazşehir, 824. Sk., no: 6/37 Kocasinan/Kayseri",
     "type": "company",
@@ -230,7 +810,7 @@
     "approve_date": "2024-12-20 09:38:15+03"
   },
   {
-    "id": 4223971,
+    "id": 4226571,
     "company": "WOY TEKNOLOJI LTD ŞTI ",
     "address": "TEKSTİLKENT TİCARET HANI BLOK KAT 5 NO 153 ESENLER",
     "type": "company",
@@ -240,7 +820,7 @@
     "approve_date": "2024-02-07 14:49:22+03"
   },
   {
-    "id": 4223972,
+    "id": 4226572,
     "company": "Sosyal Megapixel Bilişim Hizmetleri ve Ticaret Limited Şirketi ",
     "address": "Cevizli, Ritim İstanbul, Zuhal Cd. A5 Blok No:46E/179, 34843",
     "type": "company",
@@ -250,7 +830,7 @@
     "approve_date": "2024-02-06 08:50:37+03"
   },
   {
-    "id": 4223973,
+    "id": 4226573,
     "company": "ALİ KOYUNCU",
     "address": "Cumhuriyet mah. Atatürk blv. Bizimkent B1-13 no: 4 A İÇ kapı NO: 2 Beylikdüzü/ İstanbul",
     "type": "company",
@@ -260,7 +840,7 @@
     "approve_date": "2024-02-20 14:04:39+03"
   },
   {
-    "id": 4223974,
+    "id": 4226574,
     "company": "TTEN TEKNOLOJİ ANONİM ŞİRKETİ ",
     "address": "CEMALPAŞA MAHALLESİ GAZİPAŞA BULVARI KARADAYI APT. NO: 20 K:6 D: 11 SEYHAN",
     "type": "company",
@@ -270,7 +850,7 @@
     "approve_date": "2024-02-16 14:48:00+03"
   },
   {
-    "id": 4223975,
+    "id": 4226575,
     "company": "Emirhan Akpınar",
     "address": "Çınar Mahallesi 789.Sokak No:15 Daire:6",
     "type": "company",
@@ -280,7 +860,7 @@
     "approve_date": "2024-10-24 11:18:32+03"
   },
   {
-    "id": 4223976,
+    "id": 4226576,
     "company": "Münevver ATAŞ",
     "address": "Varlık Mah. 193 Sk. Servet Gürsel Apt. Sitesi No 10/A Muratpaşa/Antalya",
     "type": "company",
@@ -290,7 +870,7 @@
     "approve_date": "2024-02-12 09:59:04+03"
   },
   {
-    "id": 4223977,
+    "id": 4226577,
     "company": "BANU ÇOLAK",
     "address": "Balgat Mahallesi Ceyhun Atuf Kansu Cad. No:36/6  ÇANKAYA/ANKARA",
     "type": "company",
@@ -300,7 +880,7 @@
     "approve_date": "2024-04-04 15:45:43+03"
   },
   {
-    "id": 4223978,
+    "id": 4226578,
     "company": "SERVUDC VERİ MERKEZİ ANONİM ŞİRKETİ ",
     "address": "MUSTAFA KEMAL MAH. DUMLUPINAR BUL. NO: 266C IÇ KAPI NO: 34 ÇANKAYA / ANKARA",
     "type": "company",
@@ -310,7 +890,7 @@
     "approve_date": "2024-02-27 10:35:04+03"
   },
   {
-    "id": 4223979,
+    "id": 4226579,
     "company": "AXON TELEKOMÜNİKASYON BİLİŞİM TEKNOLOJİLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ ",
     "address": "SÜPHAN MAH. İŞGEM 2. SK. A2 NO: 15E EDREMİT / VAN",
     "type": "company",
@@ -320,7 +900,7 @@
     "approve_date": "2024-05-24 11:27:48+03"
   },
   {
-    "id": 4223980,
+    "id": 4226580,
     "company": "MEHMET  MESCİOĞLU",
     "address": "FENER MAH. 1986 SOK ASCAN APT 7/2",
     "type": "company",
@@ -330,7 +910,7 @@
     "approve_date": "2024-12-02 13:32:02+03"
   },
   {
-    "id": 4223981,
+    "id": 4226581,
     "company": "MECAZ BİLGİSAYAR ELK. İLT. KIR. REK. ORG. TİC. SAN. LTD. ŞTİ. ",
     "address": "MEŞRUTİYET MAH. T. KARAOĞUZ SOK. UZUN ÇARŞI GİRİŞ KAT NO:14",
     "type": "company",
@@ -340,7 +920,7 @@
     "approve_date": "2025-03-01 14:14:49+03"
   },
   {
-    "id": 4223982,
+    "id": 4226582,
     "company": "CLOUD TEKNOLOJİ BİLİŞİM HİZMETLERİ TİCARET A.Ş. ",
     "address": "Sultan Selim Mah. Hümeyra Sok. Nef 09 Plaza B Blok No:121",
     "type": "company",
@@ -350,7 +930,7 @@
     "approve_date": "2024-02-05 21:45:27+03"
   },
   {
-    "id": 4223983,
+    "id": 4226583,
     "company": "RIDVAN YAĞLI",
     "address": "ATATÜRK MAH. CUMHURİYET CAD. NO:21/4 ORTACA / MUĞLA",
     "type": "company",
@@ -360,7 +940,7 @@
     "approve_date": "2025-03-04 12:27:21+03"
   },
   {
-    "id": 4223984,
+    "id": 4226584,
     "company": "Ahmet Kartal",
     "address": "Karasamsun Mah. 850 Sok. Mehmet Akif Ersoy Caddesi A/4/8",
     "type": "company",
@@ -370,7 +950,7 @@
     "approve_date": "2024-09-03 11:12:24+03"
   },
   {
-    "id": 4223985,
+    "id": 4226585,
     "company": "Mustafa Emir Çebi",
     "address": "Esenler Emlak Konutları A11 Blok Kat 12 Daire 131 Esenler / İstanbul",
     "type": "company",
@@ -380,7 +960,7 @@
     "approve_date": "2024-10-07 13:29:54+03"
   },
   {
-    "id": 4223986,
+    "id": 4226586,
     "company": "SKY ATLAS İLETİŞİM SANAYİ VE TİCARET ANONİM ŞİRKETİ ",
     "address": "YTÜ DAVUTPAŞA KAMPÜSÜ TEKNOPARK D2 107 ESENLER 34220",
     "type": "company",
@@ -390,7 +970,7 @@
     "approve_date": "2025-03-13 16:33:31+03"
   },
   {
-    "id": 4223987,
+    "id": 4226587,
     "company": "Digiweb Bilişim Teknoloji Hizmetleri Ltd. Şti. ",
     "address": "Konak mah. Barış(120) Sokak No:3/10 Nilüfer BURSA",
     "type": "company",
@@ -400,7 +980,7 @@
     "approve_date": "2025-03-05 09:15:05+03"
   },
   {
-    "id": 4223988,
+    "id": 4226588,
     "company": "DLL TEKNOLOJİ VERİ MERKEZİ HİZMETLERİ A.Ş. ",
     "address": "Minareliçavuş  Mh. Mete(290) Sk. No:27/A",
     "type": "company",
@@ -410,7 +990,7 @@
     "approve_date": "2024-03-01 09:02:15+03"
   },
   {
-    "id": 4223989,
+    "id": 4226589,
     "company": "Oben Teknoloji Limited Şirketi ",
     "address": "ADALET MAH. MANAS BLV. NO: 39 İÇ KAPI NO: 3408 BAYRAKLI",
     "type": "company",
@@ -420,7 +1000,7 @@
     "approve_date": "2025-03-02 13:24:31+03"
   },
   {
-    "id": 4223990,
+    "id": 4226590,
     "company": "Fatih Çolak",
     "address": "Bulgurlu Mah. Atalar Sk. Cemal Yılmaz Apt. No:33 İç Kapı No:3 Üsküdar",
     "type": "company",
@@ -430,7 +1010,7 @@
     "approve_date": "2025-03-04 11:34:29+03"
   },
   {
-    "id": 4223991,
+    "id": 4226591,
     "company": "Furkan ÇETİNEL",
     "address": "Kamil Ocak Mah. Alınteri Sok. No:24/9",
     "type": "company",
@@ -440,7 +1020,7 @@
     "approve_date": "2024-03-07 09:17:27+03"
   },
   {
-    "id": 4223992,
+    "id": 4226592,
     "company": "PARANTEZSOFT YAZILIM TİCARET LİMİTED ŞİRKETİ ",
     "address": "Yakuplu Mahallesi, Hürriyet Bulvarı SKYPORT No:1/64 Beylikdüzü",
     "type": "company",
@@ -450,7 +1030,7 @@
     "approve_date": "2024-03-13 10:33:32+03"
   },
   {
-    "id": 4223993,
+    "id": 4226593,
     "company": "FYS TEKNOLOJİ ANONİM ŞİRKETİ ",
     "address": "Sümer Mah 69055 SK  Grand Clover Suit No:13/D11",
     "type": "company",
@@ -460,7 +1040,7 @@
     "approve_date": "2024-03-11 10:15:17+03"
   },
   {
-    "id": 4223994,
+    "id": 4226594,
     "company": "Dokunmatik Ekran Teknolojileri Bilişim İnşaat Tic Ltd Şti ",
     "address": "Hürriyet mahallesi altın Sokak no 35/b",
     "type": "company",
@@ -470,7 +1050,7 @@
     "approve_date": "2024-11-07 10:40:23+03"
   },
   {
-    "id": 4223995,
+    "id": 4226595,
     "company": "Muhammed Fatih Asan",
     "address": "Uğur Mumcu, İÇ KAPI, 2286. Sk NO: 15 NO: 4, 34265 Sultangazi/İstanbul",
     "type": "company",
@@ -480,7 +1060,7 @@
     "approve_date": "2024-09-10 16:26:36+03"
   },
   {
-    "id": 4223996,
+    "id": 4226596,
     "company": "2E TELEKOMÜNİKASYON LİMİTED ŞİRKETİ ",
     "address": "TURGUT REİS MAH. FATİH BLV. NO: 203 İÇ KAPI NO: 1 SULTANBEYLİ",
     "type": "company",
@@ -490,7 +1070,7 @@
     "approve_date": "2024-04-16 09:07:52+03"
   },
   {
-    "id": 4223997,
+    "id": 4226597,
     "company": "BİROL KOÇ",
     "address": "AKSU MAHALLESİ PAZAR CADDESİ NO:58/A",
     "type": "company",
@@ -500,7 +1080,7 @@
     "approve_date": "2025-02-15 09:47:09+03"
   },
   {
-    "id": 4223998,
+    "id": 4226598,
     "company": "Hostider Bilişim Hizmetleri Limited Şirketi ",
     "address": "Kazimiye Mahallesi Salih Omurtak Caddesi No:16 İç Kapı:17 Çorlu",
     "type": "company",
@@ -510,7 +1090,7 @@
     "approve_date": "2024-05-07 10:24:45+03"
   },
   {
-    "id": 4223999,
+    "id": 4226599,
     "company": "EFTAL KANDOĞMUŞ",
     "address": "Bahçelievler Çobançeşme mahallesi Mithatpaşa caddesi Kınalı sokak no :10daire1",
     "type": "company",
@@ -520,7 +1100,7 @@
     "approve_date": "2024-04-04 15:11:34+03"
   },
   {
-    "id": 4224000,
+    "id": 4226600,
     "company": "OVABİL İNTERNET VE BİLİŞİM HİZMETLERİ LİMİTED ŞİRKETİ ",
     "address": "MERKEZ KİRAZLI KÖYÜ SANAYİ MEVKİİ 2 SK. 123/1 5 NOLU DÜKKAN NO: 14 İÇ KAPI NO: 5",
     "type": "company",
@@ -530,7 +1110,7 @@
     "approve_date": "2024-05-20 09:25:34+03"
   },
   {
-    "id": 4224001,
+    "id": 4226601,
     "company": "VULUT BİLİŞİM TEKNOLOJİLERİ LİMİTED ŞİRKETİ ",
     "address": "Barbaros Mh. Eyüp Sultan Cd. No:19/3 BAŞİSKELE/KOCAELİ",
     "type": "company",
@@ -540,7 +1120,207 @@
     "approve_date": "2024-05-24 11:30:16+03"
   },
   {
-    "id": 4224002,
+    "id": 4224688,
+    "company": "Yüksel Demirci",
+    "address": "İncilli Mahallesi Kültür Caddesi 7/B Daire: 6",
+    "type": "company",
+    "fax": "",
+    "phone": "2646060758",
+    "web": "https://hostude.net",
+    "approve_date": "2024-05-09 14:44:17+03"
+  },
+  {
+    "id": 4224689,
+    "company": "hüseyin karakul",
+    "address": "Cadde Flora Residans Bahçeşehir 2. Kısım mah. Mercedes  Bulvarı E/30 K:1 D:11 Başakşehir/İstanbul",
+    "type": "company",
+    "fax": "",
+    "phone": "5061114569",
+    "web": "https://profeshosting.com.tr",
+    "approve_date": "2024-12-28 19:12:44+03"
+  },
+  {
+    "id": 4224690,
+    "company": "Tiva İnternet Hizmetleri Ltd. Şti. ",
+    "address": "Atatürk Mah. Ertuğrul Gazi Sok. Metropol İstanbul, A Blok No: 2E/331 Ataşehir / İstanbul",
+    "type": "company",
+    "fax": "",
+    "phone": "8503070459",
+    "web": "https://gnet.com.tr/,https://www.gnet.tr/,https://www.sitekur.tr/",
+    "approve_date": "2025-01-06 09:43:30+03"
+  },
+  {
+    "id": 4224691,
+    "company": "EBUBEKİR SADİOĞLU",
+    "address": "EVLİYA ÇELEBİ MAH. SADİ KONURALP CAD. IKSV VAKFI NO: 5 İÇ KAPI NO: 2 BEYOĞLU/ İSTANBUL",
+    "type": "company",
+    "fax": "",
+    "phone": "8508407207",
+    "web": "https://sadecedizayn.com.tr",
+    "approve_date": "2024-01-05 09:48:12+03"
+  },
+  {
+    "id": 4224692,
+    "company": "MUSTAFA KÜÇÜKASLAN",
+    "address": "güvenevler mh 1901 sokak no:5 daire:6",
+    "type": "company",
+    "fax": "5431832215",
+    "phone": "5431832215",
+    "web": "http://www.ahs.net.tr",
+    "approve_date": "2024-05-10 09:49:29+03"
+  },
+  {
+    "id": 4224693,
+    "company": "SELİM USLU",
+    "address": "Çukurbağ Mah. Bahariye Cad. No:18 Kat:2 İzmit KOCAELİ",
+    "type": "company",
+    "fax": "",
+    "phone": "8503022841",
+    "web": "https://www.reformbilisim.com",
+    "approve_date": "2024-07-24 09:38:25+03"
+  },
+  {
+    "id": 4224694,
+    "company": "Oğuzcan Günay",
+    "address": "İhsaniye Mh. Leylak Sk. No: 3B 17",
+    "type": "company",
+    "fax": "",
+    "phone": "5452067815",
+    "web": "https://oguzcangunay.com",
+    "approve_date": "2024-01-31 10:04:15+03"
+  },
+  {
+    "id": 4224695,
+    "company": "Tumeva İnternet Teknolojileri Yazılım Bilişim Reklam ve Danışmanlık Hiz. Tic. Ltd. Şti. ",
+    "address": "Acarlar Mh. Hanımeli Sk. No: 2/A Turgutlu / Manisa",
+    "type": "company",
+    "fax": "",
+    "phone": "5552853113",
+    "web": "https://www.tumeva.com",
+    "approve_date": "2022-11-01 11:58:32+03"
+  },
+  {
+    "id": 4224696,
+    "company": "SİTEMİO BİLİŞİM TEKNOLOJİLERİ TİC. LTD. ŞTİ. ",
+    "address": "İvedik OSB. Mah. Melih Gökçek Bulvarı No:63/73 K:14",
+    "type": "company",
+    "fax": "08503041861",
+    "phone": "8503041861",
+    "web": "https://www.sitemio.com.tr",
+    "approve_date": "2024-01-29 15:38:22+03"
+  },
+  {
+    "id": 4224697,
+    "company": "selim can",
+    "address": "Sanayi mah.3203 tunç sokak no -1-1 merkez ısparta",
+    "type": "company",
+    "fax": "05342941923",
+    "phone": "05342941923",
+    "web": "https://tensasoft.com/",
+    "approve_date": "2023-05-23 09:36:42+03"
+  },
+  {
+    "id": 4224698,
+    "company": "ERDEM SAHİN",
+    "address": "SÖĞÜTLÜCESME MAH.CELİLDAG.NO7/2 KÜCÜKCEKMECE SEFAKÖY",
+    "type": "company",
+    "fax": "-",
+    "phone": "5423536891",
+    "web": "https://www.Rodixbilisim.com",
+    "approve_date": "2023-07-18 09:47:51+03"
+  },
+  {
+    "id": 4224699,
+    "company": "SEMİH MEHMET CAN",
+    "address": "TARABYA MAHALLESİ HATMİ SOK. NO:10 D:1 TARABYA  / SARIYER",
+    "type": "company",
+    "fax": "8508885834",
+    "phone": "8508885834",
+    "web": "http://www.vislom.com.tr",
+    "approve_date": "2021-11-03 13:51:14+03"
+  },
+  {
+    "id": 4224700,
+    "company": "Fergün Yıldırım",
+    "address": "281 sokak no 53 daire 3 kat 1 kılıçreis mahallesi konak izmir",
+    "type": "company",
+    "fax": "",
+    "phone": "5076880290",
+    "web": "https://www.adskoru.com",
+    "approve_date": "2024-02-28 09:28:14+03"
+  },
+  {
+    "id": 4224701,
+    "company": "SEMİH YILMAZ",
+    "address": "Fevzipaşa Mahallesi, Erek Caddesi, 127/E Erbaa/TOKAT",
+    "type": "company",
+    "fax": "-",
+    "phone": "5382337632",
+    "web": "https://bogahost.com",
+    "approve_date": "2025-01-06 14:50:11+03"
+  },
+  {
+    "id": 4224702,
+    "company": "SİNAN EMİN ERDEM",
+    "address": "Esenköy Mahallesi Eski Sağ Sokak No:1358 Fethiye",
+    "type": "company",
+    "fax": "-",
+    "phone": "05073470707",
+    "web": "https://www.bizcehost.com",
+    "approve_date": "2024-02-14 16:38:33+03"
+  },
+  {
+    "id": 4224703,
+    "company": "burak civelek",
+    "address": "Manas Bulv. Folkart Towers B Blok 39 / 2511 Adalet Mah",
+    "type": "company",
+    "fax": "",
+    "phone": "5378381980",
+    "web": "https://anexus.com.tr/",
+    "approve_date": "2024-07-10 10:36:01+03"
+  },
+  {
+    "id": 4224704,
+    "company": "OSMAN ALTINTAŞ",
+    "address": "Adalet Mah. Manas Bulv. No:47/B K:26 D:2601 Folkart Towers A Kule 35530 Bayraklı İzmir, Türkiye",
+    "type": "company",
+    "fax": "",
+    "phone": "8508406115",
+    "web": "https://www.nethub.com.tr",
+    "approve_date": "2024-03-22 11:31:15+03"
+  },
+  {
+    "id": 4224705,
+    "company": "TURKNET İLETİŞİM HİZMETLERİ A.Ş ",
+    "address": "Fulya mahallesi, Torun Center, Büyükdere Cad. No: 74 A/89 D:A Blok, 34270 Şişli/İstanbul",
+    "type": "company",
+    "fax": "2122165560",
+    "phone": "2123551700",
+    "web": "https://turk.net/",
+    "approve_date": "2022-11-01 09:28:50+03"
+  },
+  {
+    "id": 4224706,
+    "company": "BEYAZIT ÇETİN GEÇİCİ",
+    "address": "TAHTAKALE MAH. VEZİRİ CAD. AKARSU İŞHANI NO:4 D:45 OSMANGAZİ",
+    "type": "company",
+    "fax": "2243230353",
+    "phone": "2243230353",
+    "web": "http://www.tab.com.tr",
+    "approve_date": "2019-12-17 17:27:01+03"
+  },
+  {
+    "id": 4224707,
+    "company": "ARTI MYE DANIŞMANLIK GIDA SANAYİ VE  TİCARET LİMİTED ŞİRKETİ ",
+    "address": "Toros Mh. 78200 sk. Talip apt. K:11 D:21 Çukurova Adana",
+    "type": "company",
+    "fax": "",
+    "phone": "05334761455",
+    "web": "Http://www.webyurdu.com",
+    "approve_date": "2025-01-07 09:15:07+03"
+  },
+  {
+    "id": 4226602,
     "company": "HOSTUMO BILISIM TEKNOLOJILERI SANAYI TICARET LİMİTED SİRKETİ ",
     "address": "FATİH MAH. GÜRBÜZ SK. 2/5 SANCAKTEPE",
     "type": "company",
@@ -550,7 +1330,7 @@
     "approve_date": "2024-03-25 09:42:33+03"
   },
   {
-    "id": 4224003,
+    "id": 4226603,
     "company": "BİLGİNPRO YAZILIM VE MEDYA LİMİTED ŞİRKETİ ",
     "address": "ABDURRAHMAN NAFİZ GÜRMAN MAH. GENERAL ALİ RIZA GÜRCAN CAD. PLATFORM SUİT B BLOK NO: 27 İÇ KAPI NO: 198 GÜNGÖREN",
     "type": "company",
@@ -560,7 +1340,7 @@
     "approve_date": "2024-04-04 15:09:16+03"
   },
   {
-    "id": 4224004,
+    "id": 4226604,
     "company": "ESKİŞEHİR BİLİŞİM İLETİŞİM A.Ş. ",
     "address": "ORGANİZE SANAYİ BÖLGESİ 15.CAD. NO:1 26110 ODUNPAZARI",
     "type": "company",
@@ -570,7 +1350,7 @@
     "approve_date": "2025-03-04 16:10:33+03"
   },
   {
-    "id": 4224005,
+    "id": 4226605,
     "company": "VERİMİN BİLGİ İLETİŞİM TEKNOLOJİLERİ VE TİCARET LİMİTED ŞİRKETİ ",
     "address": "ZİYA GÖKALP MAH. SÜLEYMAN DEMİREL BLV. THE OFFICE NO: 7 E İÇ KAPI NO: 136 BAŞAKŞEHİR/ İSTANBUL",
     "type": "company",
@@ -580,7 +1360,7 @@
     "approve_date": "2024-05-02 09:20:16+03"
   },
   {
-    "id": 4224006,
+    "id": 4226606,
     "company": "VERİLİNK BİLİŞİM TEKNOLOJİLERİ ANONİM ŞİRKETİ ",
     "address": "Barbaros Hayrettin Paşa Mah 1992 Sok No 16/164 Vetro City Esenyurt / İstanbul",
     "type": "company",
@@ -590,7 +1370,7 @@
     "approve_date": "2024-07-04 20:26:24+03"
   },
   {
-    "id": 4224007,
+    "id": 4226607,
     "company": "OKAN IŞIK",
     "address": "Kale Mh. Kazımpaşa cd. Akman İş Merkezi No18/10",
     "type": "company",
@@ -600,7 +1380,7 @@
     "approve_date": "2024-10-08 15:23:07+03"
   },
   {
-    "id": 4224008,
+    "id": 4226608,
     "company": "Harun Bülbül",
     "address": "yeşilırmak mah. çeçenistan bulvarı no 64 d",
     "type": "company",
@@ -610,7 +1390,7 @@
     "approve_date": "2024-11-08 09:33:05+03"
   },
   {
-    "id": 4224009,
+    "id": 4226609,
     "company": "TAYNET TEKNOLOJİ TİC. LTD. ŞTİ. ",
     "address": "Barbaros Mh. Begonya Sk. Nidakule Ataşehir Batı No: 1/2 34746 Ataşehir / İSTANBUL",
     "type": "company",
@@ -620,7 +1400,7 @@
     "approve_date": "2024-04-03 10:40:50+03"
   },
   {
-    "id": 4224010,
+    "id": 4226610,
     "company": "Kemal CIZOĞLU",
     "address": "SİTELER MH. A11 SK. YOLKENT SİTESİ NO:4/A D:25 YILDIRIM/BURSA",
     "type": "company",
@@ -630,7 +1410,7 @@
     "approve_date": "2025-03-12 10:49:46+03"
   },
   {
-    "id": 4224011,
+    "id": 4226611,
     "company": "AHMET LÜTFİ TARKAN",
     "address": "Barbaros Mah. 3304 Sk. Garanti Plaza No:13 Kat:14 İç Kapı No:82",
     "type": "company",
@@ -640,7 +1420,7 @@
     "approve_date": "2025-01-29 15:52:29+03"
   },
   {
-    "id": 4224012,
+    "id": 4226612,
     "company": "Servisposta  İletişim ve Yazılım Hizmetleri San. Tic. Ltd. Şti. ",
     "address": "Yakuplu Mah. Hurriyet Bulv. Skyport Tower No:151 Beylikduzu/Istanbul",
     "type": "company",
@@ -650,7 +1430,7 @@
     "approve_date": "2024-08-06 15:32:02+03"
   },
   {
-    "id": 4224013,
+    "id": 4226613,
     "company": "hüseyin akgün",
     "address": "Hasanpaşa Mah. Kurbağalıdere Cad. No:61/1 D:11 Kadiköy - İSTANBUL",
     "type": "company",
@@ -660,7 +1440,7 @@
     "approve_date": "2024-10-22 10:57:38+03"
   },
   {
-    "id": 4224014,
+    "id": 4226614,
     "company": "BAL BİLGİSAYAR YAZILIM VE BİLİŞİM LİMİTED ŞİRKETİ ",
     "address": "BAHÇELİEVLER MAH. ABDULHAK HAMİT CAD. NO:35/2",
     "type": "company",
@@ -670,7 +1450,7 @@
     "approve_date": "2025-02-13 15:22:44+03"
   },
   {
-    "id": 4224015,
+    "id": 4226615,
     "company": "İBRAHİM ÖZDEMİR",
     "address": "ZÜMRÜTEVLER MAHALLESİ ",
     "type": "company",
@@ -680,7 +1460,7 @@
     "approve_date": "2025-03-01 23:33:17+03"
   },
   {
-    "id": 4224016,
+    "id": 4226616,
     "company": "oğuzhan yalnız",
     "address": "Turgut Özal Mahallesi, 2192 Sokak 4/D 12",
     "type": "company",
@@ -690,7 +1470,7 @@
     "approve_date": "2024-12-08 18:56:31+03"
   },
   {
-    "id": 4224017,
+    "id": 4226617,
     "company": "Markahost Telekomünikasyon ve Ticaret Limited Şirketi ",
     "address": "ATAKÖY 7-8-9-10. KISIM MAH. ÇOBANÇEŞME E-5 YAN YOL CAD. ATAKÖY TOWERS A BLOK NO: 20 /1 İÇ KAPI NO: 70 BAKIRKÖY/ İSTANBUL",
     "type": "company",
@@ -698,5 +1478,3725 @@
     "phone": "8508852713",
     "web": "https://markahost.com.tr/",
     "approve_date": "2024-05-02 09:36:29+03"
+  },
+  {
+    "id": 4226618,
+    "company": "TENEKECİOĞLU GRUP BİLİŞİM DANIŞMANLIK VE TİCARET ANONİM ŞİRKETİ ",
+    "address": "Karaman Mah. Izmir Yolu Cad. Nilpark Avm. No: 90 İç Kapı No: 7 Nilüfer/ BURSA",
+    "type": "company",
+    "fax": "",
+    "phone": "8508889830",
+    "web": "https://batuhosting.com",
+    "approve_date": "2024-05-03 13:35:08+03"
+  },
+  {
+    "id": 4226619,
+    "company": "PERFORMANS İLETİŞİM VE TEKNOLOJİ HİZMETLERİ LTD.ŞTİ. ",
+    "address": "ULUDAĞ ÜNİVERSİTESİ ULUTEK TEKNOLOJİ GELİŞTİRME BÖLGESİ NO:217 NİLÜFER BURSA",
+    "type": "company",
+    "fax": "212 2919817",
+    "phone": "8505320548",
+    "web": "https://www.performans.net.tr/",
+    "approve_date": "2025-02-28 16:27:09+03"
+  },
+  {
+    "id": 4224708,
+    "company": "MURAT AKTAŞ",
+    "address": "Ataköy 7-8-9-10. Kısım Mah. Çobançeşme E-5 Yan Yol Cad. ATAKÖY TOWERS A Blok No: 20 /1 İç Kapı No: 70 ",
+    "type": "company",
+    "fax": "08508487777",
+    "phone": "8508487777",
+    "web": "http://www.bilgehosting.com",
+    "approve_date": "2025-01-07 09:30:30+03"
+  },
+  {
+    "id": 4224709,
+    "company": "KASIM AYDIN",
+    "address": "Merkez Mahallesi Sadabad Caddesi No 34 / 2 Kağıthane İstanbul",
+    "type": "company",
+    "fax": "5353228585",
+    "phone": "8503044174",
+    "web": "https://www.bilgitasarim.com",
+    "approve_date": "2023-05-23 10:01:36+03"
+  },
+  {
+    "id": 4224710,
+    "company": "KUTBU YAZILIM BİLİŞİM TEKNOLOJİ SANAYİ VE TİCARET A.Ş. ",
+    "address": "Küçükbakkalköy Mahallesi, Sonay Sokak, No: 6, Kat: 4, 34750, Ataşehir",
+    "type": "company",
+    "fax": "",
+    "phone": "2128128848",
+    "web": "https://www.kutbu.com",
+    "approve_date": "2023-05-25 11:21:58+03"
+  },
+  {
+    "id": 4224711,
+    "company": "TUĞBA KARAÇAĞA",
+    "address": "MAARİF MAH. SELÇUKLU SOK. NO:32",
+    "type": "company",
+    "fax": "3584175989",
+    "phone": "3584175989",
+    "web": "http://www.oyundanbiri.com",
+    "approve_date": "2019-03-13 12:30:41+03"
+  },
+  {
+    "id": 4224712,
+    "company": "RIZA AKÇABAY",
+    "address": "Umurbey mah. Liman Cad. No:5/B",
+    "type": "company",
+    "fax": "",
+    "phone": "05534517027",
+    "web": "https://ilkselnet.com",
+    "approve_date": "2024-04-19 09:16:20+03"
+  },
+  {
+    "id": 4224713,
+    "company": "YAĞIZ ARDA FURTUN",
+    "address": "Tevfik Bey, Dr. Ali Demir Cd NO:1 KAT:4, 34295 Küçükçekmece/İstanbul",
+    "type": "company",
+    "fax": "",
+    "phone": "8508400718",
+    "web": "https://elifhost.net",
+    "approve_date": "2025-01-13 11:24:00+03"
+  },
+  {
+    "id": 4224714,
+    "company": "MEHMET SÜRMELİOĞLU",
+    "address": "VARLIK MAHALLESİ TANZİMAT CADDESİ NO:45/A YENİMAHALLE ",
+    "type": "company",
+    "fax": "3123842048",
+    "phone": "3123840333",
+    "web": "http://www.maybilgisayar.com.tr",
+    "approve_date": "2019-03-13 12:32:20+03"
+  },
+  {
+    "id": 4224715,
+    "company": "AHMET ÖZYER",
+    "address": "ORTA MAH.HÜSNÜ BEY CAD. NO:17/C ÇARŞAMBA ",
+    "type": "company",
+    "fax": "3628323686",
+    "phone": "3628323686",
+    "web": "http://www.milenyum.net",
+    "approve_date": "2019-03-13 12:32:22+03"
+  },
+  {
+    "id": 4224716,
+    "company": "ÖZGÜR TÜRK",
+    "address": "KIRCAALİ MAH. KAYALI SK. BİREL İŞ MERKEZİ KAT 4/22",
+    "type": "company",
+    "fax": "-",
+    "phone": "2243340767",
+    "web": "http://www.cozumhost.com",
+    "approve_date": "2019-03-13 12:32:27+03"
+  },
+  {
+    "id": 4224717,
+    "company": "HAYDAR ŞAKRAK",
+    "address": "BEYTEPE MH. NO99/E BEYTEPE ÇANKAYA ",
+    "type": "company",
+    "fax": "-",
+    "phone": "3122270033",
+    "web": "http://www.bilkentbilgisayar.net",
+    "approve_date": "2019-03-13 12:32:27+03"
+  },
+  {
+    "id": 4224718,
+    "company": "ILYAS ÖZTÜRK",
+    "address": "TABAKLAR MAH.H.EMIN BARIN CAD. ÜNAL ISH. NO:20/3",
+    "type": "company",
+    "fax": "3742120100",
+    "phone": "5327414480",
+    "web": "http://www.webservisim.net",
+    "approve_date": "2019-03-13 12:32:28+03"
+  },
+  {
+    "id": 4224719,
+    "company": "UGUR SOFU",
+    "address": "EYÜP SULTAN MAH CAGRİ SOK NO 16",
+    "type": "company",
+    "fax": "8503029679",
+    "phone": "8504552967",
+    "web": "http://www.wop-group.com",
+    "approve_date": "2019-03-13 12:32:31+03"
+  },
+  {
+    "id": 4224720,
+    "company": "AYTEKİN ELİAÇIK",
+    "address": "İSTASYON MAH. RABİAHATUN SOK NO 10 TAVŞANLI",
+    "type": "company",
+    "fax": "8503023040",
+    "phone": "5444289922",
+    "web": "http://webaksiyon.com<br>http://krihost.com",
+    "approve_date": "2019-03-13 12:32:32+03"
+  },
+  {
+    "id": 4224721,
+    "company": "BEHÇET ÜLKER",
+    "address": "KIZILTOPRAK MAH. MEVLANA CAD. HAŞİM BALABAN APT. NO: 16 ",
+    "type": "company",
+    "fax": "-",
+    "phone": "2423217068",
+    "web": "http://www.ebox.com.tr",
+    "approve_date": "2019-03-13 12:32:33+03"
+  },
+  {
+    "id": 4224722,
+    "company": "YALÇIN KANBUR",
+    "address": "AKTAŞ MAH. MEVLANA CAD. NO:210/19 ALTINDAĞ",
+    "type": "company",
+    "fax": "3123639677",
+    "phone": "3123639677",
+    "web": "http://www.webrano.com",
+    "approve_date": "2019-03-13 12:32:35+03"
+  },
+  {
+    "id": 4224723,
+    "company": "EYÜP  ÇAKMAK",
+    "address": "SARAÇLAR MAH.MİMAR VEDAT TEK SOK.NO:21/1",
+    "type": "company",
+    "fax": "-",
+    "phone": "3662120026",
+    "web": "http://www.nefaajans.com",
+    "approve_date": "2019-03-13 12:32:37+03"
+  },
+  {
+    "id": 4224724,
+    "company": "UĞUR TOSUN",
+    "address": "273 SOKAK NO:10/D MANSUROĞLU MAHALLESİ BAYRAKLI",
+    "type": "company",
+    "fax": "2329990102",
+    "phone": "2323390999",
+    "web": "https://www.oktilyon.com",
+    "approve_date": "2019-03-13 12:32:38+03"
+  },
+  {
+    "id": 4224725,
+    "company": "YUSUF YILDIRIM",
+    "address": "HAZNEDAR MAH. İLKYUVA CAD. MERİÇ SK. NO:17/11 GÜNGÖREN",
+    "type": "company",
+    "fax": "2124421046",
+    "phone": "2124421046",
+    "web": "http://www.bizerone.com",
+    "approve_date": "2019-03-13 12:32:40+03"
+  },
+  {
+    "id": 4224726,
+    "company": "HAKAN TÜRKMEN",
+    "address": "KOCASİNAN MERKEZ MAH. KONAK SOK. NO:1 / 6 BAHÇELİEVLER",
+    "type": "company",
+    "fax": "2124873205",
+    "phone": "2124873205",
+    "web": "http://www.redoxi.com",
+    "approve_date": "2019-03-13 12:32:40+03"
+  },
+  {
+    "id": 4224727,
+    "company": "MEHMET ARİF ÇETİNER",
+    "address": "ADALET MAH. 14. SK. NO 5 BARUTÇU APT. KAT 1 DAİRE 2 MERKEZ",
+    "type": "company",
+    "fax": "8508850029",
+    "phone": "2582119937",
+    "web": "http://www.corelux.com.tr",
+    "approve_date": "2019-03-13 12:32:40+03"
+  },
+  {
+    "id": 4224728,
+    "company": "GÖKHAN GÜZEL",
+    "address": "GAZİ MAH. MANOLYA SOK. NO:10/4 GAZİPAŞA",
+    "type": "company",
+    "fax": "-",
+    "phone": "5326359280",
+    "web": "http://www.oblado.com",
+    "approve_date": "2019-03-13 12:32:46+03"
+  },
+  {
+    "id": 4224729,
+    "company": "İSMAİL KADER",
+    "address": "DURAK MH. TAHSİN BURUK CD. NO:16 DOFER İŞ HANI KAT:3/10",
+    "type": "company",
+    "fax": "2746550055",
+    "phone": "2746550055",
+    "web": "http://www.inferox.com",
+    "approve_date": "2019-03-13 12:33:36+03"
+  },
+  {
+    "id": 4224730,
+    "company": "ANIL GÜCÜYETER",
+    "address": "KUŞDİLİ CAD.SEVİMLİ İŞ HANI NO:18/163",
+    "type": "company",
+    "fax": "-",
+    "phone": "2165502223",
+    "web": "http://www.milenyumwebtasarim.com.tr",
+    "approve_date": "2019-03-13 12:32:47+03"
+  },
+  {
+    "id": 4224731,
+    "company": "KURTAR KARAKUŞ",
+    "address": "SÜLEYMAN AYTEN CADDESİ 299. SOKAK 42/5 MAMAK",
+    "type": "company",
+    "fax": "3124798932",
+    "phone": "3122123212",
+    "web": "http://www.turnatasarim.com",
+    "approve_date": "2019-03-13 12:32:47+03"
+  },
+  {
+    "id": 4224732,
+    "company": "GÖKHAN  MAYIS ",
+    "address": "ŞEHABETTİN PAŞA MAH KANARA SOK NO 52 KAT 3",
+    "type": "company",
+    "fax": "-",
+    "phone": "5354115639",
+    "web": "http://www.mayisbilisim.com.tr",
+    "approve_date": "2019-03-13 12:32:48+03"
+  },
+  {
+    "id": 4224733,
+    "company": "MURAT GÖKTUNA",
+    "address": "1202/1 SOKAK NO:69 D:706 YENİŞEHİR",
+    "type": "company",
+    "fax": "2324574670",
+    "phone": "2324574670",
+    "web": "http://www.webkokteyli.com",
+    "approve_date": "2019-03-13 12:32:49+03"
+  },
+  {
+    "id": 4224734,
+    "company": "EMRE YILMAZ",
+    "address": "1464 SOK. NO:2 KAT:7 D:701 PARK APARTMANI ALSANCAK",
+    "type": "company",
+    "fax": "-",
+    "phone": "2324224023",
+    "web": "http://www.fok.com.tr",
+    "approve_date": "2019-03-13 12:32:49+03"
+  },
+  {
+    "id": 4224735,
+    "company": "AYDIN GÖKYİĞİT",
+    "address": "CUMHURİYET MH VALİ KONAĞI BLV NO:12 K:3",
+    "type": "company",
+    "fax": "2562152015",
+    "phone": "2562152015",
+    "web": "http://www.argayazilim.com",
+    "approve_date": "2019-03-13 12:32:50+03"
+  },
+  {
+    "id": 4224736,
+    "company": "YUSUF YILMAZ ",
+    "address": "HÜKÜMET KONAGI KARSISI BEYAZ SARAY AVM YANI",
+    "type": "company",
+    "fax": "4362129973",
+    "phone": "4362129973",
+    "web": "http://www.hostadam.com",
+    "approve_date": "2019-03-13 12:32:50+03"
+  },
+  {
+    "id": 4224737,
+    "company": "HATİCE TEKİN ATASOY",
+    "address": "B.EVLERİ MH. 84202 SK. KOYUNGÖZLÜ ST C BL K:3 NO:8 ÇUKUROVA ",
+    "type": "company",
+    "fax": "3223598694",
+    "phone": "5323852355",
+    "web": "http://www.kurumsaluygulamalar.com",
+    "approve_date": "2019-03-13 12:32:51+03"
+  },
+  {
+    "id": 4224738,
+    "company": "İBRAHİM ŞEKERCİ",
+    "address": "YENİŞEHİR MH. MİLLET CD. BELDE İŞ MERKEZİ NO:3/44 PENDİK",
+    "type": "company",
+    "fax": "2166841071",
+    "phone": "2166841071",
+    "web": "http://www.avusor.com",
+    "approve_date": "2019-03-13 12:32:52+03"
+  },
+  {
+    "id": 4224739,
+    "company": "OĞUZHAN DABAK",
+    "address": "SELCUKLU CAD.YENİŞEHİR MH.KARYA EVLERİ B-2 PENDİK",
+    "type": "company",
+    "fax": "2166061020",
+    "phone": "8503020414",
+    "web": "https://www.nitoz.com",
+    "approve_date": "2019-03-13 12:32:52+03"
+  },
+  {
+    "id": 4224740,
+    "company": "FATİH RIZA SÜNNETÇİOĞLU",
+    "address": "ADNAN MEND. MAH. 171. SOK. ESNAF KENT YAPI KOOP. A BLOK KAT1",
+    "type": "company",
+    "fax": "-",
+    "phone": "5548270211",
+    "web": "http://www.marketbiziz.com",
+    "approve_date": "2019-03-13 12:32:52+03"
+  },
+  {
+    "id": 4224741,
+    "company": "ERCİN SALİH AYHAN",
+    "address": "SARIGOL MAH. YAYLA SOK. NO 2 DA 10 GAZİOSMANPASA",
+    "type": "company",
+    "fax": "-",
+    "phone": "5342762882",
+    "web": "http://www.444ticaret.com",
+    "approve_date": "2019-03-13 12:32:52+03"
+  },
+  {
+    "id": 4224742,
+    "company": "TAYFUN ALANYALIOĞLU",
+    "address": "CİNNAH CAD.KIRKPINAR SOK.27/C ÇANKAYA",
+    "type": "company",
+    "fax": "3124401818",
+    "phone": "3124404010",
+    "web": "http://bluehome.com.tr",
+    "approve_date": "2019-03-13 12:32:53+03"
+  },
+  {
+    "id": 4224743,
+    "company": "GÖKHAN DEMİRCİ",
+    "address": "KARAMAN MAH. HAYRİ SK. NO:17 NİLÜFER",
+    "type": "company",
+    "fax": "-",
+    "phone": "5354748223",
+    "web": "http://www.gokdem.com",
+    "approve_date": "2019-03-13 12:32:54+03"
+  },
+  {
+    "id": 4224744,
+    "company": "GANİ ŞEN",
+    "address": "FATİH MAH. BELEN SOK. NO: 2/1 İSCEHİSAR",
+    "type": "company",
+    "fax": "2723413900",
+    "phone": "5426158947",
+    "web": "http://www.bygani.com",
+    "approve_date": "2019-03-13 12:32:55+03"
+  },
+  {
+    "id": 4224745,
+    "company": "MURAT TÜRKYILMAZ",
+    "address": "HASTANE MAH. HADIMKÖY  ARNAVUTKÖY",
+    "type": "company",
+    "fax": "5368263944",
+    "phone": "5368263944",
+    "web": "http://turkyilmazproject.com",
+    "approve_date": "2019-03-13 12:32:55+03"
+  },
+  {
+    "id": 4224746,
+    "company": "UĞUR ÖMER KARAYILAN",
+    "address": "HOCA ÖMER MAH. 203. SOK. NO : 9",
+    "type": "company",
+    "fax": "8503026070",
+    "phone": "8503026070",
+    "web": "http://www.buyukweb.com",
+    "approve_date": "2024-03-13 08:58:39+03"
+  },
+  {
+    "id": 4224747,
+    "company": "RESUL KÜREKÇİ",
+    "address": "SAADETDERE MAH",
+    "type": "company",
+    "fax": "8503043728",
+    "phone": "8503043728",
+    "web": "http://www.rombilisim.com",
+    "approve_date": "2019-03-13 12:32:55+03"
+  },
+  {
+    "id": 4224748,
+    "company": "SİNAN GEZEROĞLU",
+    "address": "ALAADDİN BEY MAHALLESİ 632.SOKAK NO:6/A",
+    "type": "company",
+    "fax": "2242222323",
+    "phone": "2242222323",
+    "web": "http://www.showencam.com",
+    "approve_date": "2019-03-13 12:32:56+03"
+  },
+  {
+    "id": 4224749,
+    "company": "NURSEN HACİOĞLU",
+    "address": "MERKEZ MAH. MARMARA CAD.ERENLER 1 İŞ MERK. NO:22/93 AVCILAR",
+    "type": "company",
+    "fax": "8503041808",
+    "phone": "8503041808",
+    "web": "http://www.ncbilisim.com.tr www.webilnet.com",
+    "approve_date": "2019-03-13 12:32:57+03"
+  },
+  {
+    "id": 4224750,
+    "company": "MURAT YILMAZ",
+    "address": "BAGLARBAŞİ MAH. BAGLARBAŞİ CAD. NO:141/C GAZİOSMANPAŞA",
+    "type": "company",
+    "fax": "2125379292",
+    "phone": "2125379292",
+    "web": "http://www.hepsibirbilisim.com",
+    "approve_date": "2019-03-13 12:32:59+03"
+  },
+  {
+    "id": 4224751,
+    "company": "CEM ALİ SÜMER",
+    "address": "FENER MAH. 1941 SK. HATİCE ÖZKAN SİT. MAVİKOY APT. 9/19 ",
+    "type": "company",
+    "fax": "2423243188",
+    "phone": "2423243188",
+    "web": "http://www.e-hizmet.com.tr",
+    "approve_date": "2019-03-13 12:33:00+03"
+  },
+  {
+    "id": 4224752,
+    "company": "EMRE ÇELEBİ",
+    "address": "İNCİRKÖY MAH. SAİP MOLLA CAD. NO:36/C BEYKOZ",
+    "type": "company",
+    "fax": "2163225218",
+    "phone": "2163225217",
+    "web": "http://databox.com.tr",
+    "approve_date": "2019-03-13 12:33:01+03"
+  },
+  {
+    "id": 4224753,
+    "company": "MURAT ÜMİT İLGAZİ",
+    "address": "AYDINLAR CAD. EGEMENLİK MAH. NO:45 TAKİPSAN PLAZA",
+    "type": "company",
+    "fax": "2324610270",
+    "phone": "2324610270",
+    "web": "http://www.ajansup.com",
+    "approve_date": "2019-03-13 12:33:01+03"
+  },
+  {
+    "id": 4224754,
+    "company": "MURAT GAYĞUSUZ",
+    "address": "MUSTAFA KEMAL MAH. BARIŞ ST. 2093.SK NO:8",
+    "type": "company",
+    "fax": "                    ",
+    "phone": "3122845819",
+    "web": "http://www.beyazhosting.com",
+    "approve_date": "2019-03-13 12:33:02+03"
+  },
+  {
+    "id": 4224755,
+    "company": "İLKER BAKKALCI",
+    "address": "İSTANBUL YOLU AYŞEGÜL SARICA SOKAK UĞUR SİTESİ NO:12",
+    "type": "company",
+    "fax": "-",
+    "phone": "5369998459",
+    "web": "http://www.ilkdata.com",
+    "approve_date": "2019-03-13 12:33:02+03"
+  },
+  {
+    "id": 4224756,
+    "company": "MEHMET SERKAN TALAŞIK",
+    "address": "EMNİYET CAD. ÇAGDAŞ ÇANKAYA İPEK GİYİM",
+    "type": "company",
+    "fax": "-",
+    "phone": "5324637299",
+    "web": "http://hexbilisim.com",
+    "approve_date": "2019-03-13 12:33:03+03"
+  },
+  {
+    "id": 4224757,
+    "company": "İBRAHİM USLU",
+    "address": "KOŞUYOLU MAH. İBRAHİMAĞA ZAVİYESİ SK. LİMAN APT. NO:24/6  ",
+    "type": "company",
+    "fax": "-",
+    "phone": "2163263390",
+    "web": "http://www.stonehosting.net",
+    "approve_date": "2019-03-13 12:33:08+03"
+  },
+  {
+    "id": 4224758,
+    "company": "MUSTAFA EMRAH ARICAN",
+    "address": "MADENLER M. PAMUKOVA S. AYLIN APT. NO:2B/7 ÜMRANİYE",
+    "type": "company",
+    "fax": "-",
+    "phone": "2163276533",
+    "web": "http://www.aricanpm.com",
+    "approve_date": "2019-03-13 12:33:08+03"
+  },
+  {
+    "id": 4224759,
+    "company": "MEHMET BÜLENT NERGİZ",
+    "address": "BUTTİM İŞ MERKEZİ A BLOK KAT 4 NO 1061 OSMANGAZİ ",
+    "type": "company",
+    "fax": "224 2112958",
+    "phone": "2242114151",
+    "web": "http://www.turktelnet.com",
+    "approve_date": "2019-03-13 12:33:10+03"
+  },
+  {
+    "id": 4224760,
+    "company": "ORHAN ÜÇOK",
+    "address": "FATİH MAH. ŞEHİT YRB.YUSUF TURGUT CAD. NO:12 ÇAYIRALAN",
+    "type": "company",
+    "fax": "5417361795",
+    "phone": "5417361795",
+    "web": "http://www.fdcbilisim.com",
+    "approve_date": "2019-03-13 12:33:12+03"
+  },
+  {
+    "id": 4224761,
+    "company": "ÖZCAN İŞİTMEN",
+    "address": "RAGIPBEY MAH. 19. SOKAK  NO 110 AKHİSAR",
+    "type": "company",
+    "fax": "-",
+    "phone": "5324985128",
+    "web": "https://www.reselleradresim.com",
+    "approve_date": "2019-03-13 12:33:13+03"
+  },
+  {
+    "id": 4224762,
+    "company": "MUAMMER İÇDEM",
+    "address": "BAHÇELİEVLER MAH. BEYAZ GÜLLÜ SOK NO:7/3 ÇENGELKÖY/ÜSKÜDAR",
+    "type": "company",
+    "fax": "2163326040",
+    "phone": "2163326040",
+    "web": "http://www.dreamboxhost.com",
+    "approve_date": "2019-03-13 12:33:13+03"
+  },
+  {
+    "id": 4224763,
+    "company": "ELDEM ÖZTÜRK",
+    "address": "UMUT MH. SERHAT SK. YALÇIN KAYA APT. 7/11",
+    "type": "company",
+    "fax": "8508850784",
+    "phone": "5387841396",
+    "web": "http://www.sitoga.net",
+    "approve_date": "2019-03-13 12:33:15+03"
+  },
+  {
+    "id": 4224764,
+    "company": "ÖMER FARUK BORA",
+    "address": "ÇOBANÇEŞME MAH. SANAYİ CAD. NO:20/4 BAHÇELİEVLER",
+    "type": "company",
+    "fax": "2126546120",
+    "phone": "2122164747",
+    "web": "http://www.pixelturk.net",
+    "approve_date": "2019-03-13 12:33:16+03"
+  },
+  {
+    "id": 4224765,
+    "company": "MEHMET FURKAN  ALPER",
+    "address": "YEDİTEPE MAH. 85204 SOK. 71 A 13 ŞAHİNBEY",
+    "type": "company",
+    "fax": "8503023499",
+    "phone": "3426060607",
+    "web": "https://www.control.com.tr",
+    "approve_date": "2019-03-13 12:33:16+03"
+  },
+  {
+    "id": 4224766,
+    "company": "SAMET ARAS",
+    "address": "ALTAYÇEŞME MAHALLESİ ATATÜRK CADDESİ NO 127/A MALTEPE",
+    "type": "company",
+    "fax": "-",
+    "phone": "5316892979",
+    "web": "http://www.yexsa.com",
+    "approve_date": "2019-03-13 12:33:18+03"
+  },
+  {
+    "id": 4224767,
+    "company": "ALİ OKUR",
+    "address": "ALTINŞEHİR MH.MUAMMER AKSOY CD.237.SK.NO:4 ERTUĞRUL EVLERİ ",
+    "type": "company",
+    "fax": "2242232658",
+    "phone": "2242254144",
+    "web": "http://www.domainal.com.tr",
+    "approve_date": "2019-03-13 12:33:19+03"
+  },
+  {
+    "id": 4224768,
+    "company": "ALPARSLAN ENDER UYAR",
+    "address": "MERKEZ M. CUMHURİYET MEYDANI EMİRAĞA CAD A BLOK, K 4, NO:36",
+    "type": "company",
+    "fax": "",
+    "phone": "2125780138",
+    "web": "http://www.naytu.com.tr",
+    "approve_date": "2019-03-13 12:33:21+03"
+  },
+  {
+    "id": 4224769,
+    "company": "ERTUĞRUL  BAKKALOĞLU",
+    "address": "2 NOLU ERDOĞDU MAH. KİSARNA CAD. NO:56/A ORTAHİSAR/TRABZON ",
+    "type": "company",
+    "fax": "8508850961",
+    "phone": "8508850961",
+    "web": "http://www.cloudbunny.net",
+    "approve_date": "2019-03-13 12:33:21+03"
+  },
+  {
+    "id": 4224770,
+    "company": "CEM ÇETİNTAŞ",
+    "address": "GÜVENEVLER MAH. FARABİ SK. 39/5 ÇANKAYA",
+    "type": "company",
+    "fax": "5324867722",
+    "phone": "5324867722",
+    "web": "http://www.cemcetintas.com",
+    "approve_date": "2019-03-13 12:33:22+03"
+  },
+  {
+    "id": 4224771,
+    "company": "HAMDİ EKMEN",
+    "address": "YEDPA TİCARET MERKEZİ G CAD. NO:264 (ESKİ 219-YA) ATAŞEHİR",
+    "type": "company",
+    "fax": "2164991666",
+    "phone": "2164991666",
+    "web": "http://www.sitefabrikasi.com.tr",
+    "approve_date": "2019-03-13 12:33:22+03"
+  },
+  {
+    "id": 4224772,
+    "company": "MEHMET EMİN AKTAŞ",
+    "address": "KURTKÖY MAHALLESİ ANKARA CADDESİ NO:448/1 PENDİK",
+    "type": "company",
+    "fax": "8503047626",
+    "phone": "8503047626",
+    "web": "http://sunucum.com.tr",
+    "approve_date": "2019-03-13 12:33:23+03"
+  },
+  {
+    "id": 4224773,
+    "company": "SERVET ÖZAY",
+    "address": "TOPLUCA MAH. TOPLUCA SOK. NO:180 MUT",
+    "type": "company",
+    "fax": "8504552377",
+    "phone": "8504552377",
+    "web": "http://www.webservet.com",
+    "approve_date": "2019-03-13 12:33:23+03"
+  },
+  {
+    "id": 4224774,
+    "company": "SERHAT PEKTAŞ",
+    "address": "MERKEZ MAHALLESİ ÜZEYİRAĞA SOK. NO:11",
+    "type": "company",
+    "fax": "2126519085",
+    "phone": "5322706810",
+    "web": "http://www.sunucudunyasi.com",
+    "approve_date": "2019-03-13 12:33:24+03"
+  },
+  {
+    "id": 4224775,
+    "company": "ONUR ERKAN",
+    "address": "BAĞDAT CADDESİ İSTASYON YOLU SK NO:3 MALTEPE / İSTANBUL",
+    "type": "company",
+    "fax": "2167061284",
+    "phone": "2167061620",
+    "web": "http://www.weapp.com.tr",
+    "approve_date": "2019-03-13 12:33:24+03"
+  },
+  {
+    "id": 4224776,
+    "company": "AYŞE ÖZGÖREN",
+    "address": "BARUTLUK MAHALLESİ TAVŞAN BABA TÜRBE SOKAK NO 11 D2",
+    "type": "company",
+    "fax": "",
+    "phone": "5367431943",
+    "web": "http://pinbilisim.com",
+    "approve_date": "2019-03-13 12:33:25+03"
+  },
+  {
+    "id": 4224777,
+    "company": "BARAN BEDİR",
+    "address": "TAŞBAŞI MAH. ATATÜRK BULVARI NO:40 DENİZ APT. 1/1",
+    "type": "company",
+    "fax": "",
+    "phone": "8508405473",
+    "web": "http://www.baranos.com",
+    "approve_date": "2019-03-13 12:33:26+03"
+  },
+  {
+    "id": 4224778,
+    "company": "GALİP DEMİRTAŞ",
+    "address": "ÇAMLIK MAH. İKBAL CAD. NO:97/6 ÜMRANİYE",
+    "type": "company",
+    "fax": "2163142405",
+    "phone": "2163142405",
+    "web": "http://www.portaze.com",
+    "approve_date": "2019-03-13 12:33:28+03"
+  },
+  {
+    "id": 4224779,
+    "company": "SERHAN KÜLLÜOĞLU",
+    "address": "H.Efendi-R.Paşa Mah. Barbaros Cad. No:16 Bedesten İş Merkezi K:1/159 Efeler/AYDIN",
+    "type": "company",
+    "fax": "-",
+    "phone": "8503027282",
+    "web": "http://www.serkod.com.tr",
+    "approve_date": "2025-01-14 09:23:47+03"
+  },
+  {
+    "id": 4224780,
+    "company": "ALİ ATIŞ",
+    "address": "ŞEHABETTİNPAŞA MAH. BURSALI TAHİR CADDESİ NO: 11",
+    "type": "company",
+    "fax": "",
+    "phone": "5335653233",
+    "web": "http://www.bilmer.net",
+    "approve_date": "2019-03-13 12:33:29+03"
+  },
+  {
+    "id": 4224781,
+    "company": "OĞUZHAN YETİŞ",
+    "address": "NAİL BEY MAHALLESİ GAZİ CADDESİ 50'LER İŞ HANI NO:27/10",
+    "type": "company",
+    "fax": "4242380034",
+    "phone": "4242380034",
+    "web": "http://www.atomverimerkezi.com",
+    "approve_date": "2019-03-13 12:33:29+03"
+  },
+  {
+    "id": 4224782,
+    "company": "ERDAL ZENGİ",
+    "address": "YENİBOSNA FEVZİÇAKMAK MAH. HAYRAT SK. NO:13 D:6 ŞİRİNEVLER ",
+    "type": "company",
+    "fax": "2125521999",
+    "phone": "5455521999",
+    "web": "http://www.turkeydns.net",
+    "approve_date": "2019-03-13 12:33:31+03"
+  },
+  {
+    "id": 4224783,
+    "company": "SERHAT ÇETİN",
+    "address": "HACI SARRAF MAHALLESİ MEKTEP ARALIK SOKAK NO : 6 YILDIRIM",
+    "type": "company",
+    "fax": "",
+    "phone": "5418516408",
+    "web": "http://www.cetinbilisim.net",
+    "approve_date": "2019-03-13 12:33:31+03"
+  },
+  {
+    "id": 4224784,
+    "company": "AYAZ KAYACI",
+    "address": "YENİYOL MAHALLESİ GAZİ 3 SOKAK SERVER İŞ MERKEZİ 1/9",
+    "type": "company",
+    "fax": "3642252735",
+    "phone": "3642252735",
+    "web": "http://www.linedc.com.tr",
+    "approve_date": "2019-03-13 12:33:32+03"
+  },
+  {
+    "id": 4224785,
+    "company": "FATİH  KIRCILI",
+    "address": "KİRAZLITEPE MAHALLESİ EMRAH SOKAK NO 9/1",
+    "type": "company",
+    "fax": "",
+    "phone": "5078682480",
+    "web": "http://stallkerbilisim.com",
+    "approve_date": "2019-03-13 12:33:32+03"
+  },
+  {
+    "id": 4224786,
+    "company": "BAHADIR SEZER",
+    "address": "ŞARKİYE MH. OSMANPAŞA CD. 63-2 / CESUR TEKNOLOJİ",
+    "type": "company",
+    "fax": "8508850555",
+    "phone": "8508850555",
+    "web": "http://www.cesur.net",
+    "approve_date": "2019-03-13 12:33:33+03"
+  },
+  {
+    "id": 4224787,
+    "company": "AHMET DURUÖZ",
+    "address": "AKPINAR MAH. 866 SOKAK NO:2/17 DİKMEN",
+    "type": "company",
+    "fax": "                    ",
+    "phone": "5323728193",
+    "web": "http://www.prohost.com.tr",
+    "approve_date": "2019-03-13 12:33:33+03"
+  },
+  {
+    "id": 4224788,
+    "company": "ZAFER MELİH UNUTMAZ",
+    "address": "BAHÇELİEVLER MAHALLESİ İSTİKLAL CADDESİ NO:218 İLKADIM ",
+    "type": "company",
+    "fax": "3626060362",
+    "phone": "3626060362",
+    "web": "http://www.computer.com.tr",
+    "approve_date": "2019-03-13 12:33:34+03"
+  },
+  {
+    "id": 4224789,
+    "company": "FERHAT BUDAK",
+    "address": "KAZIMKARABEKİR MAH: ÇINAR CAD: ELMALI SOK: NO:3 DAİRE 1",
+    "type": "company",
+    "fax": "-",
+    "phone": "2626554596",
+    "web": "http://www.prosunucum.com",
+    "approve_date": "2019-03-13 12:33:35+03"
+  },
+  {
+    "id": 4224790,
+    "company": "BARIŞ ÇEPİK",
+    "address": "GAZİMUHTARPAŞA BLV. DOKTORLAR SİTESİ ASMA KAT NO:116",
+    "type": "company",
+    "fax": "",
+    "phone": "5515551479",
+    "web": "http://www.cepik.net",
+    "approve_date": "2019-03-13 12:33:37+03"
+  },
+  {
+    "id": 4224791,
+    "company": "EMİN KUŞKAYA",
+    "address": "ŞİFA MAH. EMİROĞLU CAD. GENİŞ SOKAK NO:29/A TUZLA",
+    "type": "company",
+    "fax": "2164236272",
+    "phone": "2164232000",
+    "web": "http://www.metro-pol.com",
+    "approve_date": "2019-03-13 12:33:37+03"
+  },
+  {
+    "id": 4224792,
+    "company": "UĞUR UYAR",
+    "address": "İHSANİYE MAH. KUVA-İ MİLLİYE CAD. JANET APT. NO:121 KAT:1 D:5 AKDENİZ",
+    "type": "company",
+    "fax": "3243363104",
+    "phone": "3243363104",
+    "web": "http://www.uguruyarbilisim.com.tr",
+    "approve_date": "2019-03-13 12:33:37+03"
+  },
+  {
+    "id": 4224793,
+    "company": "ABDULHADİ ALTAN",
+    "address": "CUMHURİYET MAH. ESKİ IĞDIR CAD. NO:11 TUZLUCA/IĞDIR",
+    "type": "company",
+    "fax": "8503025927",
+    "phone": "4763113251",
+    "web": "http://www.ikalite.net",
+    "approve_date": "2019-03-13 12:33:38+03"
+  },
+  {
+    "id": 4224794,
+    "company": "CENGİZ SEVİ",
+    "address": "ERTUĞRUL MAH.ŞÜKRAN SOK.NO:11",
+    "type": "company",
+    "fax": "2822617768",
+    "phone": "2822617758",
+    "web": "http://www.sevi.net.tr",
+    "approve_date": "2019-03-13 12:33:38+03"
+  },
+  {
+    "id": 4224795,
+    "company": "BATUHAN HASANUSTA",
+    "address": "GENÇOSMAN MAH. DAVUTPAŞA CAD. NO:104/1/4",
+    "type": "company",
+    "fax": "8503027376",
+    "phone": "8503027376",
+    "web": "http://DolunayBilisim.NET",
+    "approve_date": "2019-03-13 12:33:39+03"
+  },
+  {
+    "id": 4224796,
+    "company": "ERKİN ÖZGÜNSÜR",
+    "address": "TAHILPAZARI MAH. 452 SOK. NO : 9 MURATPAŞA / ANTALYA",
+    "type": "company",
+    "fax": "2422444213",
+    "phone": "2422444213",
+    "web": "http://www.sisttechnology.com.tr",
+    "approve_date": "2019-03-13 12:33:40+03"
+  },
+  {
+    "id": 4224797,
+    "company": "İHSAN SAİD ALACA",
+    "address": "MAHFESIĞMAZ MAH. 79147 SK. ÖZGÜNEY APT. ZEMIN KAT. NO:2/1  ",
+    "type": "company",
+    "fax": "3222328909",
+    "phone": "3222328909",
+    "web": "http://www.silverturk.com.tr",
+    "approve_date": "2019-03-13 12:33:40+03"
+  },
+  {
+    "id": 4224798,
+    "company": "OĞUZHAN ÇİÇEK",
+    "address": "KONURALP MH 2056 SK NO:39 AKYAZI",
+    "type": "company",
+    "fax": "8508851028",
+    "phone": "8508850124",
+    "web": "http://lobiweb.com",
+    "approve_date": "2019-03-13 12:33:41+03"
+  },
+  {
+    "id": 4224799,
+    "company": "YUNUS EMRE COŞKUN",
+    "address": "ATATÜRK CAD.KENTCAN APT KAT:4 NO:24",
+    "type": "company",
+    "fax": "5530103226",
+    "phone": "5530103226",
+    "web": "http://relaxbilisim.com",
+    "approve_date": "2019-03-13 12:33:41+03"
+  },
+  {
+    "id": 4224800,
+    "company": "SEÇKİN DÜZ",
+    "address": "YEŞİL MAH. KÖPRÜLÜ SOK. ÖZKENT SİTESİ A BLOK D:25",
+    "type": "company",
+    "fax": "3704153834",
+    "phone": "3704152770",
+    "web": "http://www.seckinshell.com",
+    "approve_date": "2019-03-13 12:33:41+03"
+  },
+  {
+    "id": 4224801,
+    "company": "ŞÜKRÜ EMRE ERİM",
+    "address": "KÜKÜRTLÜ MAH. OULU CAD. OYLUM SİTESİ F BLOK KAT 3 NO 18",
+    "type": "company",
+    "fax": "2242200630",
+    "phone": "2242254475",
+    "web": "http://www.medyabim.com.tr",
+    "approve_date": "2019-03-13 12:33:41+03"
+  },
+  {
+    "id": 4224802,
+    "company": "ESMA DOĞANLAR",
+    "address": "ÇANKAYA MAHALLESİ 1025. SOKAK E. BERAT APARTMANI ALTI ",
+    "type": "company",
+    "fax": "4145020516",
+    "phone": "8506500322",
+    "web": "http://www.liderwebajans.com",
+    "approve_date": "2019-03-13 12:33:42+03"
+  },
+  {
+    "id": 4224803,
+    "company": "SERKAN ÇOBAN",
+    "address": "25 MAYIS MH. 25 MAYIS SK. 25",
+    "type": "company",
+    "fax": "                    ",
+    "phone": "3627001122",
+    "web": "http://www.zed.net.tr",
+    "approve_date": "2019-03-13 12:33:43+03"
+  },
+  {
+    "id": 4224804,
+    "company": "SERKAN  AYDOĞAN",
+    "address": "YENİ MAH. 324 SK. NO:20/A ALTINORDU ",
+    "type": "company",
+    "fax": "",
+    "phone": "5072166830",
+    "web": "http://www.radyotelekom.com",
+    "approve_date": "2019-03-13 12:33:43+03"
+  },
+  {
+    "id": 4224805,
+    "company": "ALİ GÖNEN",
+    "address": "ŞAHKULU MAH. GALİP DEDE CAD. YÖRÜK ÇIKMAZI  GÜNDEŞ AP. NO:1 ",
+    "type": "company",
+    "fax": "2122451579",
+    "phone": "2122451565",
+    "web": "https://selfservisweb.com",
+    "approve_date": "2019-03-13 12:33:43+03"
+  },
+  {
+    "id": 4224806,
+    "company": "VOLKAN MİNSİN",
+    "address": "ATIFBEY MAH. 5/3 SK. NO:1 ADNAN KAR İŞ MERKEZİ K:2 D:205",
+    "type": "company",
+    "fax": "2323747999",
+    "phone": "5348928092",
+    "web": "http://www.vmajans.com",
+    "approve_date": "2019-03-13 12:33:46+03"
+  },
+  {
+    "id": 4224807,
+    "company": "ERDEM MİNDİVANLI",
+    "address": "ULU ÖNDER CAD. NO:53 D:11 YEŞİLYURT / KARABAĞLAR",
+    "type": "company",
+    "fax": "2323320298",
+    "phone": "2323320298",
+    "web": "http://www.boyutnet.com.tr",
+    "approve_date": "2019-03-13 12:33:46+03"
+  },
+  {
+    "id": 4224808,
+    "company": "AHMET EREN RİZELİOĞLU",
+    "address": "ŞEHİT MURAT ALTUNTAŞ CD. A101 MARKET ÜSTÜ K:3 TRABZON/ARAKLI",
+    "type": "company",
+    "fax": "-",
+    "phone": "5370410747",
+    "web": "http://onlybilisim.com",
+    "approve_date": "2019-03-13 12:33:47+03"
+  },
+  {
+    "id": 4224809,
+    "company": "YUNUS KAYA",
+    "address": "NİŞANTAŞ MH. HAZIM ULUŞAHİN İŞ MRK. NO:1 606",
+    "type": "company",
+    "fax": "",
+    "phone": "3322341434",
+    "web": "http://www.kayalarbilisim.com",
+    "approve_date": "2019-03-13 12:33:47+03"
+  },
+  {
+    "id": 4224810,
+    "company": "AHMET CENGIZ",
+    "address": "GÖLÇAYIR MAH. NO:37 AKSEHIR",
+    "type": "company",
+    "fax": "-",
+    "phone": "5424834728",
+    "web": "http://www.cengizbilisim.net",
+    "approve_date": "2019-03-13 12:33:48+03"
+  },
+  {
+    "id": 4224811,
+    "company": "SEZGİN ÖZGÜLER",
+    "address": " ZAFER MAH. ÖZGÜR SOK. NO:35 KAT:1 GÜRSU / BURSA",
+    "type": "company",
+    "fax": "              ",
+    "phone": "5374502403",
+    "web": "http://www.netwebo.com",
+    "approve_date": "2019-03-13 12:33:49+03"
+  },
+  {
+    "id": 4224812,
+    "company": "EMRAH SAYNAZ",
+    "address": "YILDIZTEPE MAH. 37/2.SOK. NO:4/12 BAĞCILAR",
+    "type": "company",
+    "fax": "",
+    "phone": "2124342427",
+    "web": "http://www.gencwebtasarim.com.tr",
+    "approve_date": "2019-03-13 12:33:49+03"
+  },
+  {
+    "id": 4224813,
+    "company": "ÇAĞRI YILMAZ",
+    "address": "RÜSTEM PAŞA MAH. KAYMAKAM ERKİN SOK. BİLGİÇ SİT. A BLOK D 7",
+    "type": "company",
+    "fax": "8503025323",
+    "phone": "8503025323",
+    "web": "http://yilmazservers.com",
+    "approve_date": "2019-03-13 12:33:49+03"
+  },
+  {
+    "id": 4224814,
+    "company": "MUSTAFA ŞENOL ÜNAL",
+    "address": "CİHANGİR MAH. İPLİK SOK. NO:10 İÇ KAPI NO :10 AVCILAR",
+    "type": "company",
+    "fax": "2124225654",
+    "phone": "2124226452",
+    "web": "http://www.sahhosting.com",
+    "approve_date": "2019-03-13 12:33:51+03"
+  },
+  {
+    "id": 4224815,
+    "company": "ORHAN GAZİ BAŞLI",
+    "address": "ERCİYES TEKNOPARK 3. BİNA NO 15 MELİKGAZİ KAYSERİ",
+    "type": "company",
+    "fax": "3522243032",
+    "phone": "3522243031",
+    "web": "https://unlembilisim.com",
+    "approve_date": "2019-03-13 12:33:51+03"
+  },
+  {
+    "id": 4224816,
+    "company": "MURAT ÖZBEK",
+    "address": "HACI İLYAS MAH.CELAL BAYAR CAD. NO:20/A",
+    "type": "company",
+    "fax": "",
+    "phone": "2242245050",
+    "web": "http://www.sultanguvenlik.com",
+    "approve_date": "2019-03-13 12:33:51+03"
+  },
+  {
+    "id": 4226620,
+    "company": "İZCOSOFT YAZILIM VE BİLİŞİM TEKNOLOJİLERİ ANONİM ŞİRKETİ ",
+    "address": "YENİŞEHİR MAH. KARDEŞLER CAD. TEKNOKENT ARGE NO: 7/2",
+    "type": "company",
+    "fax": "3466060565",
+    "phone": "3466060565",
+    "web": "https://www.izcohost.com",
+    "approve_date": "2024-04-26 14:59:38+03"
+  },
+  {
+    "id": 4226621,
+    "company": "SPACE DIGITAL BİLİŞİM LİMİTED ŞİRKETİ ",
+    "address": "YUKARI MAH. İSTASYON CAD. UZUNKAYA BLOK NO: 8 İÇ KAPI NO: 165 KARTAL / İSTANBUL",
+    "type": "company",
+    "fax": "",
+    "phone": "2166065610",
+    "web": "https://ruzgarhost.com",
+    "approve_date": "2024-11-22 14:28:02+03"
+  },
+  {
+    "id": 4226622,
+    "company": "Tahir Tayyip Keskin",
+    "address": "Suluntepe Mah., Zulal Sok., No: 4/3, Blok: B212, Daire: 5, 34909, Pendik / Istanbul",
+    "type": "company",
+    "fax": "8508854605",
+    "phone": "8508854605",
+    "web": "https://www.minussoft.org",
+    "approve_date": "2024-05-09 14:07:45+03"
+  },
+  {
+    "id": 4226623,
+    "company": "FIRAT AĞGEZ",
+    "address": "Şeyhli Mahallesi Molla Gürani Caddesi Milat Sokak No 11 Daire 8 Pendik İstanbul",
+    "type": "company",
+    "fax": "",
+    "phone": "2169121450",
+    "web": "https://zeggaonline.com",
+    "approve_date": "2024-05-09 14:40:53+03"
+  },
+  {
+    "id": 4224817,
+    "company": "RAMAZAN SELİM SİLİĞ",
+    "address": "ŞEHSUVARBEY MH. DÖNÜŞ SK. NO: 24/101 FATİH",
+    "type": "company",
+    "fax": "",
+    "phone": "2125166650",
+    "web": "http://www.websel.com.tr",
+    "approve_date": "2019-03-13 12:33:51+03"
+  },
+  {
+    "id": 4224818,
+    "company": "İSMAİL  ÇOLAK",
+    "address": "CUMHURİYET MAHALLESİ 1979 SOKAK NO :11 KAT 2 EFELER/AYDIN",
+    "type": "company",
+    "fax": "",
+    "phone": "5076028561",
+    "web": "https://turkishdedicated.com",
+    "approve_date": "2019-03-13 12:33:53+03"
+  },
+  {
+    "id": 4224819,
+    "company": "GÖKHAN ÜSTÜN",
+    "address": "5 TELSİZ MAH. 75/2 SK. NO:162/A ZEYTİNBURNU",
+    "type": "company",
+    "fax": "2125825722",
+    "phone": "2125825722",
+    "web": "http://www.jwhost.net",
+    "approve_date": "2019-03-13 12:33:54+03"
+  },
+  {
+    "id": 4224820,
+    "company": "TİMUR  AYDIN",
+    "address": "KURTULUŞ MAH 72 SOKAK HAKAN APT NO 1 İSKENDERUN",
+    "type": "company",
+    "fax": "",
+    "phone": "8503039797",
+    "web": "http://www.webofisi.net",
+    "approve_date": "2019-03-13 12:33:55+03"
+  },
+  {
+    "id": 4224821,
+    "company": "MUSTAFA DİNÇ",
+    "address": "GÖKEVLER MAHALLESİ 546 SOKAK YAPIKENT SİTESİ C BLOK 9/37",
+    "type": "company",
+    "fax": "8503046563",
+    "phone": "8503046563",
+    "web": "http://www.yeni1sunucu.com",
+    "approve_date": "2019-03-13 12:33:56+03"
+  },
+  {
+    "id": 4224822,
+    "company": "OSMAN NAR",
+    "address": "OSMANİYE MAHALLESİ CUMA ALİ AĞIRMAN CADDESİ 81017 SOKAK NO:2",
+    "type": "company",
+    "fax": "03243207431",
+    "phone": "5386446141",
+    "web": "https://www.narsunucum.com",
+    "approve_date": "2019-03-13 12:33:56+03"
+  },
+  {
+    "id": 4224823,
+    "company": "FATİH DURAN",
+    "address": "DUMLU PINAR MAHALLESİ DUMLUPINAR SİTESİ A2 BLOK DAİRE 4",
+    "type": "company",
+    "fax": "--------------------",
+    "phone": "5414947858",
+    "web": "http://www.duranhosting.com",
+    "approve_date": "2019-03-13 12:33:57+03"
+  },
+  {
+    "id": 4224824,
+    "company": "FİLİZ TÜRKYILMAZ",
+    "address": "GAZİ MAH. ŞEHİT MEHMET EMİN GÜRKAN CAD. NO:4/1B GAZİEMİR",
+    "type": "company",
+    "fax": "8508850875",
+    "phone": "8508850875",
+    "web": "http://türkyılmaz.com/",
+    "approve_date": "2019-03-13 12:33:57+03"
+  },
+  {
+    "id": 4224825,
+    "company": "ENGİN AKÇADAĞ",
+    "address": "GÜLTEPE MAH. ALBAYRAK BULVARI NO:5",
+    "type": "company",
+    "fax": "2582411999",
+    "phone": "2582411999",
+    "web": "http://www.megatasarim.com",
+    "approve_date": "2019-03-13 12:33:58+03"
+  },
+  {
+    "id": 4224826,
+    "company": "MERT OZAN ÖZKAN",
+    "address": "SÜVARİ MAHALLESİ 1684.SOKAK 20/5 ETİMESGUT",
+    "type": "company",
+    "fax": "-",
+    "phone": "5458546287",
+    "web": "http://mertsunucum.com",
+    "approve_date": "2019-03-13 12:33:59+03"
+  },
+  {
+    "id": 4224827,
+    "company": "EMRE KOL",
+    "address": "ÇAMKULE MH. 4708 SK. NO : 33 ALTINDAĞ BORNOVA",
+    "type": "company",
+    "fax": "8508850542",
+    "phone": "8508850542",
+    "web": "http://www.emkbilisim.com",
+    "approve_date": "2019-03-13 12:34:00+03"
+  },
+  {
+    "id": 4224828,
+    "company": "ALPEREN EYMEN ÖZCAN",
+    "address": "CAMİKEBİR MAH. GARAJ SOK. TOMRUK APARTMAN ALTI ÖZCAN YAPIPEN",
+    "type": "company",
+    "fax": "2245732007",
+    "phone": "2245732007",
+    "web": "http://www.hostinyo.com",
+    "approve_date": "2019-03-13 12:34:01+03"
+  },
+  {
+    "id": 4224829,
+    "company": "FURKAN UYANIK",
+    "address": "ADALET MAH. KARADENİZ CAD. NO:61 İLKADIM",
+    "type": "company",
+    "fax": "8508404123",
+    "phone": "8508404123",
+    "web": "http://www.ovnora.com",
+    "approve_date": "2019-03-13 12:34:01+03"
+  },
+  {
+    "id": 4224830,
+    "company": "AYHAN ATAKAN ÇOBAN",
+    "address": "9174/1 SOKAK NO:28 D:7 VATANMH",
+    "type": "company",
+    "fax": "-",
+    "phone": "5366061104",
+    "web": "www.pvpal.net",
+    "approve_date": "2019-03-13 12:34:02+03"
+  },
+  {
+    "id": 4224831,
+    "company": "YAKUP SAYIN",
+    "address": "ESKİ OSMANLI SOK. NO:3A/3 MECİDİYEKOY",
+    "type": "company",
+    "fax": "2122748620",
+    "phone": "2122748660",
+    "web": "http://www.kobihosting.com",
+    "approve_date": "2019-03-13 12:34:04+03"
+  },
+  {
+    "id": 4224832,
+    "company": "NİL ARAS",
+    "address": "VİŞNELİK MAH.TAŞKÖPRÜ CAD. SAFA APT. 83/5",
+    "type": "company",
+    "fax": "8508408993",
+    "phone": "2222242787",
+    "web": "http://www.audo.com.tr",
+    "approve_date": "2019-03-13 12:34:05+03"
+  },
+  {
+    "id": 4224833,
+    "company": "SEMA MACİT",
+    "address": "ARMAĞANEVLER MAH. ÇARDAK SOK. NO: 29/10 ÜMRANİYE / İSTANBUL",
+    "type": "company",
+    "fax": "-",
+    "phone": "2164432241",
+    "web": "www.teknovizyon.net",
+    "approve_date": "2019-03-13 12:34:05+03"
+  },
+  {
+    "id": 4224834,
+    "company": "COŞKUN AYDIN",
+    "address": "MİMARSİNAN MAH. 146. SOK. NO 21/A",
+    "type": "company",
+    "fax": "-",
+    "phone": "3624393383",
+    "web": "http://www.wordpresshosting.net.tr",
+    "approve_date": "2019-03-13 12:34:07+03"
+  },
+  {
+    "id": 4224835,
+    "company": "ERHAN MAHMUT",
+    "address": "EGİTİM MAH. ÜNAL SOK. NO: 2 - 20 KADIKÖY",
+    "type": "company",
+    "fax": "2163309046",
+    "phone": "2163309056",
+    "web": "http://www.aysima.com",
+    "approve_date": "2019-03-13 12:34:08+03"
+  },
+  {
+    "id": 4224836,
+    "company": "VELİ  ÇELİK",
+    "address": "MANSUROĞLU MAH. 289 SOK NO:2 ZEMİN D:2 - BAYRAKLI",
+    "type": "company",
+    "fax": "2324619525",
+    "phone": "2324619520",
+    "web": "http://www.arginternet.com",
+    "approve_date": "2019-03-13 12:34:10+03"
+  },
+  {
+    "id": 4224837,
+    "company": "HASAN ÜNAL",
+    "address": "BAĞCILAR EVREN MAHALLESİ 14.SK NO 18:DAİRE 7",
+    "type": "company",
+    "fax": "5425480920",
+    "phone": "5425480920",
+    "web": "http://salayweb.com",
+    "approve_date": "2019-03-13 12:34:10+03"
+  },
+  {
+    "id": 4224838,
+    "company": "KENAN ÜNALAN",
+    "address": "YAVUZ SELİM MAH. MUALLIMBEY SOK NO : 16",
+    "type": "company",
+    "fax": "",
+    "phone": "3562756578",
+    "web": "http://hexsunucu.com",
+    "approve_date": "2019-03-13 12:34:12+03"
+  },
+  {
+    "id": 4224839,
+    "company": "ÇAĞHAN ÇOBANOĞLU",
+    "address": "YENİ PARSELLER MEVKİİ YESA İŞ MERK. K2 D:6 KAVACIK",
+    "type": "company",
+    "fax": "02166803530",
+    "phone": "5077771764",
+    "web": "http://www.exbir.net",
+    "approve_date": "2019-03-13 12:34:13+03"
+  },
+  {
+    "id": 4224840,
+    "company": "AHMET METİN VAROL",
+    "address": "ÇAMLIK MAH. ERGUVAN SİTESİ E14/16 KURTKÖY PENDİK",
+    "type": "company",
+    "fax": "",
+    "phone": "5552415506",
+    "web": "http://www.salkimarge.com",
+    "approve_date": "2019-03-13 12:34:15+03"
+  },
+  {
+    "id": 4224841,
+    "company": "ŞENOL DOĞAN",
+    "address": "YÜCETEPE MH. GENÇLİK CD. ORDULAR SK. 7/A ANITTEPE ÇANKAYA",
+    "type": "company",
+    "fax": "",
+    "phone": "8503046407",
+    "web": "http://bulutpartner.com",
+    "approve_date": "2019-03-13 12:34:16+03"
+  },
+  {
+    "id": 4224842,
+    "company": "EREN ARSLAN",
+    "address": "ALTINPARK MAH. SEMİN SOK. NO: 44 ALTINDAĞ",
+    "type": "company",
+    "fax": "",
+    "phone": "5543056977",
+    "web": "http://fastsunucu.com",
+    "approve_date": "2019-03-13 12:34:17+03"
+  },
+  {
+    "id": 4224843,
+    "company": "OKAN ŞAHİN",
+    "address": "HAMİTLER MAHALLESİ BURÇ SOKAK NO:20/1 OSMANGAZİ",
+    "type": "company",
+    "fax": "8508851140",
+    "phone": "8508851180",
+    "web": "http://www.doganwebajans.com",
+    "approve_date": "2019-03-13 12:34:18+03"
+  },
+  {
+    "id": 4224844,
+    "company": "Vera Byte Telekomünikasyon A.Ş. ",
+    "address": "Adalet Mah. Manas Blv. Folkart Towers No:47 B İç Kapı No: 2809",
+    "type": "company",
+    "fax": "",
+    "phone": "2323322888",
+    "web": "https://verabyte.com.tr",
+    "approve_date": "2025-01-14 13:52:10+03"
+  },
+  {
+    "id": 4224845,
+    "company": "Mert Efe Tınarözü",
+    "address": "Bolluca Mahallesi, Battalgazi Caddesi No: 46, İç Kapı No: 2, Arnavutköy/İstanbul",
+    "type": "company",
+    "fax": "+90 544 397 66 74",
+    "phone": "5443976674",
+    "web": "https://www.devirhosting.net.tr/",
+    "approve_date": "2024-01-16 11:42:17+03"
+  },
+  {
+    "id": 4224846,
+    "company": "ESRA PAMUK",
+    "address": "KARADUT KÖYÜ NO:35 KAHTA ",
+    "type": "company",
+    "fax": "4167372222",
+    "phone": "5375183980",
+    "web": "http://www.heptescil.net",
+    "approve_date": "2019-03-13 12:34:20+03"
+  },
+  {
+    "id": 4224847,
+    "company": "OĞUZCAN GÖKMEN",
+    "address": "ARDINÇLI MAH 743 SOKAK NO 30 D 12",
+    "type": "company",
+    "fax": "8503027939",
+    "phone": "5318207049",
+    "web": "http://cenosgaming.com",
+    "approve_date": "2019-03-13 12:34:20+03"
+  },
+  {
+    "id": 4224848,
+    "company": "AHMET YUSUF BUĞDAY",
+    "address": "FETİH MAH. KARDELEN SOK. SILA APT KAT:6",
+    "type": "company",
+    "fax": "",
+    "phone": "5071857165",
+    "web": "http://www.dengeweb.net",
+    "approve_date": "2019-03-13 12:34:21+03"
+  },
+  {
+    "id": 4224849,
+    "company": "GÜNÇAĞ YILDZI",
+    "address": "ÖMERAĞA MAH. M.LEVENT ERSOK SOK ALTINNAL AP. K.2 NO 1",
+    "type": "company",
+    "fax": "2623249800",
+    "phone": "2623249800",
+    "web": "http://www.raksmedya.com.tr",
+    "approve_date": "2019-03-13 12:34:21+03"
+  },
+  {
+    "id": 4224850,
+    "company": "BURAK YARTAŞI",
+    "address": "SÖĞÜTLÜÇEŞME MAHALLESİ ATATÜRK CADDESİ FAHRİ SOKAK NO 17 KAT",
+    "type": "company",
+    "fax": "5555911568",
+    "phone": "5555911568",
+    "web": "http://www.yenisunucum.com",
+    "approve_date": "2019-03-13 12:34:21+03"
+  },
+  {
+    "id": 4224851,
+    "company": "AHMET İNAYET",
+    "address": "ÇAMLIBEL CAD. KARLI SOK. NO:21/3",
+    "type": "company",
+    "fax": "2129091321",
+    "phone": "2129091321",
+    "web": "https://www.sunucuhizmeti.com.tr",
+    "approve_date": "2019-03-13 12:34:24+03"
+  },
+  {
+    "id": 4224852,
+    "company": "MURAT DEĞİRMENCİ",
+    "address": "CUMHURİYET MH. İSMET İNÖNÜ BULVARI NO:259/D ATAKUM",
+    "type": "company",
+    "fax": "3624391373",
+    "phone": "3624385030",
+    "web": "http://www.mddata.net",
+    "approve_date": "2019-03-13 12:34:25+03"
+  },
+  {
+    "id": 4224853,
+    "company": "AHMET TAŞCI",
+    "address": "MEYDAN KAVAĞI MAH AVNİ TOLUNAY CAD TOLUNAY APT NO:39 K.2 D.4",
+    "type": "company",
+    "fax": "--------------------",
+    "phone": "2423126465",
+    "web": "http://ayyildizsunucu.com/",
+    "approve_date": "2019-03-13 12:34:26+03"
+  },
+  {
+    "id": 4224854,
+    "company": "MEHMET NECMİ ÖZDEMİR",
+    "address": "50 YIL MAHALLESİ 2059 SOKAK NO:9/9 SULTANGAZİ",
+    "type": "company",
+    "fax": "2125944140",
+    "phone": "8508401230",
+    "web": "http://www.vpssunucu.com.tr",
+    "approve_date": "2019-03-13 12:34:27+03"
+  },
+  {
+    "id": 4224855,
+    "company": "Server Tescil İnternet Bilişim Danışmanlık Ticaret Limited Şirketi ",
+    "address": "Papuçlar Mah. Adnan Menderes Cad. Özcan İş Merkezi Blok No:2 İç Kapı No:7 Adapazarı/Sakarya",
+    "type": "company",
+    "fax": "8503096601",
+    "phone": "8503096601",
+    "web": "https://www.servertescil.net",
+    "approve_date": "2023-05-30 10:23:38+03"
+  },
+  {
+    "id": 4224856,
+    "company": "CİHAN KUT",
+    "address": "ACISU CAD. BEZIRGAN SOK. 14J B2 D5 Y.DUDULLU ÜMRANİYE",
+    "type": "company",
+    "fax": "",
+    "phone": "5379589671",
+    "web": "http://www.turkwebhosting.com",
+    "approve_date": "2019-03-13 12:34:28+03"
+  },
+  {
+    "id": 4224857,
+    "company": "MUHAMMET SUAT GÜRBAK",
+    "address": "ATATÜRK CAD. KASTELLİ İŞ MERKEZİ NO:142 KÜÇÜKBAKKALKÖY",
+    "type": "company",
+    "fax": "",
+    "phone": "2165770111",
+    "web": "http://www.hoosting.net",
+    "approve_date": "2019-03-13 12:34:29+03"
+  },
+  {
+    "id": 4224858,
+    "company": "TOLGA DEVECİ",
+    "address": "ALTINTOP MAH. 1603 SOK. NO:11",
+    "type": "company",
+    "fax": "8503024678",
+    "phone": "8503024678",
+    "web": "http://www.hostline.com.tr",
+    "approve_date": "2019-03-13 12:34:30+03"
+  },
+  {
+    "id": 4224859,
+    "company": "VOLKAN SABAH",
+    "address": "ALTINTOP MAH. 834. SOK ÇINAR ÇARŞI İŞHANI KAT:3 NO:87 MERKEZ",
+    "type": "company",
+    "fax": "",
+    "phone": "5313865555",
+    "web": "http://www.sabahtasarim.com",
+    "approve_date": "2019-03-13 12:34:30+03"
+  },
+  {
+    "id": 4224860,
+    "company": "GÖKAY ÇELİK",
+    "address": "SÜTLÜCE MAHALLESİ 2. MANDIRA SOKAK NO 1 KAT 3",
+    "type": "company",
+    "fax": "08503044709",
+    "phone": "8503044709",
+    "web": "https://www.buyukhosting.com",
+    "approve_date": "2019-03-13 12:34:33+03"
+  },
+  {
+    "id": 4224861,
+    "company": "ÖMER YÜCE",
+    "address": "ÖZVEREN SOK. NO:13/18 DEMİRTEPE ÇANKAYA",
+    "type": "company",
+    "fax": "",
+    "phone": "3122290981",
+    "web": "http://www.normyazilim.com",
+    "approve_date": "2019-03-13 12:34:35+03"
+  },
+  {
+    "id": 4224862,
+    "company": "MUHAMMED DOĞRU",
+    "address": "YENİŞEHİR MAH. 20.CAD 60/B NO : 10",
+    "type": "company",
+    "fax": "4145112788",
+    "phone": "4145112788",
+    "web": "http://www.helixbilisim.com",
+    "approve_date": "2019-03-13 12:34:36+03"
+  },
+  {
+    "id": 4224863,
+    "company": "ERDEM ÇELİK",
+    "address": "NİŞANCA MAHALLESİ AHÇIBAŞI CAMİ SOKAK NO:11 DAİRE :4 / EYÜP",
+    "type": "company",
+    "fax": "2129510639",
+    "phone": "2129510639",
+    "web": "https://www.nexsoft.com.tr",
+    "approve_date": "2019-03-13 12:34:37+03"
+  },
+  {
+    "id": 4224864,
+    "company": "BÜLENT ÖZÇETİN",
+    "address": "İNÖNÜ MAH MASLAKÇEŞME CAD NO:135 SEFAKÖY - KÜÇÜKÇEKMECE",
+    "type": "company",
+    "fax": "",
+    "phone": "8503048798",
+    "web": "http://www.teknolojisitesi.com",
+    "approve_date": "2019-03-13 12:34:37+03"
+  },
+  {
+    "id": 4224865,
+    "company": "ZEKERİYA TAŞTAN",
+    "address": "İHSANİYE MAH. DEĞİRMEN CAD. NO:32 K:1 D:1",
+    "type": "company",
+    "fax": "2242501645",
+    "phone": "2242501645",
+    "web": "http://www.zemta.com",
+    "approve_date": "2019-03-13 12:34:38+03"
+  },
+  {
+    "id": 4224866,
+    "company": "ALİ GENİŞ",
+    "address": "AYVALI MAH KARDEŞLER KOOP 159.CADDE NO 33/B KEÇİÖREN",
+    "type": "company",
+    "fax": "",
+    "phone": "3123213433",
+    "web": "http://www.frozen.com.tr",
+    "approve_date": "2019-03-13 12:34:38+03"
+  },
+  {
+    "id": 4224867,
+    "company": "Yiğiter SALMAN",
+    "address": "Yeni Mahalle 2071 Sokak No:1/10 ",
+    "type": "company",
+    "fax": "",
+    "phone": "8505504554",
+    "web": "https://hensoft.com.tr",
+    "approve_date": "2024-01-17 10:02:07+03"
+  },
+  {
+    "id": 4224868,
+    "company": "ABDULHALİM KARAKELLE",
+    "address": "TEPECİK B.ÇEKMECEHÜRRİYET MH. GEZEGEN SK NO10 HASİPOĞLU APT.",
+    "type": "company",
+    "fax": "8503026469",
+    "phone": "5307252469",
+    "web": "http://www.netsunucu.org",
+    "approve_date": "2019-03-13 12:34:40+03"
+  },
+  {
+    "id": 4224869,
+    "company": "NURAN PINAR",
+    "address": "MİMAR KEMALETTİN CAD. NO:7 K:3/303 ÇANKAYA",
+    "type": "company",
+    "fax": "2324467779",
+    "phone": "2324467775",
+    "web": "http://www.nsgrup.com",
+    "approve_date": "2019-03-13 12:34:41+03"
+  },
+  {
+    "id": 4224870,
+    "company": "RIZA ÖCALIR",
+    "address": "ALİ NİHAT TARLAN CAD. KAHRAMAN SOK 1/4 KADIKÖY",
+    "type": "company",
+    "fax": "2167061216",
+    "phone": "2167061216",
+    "web": "http://kreatoryum.com.tr",
+    "approve_date": "2019-03-13 12:34:41+03"
+  },
+  {
+    "id": 4224871,
+    "company": "AHMET EREN GENÇTÜRK",
+    "address": "HAMİDİYE CAMİİ SOKAK. RÜSTEM BEY KÖŞKÜ BÜYÜKADA",
+    "type": "company",
+    "fax": "",
+    "phone": "2163886020",
+    "web": "http://www.webcozumleri.com",
+    "approve_date": "2019-03-13 12:34:42+03"
+  },
+  {
+    "id": 4224872,
+    "company": "UĞUR AY",
+    "address": "BOĞAZKENT MAH. MANİK ALİ CAD. NO 24/2",
+    "type": "company",
+    "fax": "2869991836",
+    "phone": "2869991836",
+    "web": "http://troiabilisim.com",
+    "approve_date": "2019-03-13 12:34:42+03"
+  },
+  {
+    "id": 4224873,
+    "company": "AYDIN GÜLHAN",
+    "address": "ESENBEY MAH. PAŞAKAPI CAD. NO: 28/F",
+    "type": "company",
+    "fax": "8503044103",
+    "phone": "8503044103",
+    "web": "https://zionweeb.com.tr",
+    "approve_date": "2019-03-13 12:34:43+03"
+  },
+  {
+    "id": 4224874,
+    "company": "REFİK ERHAN GÖVER",
+    "address": "ALTINŞEHİR MAH. MUAMMER AKSOY CAD. NO:45 VİLLA NİLÜFER",
+    "type": "company",
+    "fax": "2242530999",
+    "phone": "2242714455",
+    "web": "http://www.profornet.com",
+    "approve_date": "2019-03-13 12:34:44+03"
+  },
+  {
+    "id": 4224875,
+    "company": "ORÇUN CAN  EROĞLU",
+    "address": "AYDIN YUVA SOK. NO:15/16 KARTALTEPE MAH. BAKIRKÖY",
+    "type": "company",
+    "fax": "8508405647",
+    "phone": "8508405647",
+    "web": "http://banada.co",
+    "approve_date": "2019-03-13 12:34:45+03"
+  },
+  {
+    "id": 4224876,
+    "company": "DOĞUKAN ŞİMŞEK",
+    "address": "BAĞLARBAŞI MAH. İNÖNÜ CAD. NO/BLOK:6F D:8 MALTEPE",
+    "type": "company",
+    "fax": "",
+    "phone": "5319321583",
+    "web": "http://www.ustadbilisim.com",
+    "approve_date": "2019-03-13 12:34:45+03"
+  },
+  {
+    "id": 4224877,
+    "company": "HASAN ALPAY TÜRKOĞLU",
+    "address": "HUZUREVLERİ MAH. 77031 SK - NO:8/2 - ÇUKUROVA - ADANA",
+    "type": "company",
+    "fax": "-",
+    "phone": "5315250909",
+    "web": "http://www.adanaweb.web.tr",
+    "approve_date": "2019-03-13 12:34:46+03"
+  },
+  {
+    "id": 4224878,
+    "company": "FURKAN LAFCI",
+    "address": "DENİZ YOLU CADDESİ 37. SOKAK KONAK MAHALLESİ NO:310 GÖLHİSAR",
+    "type": "company",
+    "fax": "5467872372",
+    "phone": "5467872372",
+    "web": "http://bilirhost.com",
+    "approve_date": "2019-03-13 12:34:47+03"
+  },
+  {
+    "id": 4224879,
+    "company": "SÜLEYMAN TIRNAKÇI",
+    "address": "ARAP HASAN MAH. 236 SOK. NO:65 HATAY - KARABAĞLAR",
+    "type": "company",
+    "fax": "2324840932",
+    "phone": "2324844678",
+    "web": "http://www.onofis.com",
+    "approve_date": "2019-03-13 12:34:48+03"
+  },
+  {
+    "id": 4224880,
+    "company": "MUHAMMED ALİ KAN",
+    "address": "YENİ MAHALLE 404 SK. NO 6/3 GÜMÜŞOVA",
+    "type": "company",
+    "fax": "",
+    "phone": "3807313414",
+    "web": "http://dzcbilisim.com/",
+    "approve_date": "2019-03-13 12:34:48+03"
+  },
+  {
+    "id": 4224881,
+    "company": "AHMET AYDİN",
+    "address": "7 EYLÜL MH. 5540 SK. NO:53 TORBALI",
+    "type": "company",
+    "fax": "8508403360",
+    "phone": "5061677047",
+    "web": "http://renklihost.com",
+    "approve_date": "2019-03-13 12:34:49+03"
+  },
+  {
+    "id": 4224882,
+    "company": "AYKUT ÇAN",
+    "address": "BAĞLARALTI MAH. 3. CAD. 22 PARSEL MEŞE KOOP. 19. BLOK D:3",
+    "type": "company",
+    "fax": "",
+    "phone": "5522292616",
+    "web": "http://www.decagon.com.tr",
+    "approve_date": "2019-03-13 12:34:49+03"
+  },
+  {
+    "id": 4224883,
+    "company": "İNTERNEXUS EĞİTİM DANIŞMANLIK REKLAMCILIK BİLGİSAYAR YAZILIM MAKİNA İTHALAT İHR.VE D.TİC. LTD. ŞTİ. ",
+    "address": "Şehit Ersan Cad. Pembe Kosk Sitesi C2/1",
+    "type": "company",
+    "fax": "",
+    "phone": "05324462696",
+    "web": "https://rise.net.tr/",
+    "approve_date": "2025-01-14 14:09:22+03"
+  },
+  {
+    "id": 4224884,
+    "company": "HÜSEYİN BATAL",
+    "address": "CAMİİŞERİF MAH. 5248 SK. UTKU APT. A BLOK NO:7 KAT:1/2  AKDE",
+    "type": "company",
+    "fax": "",
+    "phone": "8504303333",
+    "web": "https://baturyazilim.com",
+    "approve_date": "2019-03-13 12:34:55+03"
+  },
+  {
+    "id": 4224885,
+    "company": "ONUR HASÖZ",
+    "address": "ORHANİYE MAHALLESİ MESUDİYE CADDESİ NO:39/A İNEGÖL ",
+    "type": "company",
+    "fax": "8508850172",
+    "phone": "8508850171",
+    "web": "http://www.bilisimhosting.net.tr",
+    "approve_date": "2019-03-13 12:34:55+03"
+  },
+  {
+    "id": 4224886,
+    "company": "Burak Güder",
+    "address": "Söğütlü Mahallesi Söğütlü Irmak Caddesi Söğüteli Apartmanı Kat:8 Daire:31",
+    "type": "company",
+    "fax": "",
+    "phone": "05533237323",
+    "web": "https://www.ideamax.com.tr",
+    "approve_date": "2024-05-06 13:42:22+03"
+  },
+  {
+    "id": 4224887,
+    "company": "MERT KARAGÖZ",
+    "address": "KAZIMÖZALP CAD. NO:18 PINARBAŞI/BORNOVA",
+    "type": "company",
+    "fax": "5079625342",
+    "phone": "5079625342",
+    "web": "http://sumerhost.net",
+    "approve_date": "2019-03-13 12:34:59+03"
+  },
+  {
+    "id": 4224888,
+    "company": "YALÇIN KARAGÖZ",
+    "address": "CARŞI MAH. CUMHURİYET CAD. NO:69 KARAGÖZ İLETİŞİM",
+    "type": "company",
+    "fax": "4644162020",
+    "phone": "4644162020",
+    "web": "webyeri.com",
+    "approve_date": "2019-03-13 12:35:01+03"
+  },
+  {
+    "id": 4224889,
+    "company": "FATİH OZDEMİR",
+    "address": "ATATÜRK CAD. NO:354/A CUMHURİYET İŞ MERKEZİ KAT:5",
+    "type": "company",
+    "fax": "8505321732",
+    "phone": "8505321732",
+    "web": "https://www.xsunucu.com.tr",
+    "approve_date": "2019-03-13 12:35:03+03"
+  },
+  {
+    "id": 4224890,
+    "company": "Mesut Yaman",
+    "address": "KAYABAŞI MAH. GÖKÇEADA CAD. 24. BÖLGE HAVUZLUBAHÇE NO: 8 DA BAŞAKŞEHİR/ İSTANBUL",
+    "type": "company",
+    "fax": "",
+    "phone": "05531383300",
+    "web": "https://yamanhosting.com/",
+    "approve_date": "2023-05-30 10:29:21+03"
+  },
+  {
+    "id": 4224891,
+    "company": "İSLAM KAYGUSUZ",
+    "address": "KUŞDİLLİ MAHALLESİ / 3.ÇARŞI CAMİİ SOKAK./EMEK İŞ HANI /N.47",
+    "type": "company",
+    "fax": "3862140900",
+    "phone": "5455828794",
+    "web": "http://www.iskaybilisim.com",
+    "approve_date": "2019-03-13 12:35:03+03"
+  },
+  {
+    "id": 4224892,
+    "company": "GÖKHAN DEREOĞLU",
+    "address": "RASİMPAŞA MAHALLESİ, TAYYARECİ SAMİ SOKAK, NO:13 KAT:3 D:127",
+    "type": "company",
+    "fax": "2163309906",
+    "phone": "2163309906",
+    "web": "https://stakhosting.co",
+    "approve_date": "2019-03-13 12:35:04+03"
+  },
+  {
+    "id": 4224893,
+    "company": "ÖMER TURGUT YÜCE",
+    "address": "A.KUTSİ TECER CAD..ALTAY SK.NO:5/G MERTER",
+    "type": "company",
+    "fax": "2125536745",
+    "phone": "2125065050",
+    "web": "http://www.ntbilisim.com",
+    "approve_date": "2019-03-13 12:35:05+03"
+  },
+  {
+    "id": 4224894,
+    "company": "ORKUN ÖZGİRESUN",
+    "address": "İZMİR/SEFERİHİSAR CAMLI GONEN SİTESİ 34 NUMARA",
+    "type": "company",
+    "fax": "-",
+    "phone": "5051245012",
+    "web": "ortekbilisim.com",
+    "approve_date": "2019-03-13 12:35:06+03"
+  },
+  {
+    "id": 4224895,
+    "company": "HÜRKAN YAZICI",
+    "address": "AKAT MAH. FENERLİ HRİSTO SK. 574",
+    "type": "company",
+    "fax": "",
+    "phone": "5349289899",
+    "web": "https://www.hurbilisim.com",
+    "approve_date": "2019-03-13 12:35:06+03"
+  },
+  {
+    "id": 4224896,
+    "company": "SONGÜL AVŞAR",
+    "address": "BEŞTELSİZ MAHALLESİ 1 YOL SOKAK NO:18/B ZEYTİNBURNU",
+    "type": "company",
+    "fax": "-",
+    "phone": "5340737273",
+    "web": "http://eralbilisim.com",
+    "approve_date": "2019-03-13 12:35:08+03"
+  },
+  {
+    "id": 4224897,
+    "company": "FAZIL AKBULUT",
+    "address": "CUMHURİYET CD. 2. SK. YILMAZ İŞHANI KAT: 3, 10400 AYVALIK/BA",
+    "type": "company",
+    "fax": "",
+    "phone": "8503029457",
+    "web": "https://www.steeldc.com",
+    "approve_date": "2019-03-13 12:35:08+03"
+  },
+  {
+    "id": 4224898,
+    "company": "MUHAMMET MUHARREM ANLAYIŞLI",
+    "address": "AYVANSARAY MAH. ÇAKIRAĞA YOK. NO:3/12",
+    "type": "company",
+    "fax": "2125331304",
+    "phone": "2125331304",
+    "web": "http://www.tussesleri.com",
+    "approve_date": "2019-03-13 12:35:08+03"
+  },
+  {
+    "id": 4224899,
+    "company": "SEDAT ŞENCAN",
+    "address": "İSMET PAŞA MAH. ÇAPA SK. 2 4",
+    "type": "company",
+    "fax": "8503044671",
+    "phone": "8503044671",
+    "web": "http://www.nr1gaming.com",
+    "approve_date": "2019-03-13 12:35:08+03"
+  },
+  {
+    "id": 4224900,
+    "company": "Emirhan Kurt",
+    "address": "YENI YALI MAHALLESİ KUTLU SOKAK NO 4 KAT 2",
+    "type": "company",
+    "fax": "",
+    "phone": "8503073083",
+    "web": "https://netvay.com",
+    "approve_date": "2025-01-15 10:44:01+03"
+  },
+  {
+    "id": 4224901,
+    "company": "Seher Kabalı",
+    "address": "ATAKÖY 7-8-9-10. KISIM MAH. ÇOBANÇEŞME E-5 YAN YOL CAD. A BLOK NO:22",
+    "type": "company",
+    "fax": "8505543455",
+    "phone": "8505543455",
+    "web": "https://www.sunucucenter.com",
+    "approve_date": "2023-11-24 10:40:17+03"
+  },
+  {
+    "id": 4224902,
+    "company": "ATİLLA İLHAN KARTAL",
+    "address": "EGE MH. 438 SK. VİZYONKENT SİT. A1 BLOK D:3 KUŞADASI",
+    "type": "company",
+    "fax": "5321695668",
+    "phone": "8504955323",
+    "web": "http://www.ergatech.com",
+    "approve_date": "2019-03-13 12:35:09+03"
+  },
+  {
+    "id": 4224903,
+    "company": "MAHMUT TERZİ",
+    "address": "ÇARŞI MAH.GÜNEŞ SOK. GÜNEŞ APT KAT:2 NO:10",
+    "type": "company",
+    "fax": "",
+    "phone": "5467973975",
+    "web": "http://3m1ktele.com",
+    "approve_date": "2019-03-13 12:35:10+03"
+  },
+  {
+    "id": 4224904,
+    "company": "YAREN ERSÖNMEZ",
+    "address": "KÜÇÜK MUSTAFAPAŞA MAH. EMEKSİZ CAD. ,BİNGÜL APT. NO:6 KAT:",
+    "type": "company",
+    "fax": "8508852044",
+    "phone": "8508852044",
+    "web": "http://elmahosting.com",
+    "approve_date": "2019-03-13 12:35:11+03"
+  },
+  {
+    "id": 4224905,
+    "company": "SERKAN  DEĞİRMENCİOĞLU",
+    "address": "RASİMPAŞA MAH. GENERAL ŞAHAP GÜRLER CAD. NO: 24 / B KADIKÖY",
+    "type": "company",
+    "fax": "2163369545",
+    "phone": "2163369006",
+    "web": "http://www.renkas.net.tr",
+    "approve_date": "2019-03-13 12:35:11+03"
+  },
+  {
+    "id": 4224906,
+    "company": "MUSTAFA KESEN",
+    "address": "SALIBABA MAHALLESİ TANYERİ SOKAK NO:20/1",
+    "type": "company",
+    "fax": "8508850082",
+    "phone": "2165990059",
+    "web": "https://www.vioki.com/",
+    "approve_date": "2019-03-13 12:35:12+03"
+  },
+  {
+    "id": 4224907,
+    "company": "MUSTAFA KÖSE",
+    "address": "PAZAR MAH. FATİH CAD. 24/7",
+    "type": "company",
+    "fax": "8503024242",
+    "phone": "8503024242",
+    "web": "www.classbilisim.com.tr - www.turkspeed.com",
+    "approve_date": "2019-03-13 12:35:12+03"
+  },
+  {
+    "id": 4224908,
+    "company": "UMUT SAMUK",
+    "address": "KİREMİTHANE MH.SAKARYA CD.ÖZTEKİN AP. NO:15/8 AKDENİZ/MERSİN",
+    "type": "company",
+    "fax": "3242378719",
+    "phone": "3242372860",
+    "web": "http://www.umtbilisim.com",
+    "approve_date": "2019-03-13 12:35:12+03"
+  },
+  {
+    "id": 4224909,
+    "company": "PAŞA PAŞAYEV",
+    "address": "YENİ MAH. A. VEYSEL BULV. ERCİYES TEKNOPARK NO:61/22",
+    "type": "company",
+    "fax": "3522323116",
+    "phone": "3522323116",
+    "web": "https://hostingvadisi.com",
+    "approve_date": "2019-03-13 12:35:13+03"
+  },
+  {
+    "id": 4224910,
+    "company": "ÜMİT AKIN",
+    "address": "ÖZ YAŞA İŞ MERKEZİ YILMAZLAR CENTER KARAŞISI  KAT 4 NO 27",
+    "type": "company",
+    "fax": "8508402172",
+    "phone": "8508402172",
+    "web": "http://akinhost.com",
+    "approve_date": "2019-03-13 12:35:13+03"
+  },
+  {
+    "id": 4224911,
+    "company": "DOĞUKAN KURU",
+    "address": "İZMİR BORNOVA ALTINDAĞ 4218 SOK NO 5 KAT 1",
+    "type": "company",
+    "fax": "",
+    "phone": "5051349608",
+    "web": "https://www.webdebir.com.tr",
+    "approve_date": "2019-03-13 12:35:16+03"
+  },
+  {
+    "id": 4224912,
+    "company": "FERDİ KÜÇÜK",
+    "address": "INÖNÜ MAHALLESİ 1975 SOKAK 54-1",
+    "type": "company",
+    "fax": "-",
+    "phone": "8503047104",
+    "web": "https://www.sunucucozumleri.com",
+    "approve_date": "2019-03-13 12:35:20+03"
+  },
+  {
+    "id": 4224913,
+    "company": "ZERO VERİ MERKEZİ TEKNOLOJİLERİ A.Ş ",
+    "address": "Orhangazi mah. Yeşilyurt sok. No :69/8",
+    "type": "company",
+    "fax": "2222220404",
+    "phone": "2222220404",
+    "web": "https://www.zeronet.com.tr",
+    "approve_date": "2024-03-18 09:14:53+03"
+  },
+  {
+    "id": 4224914,
+    "company": "SİNAN EMİN ERDEM",
+    "address": "CUMHURİYET MAH. NO:8 SESA İŞ MERKEZİ KAT:3 / 18 FETHİYE",
+    "type": "company",
+    "fax": "2526120027",
+    "phone": "2526126991",
+    "web": "http://www.sineer.net",
+    "approve_date": "2019-03-13 12:35:21+03"
+  },
+  {
+    "id": 4224915,
+    "company": "DENİZ SAĞBİRGE",
+    "address": "ORTACAMİ MAHALLESİ/SOYSAL SOKAK/NO25/KAT1",
+    "type": "company",
+    "fax": "",
+    "phone": "5454842197",
+    "web": "http://www.etkenweb.com",
+    "approve_date": "2019-03-13 12:35:23+03"
+  },
+  {
+    "id": 4224916,
+    "company": "ŞERİFE BOZOĞLAN",
+    "address": "SANAYİ MAH. GARAJ ALTI 4 NOLU SK. NO:9 DÖRTYOL",
+    "type": "company",
+    "fax": "3267125939",
+    "phone": "3267125939",
+    "web": "http://www.kirmizigulbilisim.com",
+    "approve_date": "2019-03-13 12:35:23+03"
+  },
+  {
+    "id": 4224917,
+    "company": "MUSA ÖZTÜRK",
+    "address": "ABDİ İPEKÇİ CAD. NO:210/C",
+    "type": "company",
+    "fax": "",
+    "phone": "2324351987",
+    "web": "http://www.vdscity.net",
+    "approve_date": "2019-03-13 12:35:23+03"
+  },
+  {
+    "id": 4224918,
+    "company": "MUHİTTİN BOZKURT",
+    "address": "ATA MH. ALT SN. 3.CD NO:31 EFELER",
+    "type": "company",
+    "fax": "8503465720",
+    "phone": "8503465720",
+    "web": "http://alansoft.net",
+    "approve_date": "2019-03-13 12:35:24+03"
+  },
+  {
+    "id": 4224919,
+    "company": "HAYDAR SEÇKİN",
+    "address": "YENİ MH. HÜKÜMET CD. NO:26 YUNAK",
+    "type": "company",
+    "fax": "-",
+    "phone": "5335682990",
+    "web": "http://1453plus.com",
+    "approve_date": "2019-03-13 12:35:24+03"
+  },
+  {
+    "id": 4224920,
+    "company": "UĞUR ÜNSAL",
+    "address": "KARTAL OTO SANAYİ SİTESİ YÖNETİM BİNASI NO:8 KARTAL",
+    "type": "company",
+    "fax": "2164885032",
+    "phone": "2165177901",
+    "web": "http://www.utzbilisim.net",
+    "approve_date": "2019-03-13 12:35:25+03"
+  },
+  {
+    "id": 4224921,
+    "company": "BURHAN ELMA",
+    "address": "İSTANBUL / KADIKÖY / OSMANAĞA MAH",
+    "type": "company",
+    "fax": "",
+    "phone": "5397950497",
+    "web": "http://www.gametescil.com",
+    "approve_date": "2019-03-13 12:35:25+03"
+  },
+  {
+    "id": 4224922,
+    "company": "ZAFER BAHTLI",
+    "address": "ŞEKERHANE MAH ŞEVKET TOKUŞ CAD DİLEK AP 14/3",
+    "type": "company",
+    "fax": "5522246107",
+    "phone": "5522246107",
+    "web": "http://www.kralserver.com",
+    "approve_date": "2019-03-13 12:35:26+03"
+  },
+  {
+    "id": 4224923,
+    "company": "CİHAN UÇAR",
+    "address": "Maslak Mah., Ahi Evran Cd. No:6 D:3 42, B Blok, 34485 Sarıyer/İstanbul",
+    "type": "company",
+    "fax": "8508852323",
+    "phone": "8508852323",
+    "web": "https://www.netg.com.tr",
+    "approve_date": "2025-01-20 14:50:22+03"
+  },
+  {
+    "id": 4224924,
+    "company": "AHMET AKDENİZ",
+    "address": "GÖKÇEBOSTAN MAH. 19-4 SOK. NO:20",
+    "type": "company",
+    "fax": "-",
+    "phone": "5318194979",
+    "web": "https://www.o12.org",
+    "approve_date": "2019-03-13 12:35:28+03"
+  },
+  {
+    "id": 4224925,
+    "company": "ONUR KARAMAN",
+    "address": "DAVUTPAŞA CADDESİ KAZIM DİNÇOL SANAYİ SİTESİ 81/86",
+    "type": "company",
+    "fax": "2126133660",
+    "phone": "5348815590",
+    "web": "https://www.runobilisim.com",
+    "approve_date": "2019-03-13 12:35:28+03"
+  },
+  {
+    "id": 4224926,
+    "company": "irfan üçer",
+    "address": "Yenişehir Mah. Dursun Özdemir Sk.",
+    "type": "company",
+    "fax": "",
+    "phone": "5444526326",
+    "web": "https://forqua.com.tr",
+    "approve_date": "2025-01-16 10:49:34+03"
+  },
+  {
+    "id": 4224927,
+    "company": "Deniz Berke Türkmen",
+    "address": "Perpa Ticaret Merkezi B Blok 1281",
+    "type": "company",
+    "fax": "",
+    "phone": "5397207723",
+    "web": "https://www.yereldisk.com",
+    "approve_date": "2020-05-27 12:17:28+03"
+  },
+  {
+    "id": 4224928,
+    "company": "MUHAMMED EMİN ER",
+    "address": "MENGENE MAH. FETİH CAD. NO:370/16 KARATAY",
+    "type": "company",
+    "fax": "",
+    "phone": "3326060424",
+    "web": "http://www.konsoft.com.tr",
+    "approve_date": "2019-03-13 12:35:30+03"
+  },
+  {
+    "id": 4224929,
+    "company": "İBRAHİM ÖZKAN",
+    "address": "CAMİ ŞERİF MH. 5248 SK. İNANKUR İŞ MERKEZİ NO:4 K:2 D:9",
+    "type": "company",
+    "fax": "3243280747",
+    "phone": "3243280747",
+    "web": "http://www.siteklik.com",
+    "approve_date": "2019-03-13 12:35:30+03"
+  },
+  {
+    "id": 4224930,
+    "company": "AYKUT BERKSAN",
+    "address": "SIRACEVİZLER MAHALLESİ CEYLAN ÇIKMAZI NO : 10 KAT 3",
+    "type": "company",
+    "fax": "",
+    "phone": "5357910220",
+    "web": "http://www.ruyahosting.com",
+    "approve_date": "2019-03-13 12:35:33+03"
+  },
+  {
+    "id": 4224931,
+    "company": "TAHİR CAN ÖZOKUR",
+    "address": "DUATEPE MAH. ŞAHADET SK. KONT APT. NO: 32/1 FERİKÖY ŞİŞLİ",
+    "type": "company",
+    "fax": "8508852026",
+    "phone": "8508852026",
+    "web": "https://4-bit.net",
+    "approve_date": "2019-03-13 12:35:33+03"
+  },
+  {
+    "id": 4224932,
+    "company": "ALİ GENC",
+    "address": "EMEK MAH GENERAL ESREF BİTLİS CD.A2 BLOK NO:1  SANCAKTEPE",
+    "type": "company",
+    "fax": "5334178429",
+    "phone": "5334178429",
+    "web": "http://www.gencsis.com",
+    "approve_date": "2019-03-13 12:35:34+03"
+  },
+  {
+    "id": 4224933,
+    "company": "İBRAHİM MALA",
+    "address": "ACAR MH SEHİT POLİS MAHMUT TUGRUL SK NO 11 TURGUTLU/ MANİSA",
+    "type": "company",
+    "fax": "8503029499",
+    "phone": "2363129292",
+    "web": "www.speeddc.com - www.vpsvds.net - www.moondc.com",
+    "approve_date": "2019-03-13 12:35:35+03"
+  },
+  {
+    "id": 4224934,
+    "company": "YASİN İLKAYA",
+    "address": "ESENYURT MAH. PORSUK SOK. NO: 5",
+    "type": "company",
+    "fax": "",
+    "phone": "5536633842",
+    "web": "http://ipekhosting.com",
+    "approve_date": "2019-03-13 12:35:36+03"
+  },
+  {
+    "id": 4224935,
+    "company": "LEYLA ÖZLEN",
+    "address": "KAVAKLI MAHALLESİ YEŞİLYURT CADDESİ NO:6/Z D:2",
+    "type": "company",
+    "fax": "05392165122",
+    "phone": "5392165122",
+    "web": "http://powersunucu.com",
+    "approve_date": "2019-03-13 12:35:36+03"
+  },
+  {
+    "id": 4224936,
+    "company": "KAAN YILMAZ",
+    "address": "ESENEVLER MAHALLESİ 352. SOKAK NO:2",
+    "type": "company",
+    "fax": "",
+    "phone": "3629880203",
+    "web": "http://www.keydijital.net",
+    "approve_date": "2019-03-13 12:35:36+03"
+  },
+  {
+    "id": 4224937,
+    "company": "MUSTAFA ZEKİ BACAK",
+    "address": "VİŞNEZADE MAH. SÜLEYMAN SEBA CAD. 79/1 34357 BEŞİKTAŞ",
+    "type": "company",
+    "fax": "8503467536",
+    "phone": "8503467535",
+    "web": "http://www.bsinternet.com",
+    "approve_date": "2019-03-13 12:35:37+03"
+  },
+  {
+    "id": 4224938,
+    "company": "DAĞHAN VELİ ÇAYIR",
+    "address": "SARUHAN MH ESKİ MUZE CD 19/B MERKEZ NİĞDE",
+    "type": "company",
+    "fax": "5071030701",
+    "phone": "5071030701",
+    "web": "http://rabisu.com",
+    "approve_date": "2019-03-13 12:35:37+03"
+  },
+  {
+    "id": 4224939,
+    "company": "AYCAN KERPİC",
+    "address": "PENDİK / İSTANBUL",
+    "type": "company",
+    "fax": "5340481028",
+    "phone": "5340481028",
+    "web": "www.iskoc.com",
+    "approve_date": "2019-03-13 12:35:37+03"
+  },
+  {
+    "id": 4224940,
+    "company": "EMRE AKYILDIZ",
+    "address": "VELİEFENDİ MAHALLESİ 75/2 SOKAK NO:14 DAİRE:2 ZEYTİNBURNU",
+    "type": "company",
+    "fax": "8505329116",
+    "phone": "8505329116",
+    "web": "http://www.mikrodc.com",
+    "approve_date": "2019-03-13 12:35:37+03"
+  },
+  {
+    "id": 4224941,
+    "company": "YAŞAR ŞAHİN",
+    "address": "KİRAZLITEPE MAHALLESİ EMRAH SOKAK 11/1",
+    "type": "company",
+    "fax": "",
+    "phone": "2163186229",
+    "web": "https://bluedizayn.com",
+    "approve_date": "2019-03-13 12:35:37+03"
+  },
+  {
+    "id": 4224942,
+    "company": "FIRAT SENEM",
+    "address": "59 NOLU KOOP. 1710.CAD NO:5 BATIKENT",
+    "type": "company",
+    "fax": "",
+    "phone": "5347713524",
+    "web": "http://www.mezuhost.com",
+    "approve_date": "2019-03-13 12:35:38+03"
+  },
+  {
+    "id": 4224943,
+    "company": "MAHMUT SÖYLEMEZ",
+    "address": "MİMARSİNAN MAH GÜL SOKAK YAĞMUR APT. KAT 4 NO19",
+    "type": "company",
+    "fax": "5442352719",
+    "phone": "5442352719",
+    "web": "http://www.hayalhost.com.tr",
+    "approve_date": "2019-03-13 12:35:39+03"
+  },
+  {
+    "id": 4224944,
+    "company": "SERHAT KAHYAOĞLU",
+    "address": "KARACAKÖY MERKEZ MAHALLESİ TANSU ÇİLLER CADDESİ NO:2 ÇATALCA",
+    "type": "company",
+    "fax": "8508852469",
+    "phone": "5456062105",
+    "web": "https://www.sunuculazim.net",
+    "approve_date": "2019-03-13 12:35:39+03"
+  },
+  {
+    "id": 4224945,
+    "company": "ÖYKÜ ERTEN",
+    "address": "1664 SOKAK NO 1",
+    "type": "company",
+    "fax": "2323669944",
+    "phone": "2323669944",
+    "web": "http://www.sibersonik.com",
+    "approve_date": "2019-03-13 12:35:40+03"
+  },
+  {
+    "id": 4224946,
+    "company": "NEŞE  MALA",
+    "address": "ACARLAR MH. ŞEHİT POLİS MAHMUT TUĞRUL SK. NO: 11",
+    "type": "company",
+    "fax": "-",
+    "phone": "2363145353",
+    "web": "www.eksenbilisim.net.tr - www.ruyaserver.com",
+    "approve_date": "2019-03-13 12:35:42+03"
+  },
+  {
+    "id": 4224947,
+    "company": "VARLIK ÇIKMAZ",
+    "address": "TURAN MH. ATATÜRK BUL. NO:122",
+    "type": "company",
+    "fax": "-",
+    "phone": "5552853113",
+    "web": "http://www.tumeva.com",
+    "approve_date": "2019-03-13 12:35:42+03"
+  },
+  {
+    "id": 4224948,
+    "company": "ORHAN AVCU",
+    "address": "DEREBOYU CAD. DEREBOYU PASAJI NO:60 / A ORTAKÖY-BEŞİKTAŞ",
+    "type": "company",
+    "fax": "8508407079",
+    "phone": "8508407079",
+    "web": "http://webabi.com",
+    "approve_date": "2019-03-13 12:35:42+03"
+  },
+  {
+    "id": 4224949,
+    "company": "MUSTAFA SEVİNÇ",
+    "address": "KÜPLÜPINAR MAHALLESİ GÜZELPINAR SOKAK NO : 8 OSMANGAZİ",
+    "type": "company",
+    "fax": "8508401493",
+    "phone": "8508401493",
+    "web": "https://sevincbilisim.com",
+    "approve_date": "2019-03-13 12:35:43+03"
+  },
+  {
+    "id": 4224950,
+    "company": "HASAN AKKAN",
+    "address": "GÜLTUTAN CADDESİ  KAVASLI MAHALLESİ / NO: 21 / 3.KAT ",
+    "type": "company",
+    "fax": "8508407883",
+    "phone": "8508407883",
+    "web": "http://buyuksunucum.com/",
+    "approve_date": "2019-03-13 12:35:44+03"
+  },
+  {
+    "id": 4224951,
+    "company": "BURAK ÖKSÜZ",
+    "address": "CUMHURİYET MH. 43.SK. NO: 17/A",
+    "type": "company",
+    "fax": "",
+    "phone": "8505222142",
+    "web": "http://bilgi-islem.com",
+    "approve_date": "2019-03-13 12:35:44+03"
+  },
+  {
+    "id": 4226624,
+    "company": "Nurettin Özen",
+    "address": "Selçuklu Mah. Atatürk Cad. Necip Pala İş Merkezi, Bina No 44/B Kat 1 No 103, 42320 Ereğli/Konya",
+    "type": "company",
+    "fax": "3326060365",
+    "phone": "3326060365",
+    "web": "https://www.pixron.com",
+    "approve_date": "2024-05-17 16:16:20+03"
+  },
+  {
+    "id": 4226625,
+    "company": "Egemen Şener",
+    "address": " TIRNOVA MAH. 11023 SK. NO: 14 İÇ KAPI NO: 1 GÖNEN/  BALIKESİR",
+    "type": "company",
+    "fax": "08503055172",
+    "phone": "8503055172",
+    "web": "https://www.Hostimux.com",
+    "approve_date": "2024-07-30 15:03:36+03"
+  },
+  {
+    "id": 4226626,
+    "company": "Yunus Emre Taşkın",
+    "address": "Yalı mah. Kemal Gürsoy Cad  No : 29",
+    "type": "company",
+    "fax": "",
+    "phone": "5060276169",
+    "web": "https://www.cloudviba.com",
+    "approve_date": "2025-03-02 02:33:06+03"
+  },
+  {
+    "id": 4226627,
+    "company": "BEWOLK TEKNOLOJİ İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ ",
+    "address": "BAHÇEŞEHİR 2.KISIM MAH 50.YIL CAD.BAHÇEKENT 653 ADA SİT.4.BLOK NO:2J/3 BAŞAKŞEHİR",
+    "type": "company",
+    "fax": "",
+    "phone": "05322020295",
+    "web": "https://www.bewolkdc.com",
+    "approve_date": "2024-05-14 08:48:04+03"
+  },
+  {
+    "id": 4226628,
+    "company": "TURKTİCARET.NET YAZILIM HİZMETLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ ",
+    "address": "ESENTEPE MAH. TALATPAŞA CAD. OTO ÇIKMAZI SK.NO: 4 K1-6 ŞİŞLİ",
+    "type": "company",
+    "fax": "2122839875",
+    "phone": "2122817478",
+    "web": "http://turkticaret.net",
+    "approve_date": "2025-03-03 09:54:52+03"
+  },
+  {
+    "id": 4226629,
+    "company": "LİVAPROXY YAZILIM TİCARET LİMİTED ŞİRKETİ ",
+    "address": "CEBECİ MAHALLESİ P CADDESİ NO:35-37 İÇ KAPI NO 29 SULTANGAZİ/İSTANBUL",
+    "type": "company",
+    "fax": "",
+    "phone": "05535213776",
+    "web": "https://livaproxy.com",
+    "approve_date": "2024-05-21 13:44:20+03"
+  },
+  {
+    "id": 4226630,
+    "company": "QZ TEKNOLOJİ ANONİM ŞİRKETİ ",
+    "address": "ZEYTİNLİK MAH. FİŞEKHANE CAD. CAROUSEL NO: 5 İÇ KAPI NO: 17",
+    "type": "company",
+    "fax": "2128126751",
+    "phone": "8503041454",
+    "web": "https://quickzone.net",
+    "approve_date": "2024-06-24 11:13:31+03"
+  },
+  {
+    "id": 4226631,
+    "company": "COMTR İNTERNET HİZMETLERİ A.Ş. ",
+    "address": "Barbaros Hayrettin Paşa Mah. 1995 Sok. No:1/3 Akros İstanbul Kat:25 Daire:433 Esenyurt",
+    "type": "company",
+    "fax": "2125110015",
+    "phone": "2125110015",
+    "web": "https://internethizmetleri.com.tr",
+    "approve_date": "2024-05-27 17:03:16+03"
+  },
+  {
+    "id": 4226632,
+    "company": "NETSUN BİLİŞİM LTD.ŞTİ. ",
+    "address": "PERPA TİCARET MERKEZİ B BLOK K:6 NO: 661 ŞİŞLİ",
+    "type": "company",
+    "fax": "2122108989",
+    "phone": "2122108989",
+    "web": "https://www.kurumsalhost.com",
+    "approve_date": "2025-03-12 13:35:02+03"
+  },
+  {
+    "id": 4226633,
+    "company": "Berkant Talha Polat",
+    "address": "beylikdüzüosb mah. açelya cad. no:7",
+    "type": "company",
+    "fax": "",
+    "phone": "8503041653",
+    "web": "https://guchost.com",
+    "approve_date": "2024-06-25 12:03:08+03"
+  },
+  {
+    "id": 4226634,
+    "company": "ÖZGÜR ŞAR",
+    "address": "ATATÜRK MAH. ATAŞEHİR BUL. 36 ADA ATA2/3 PLAZA NO74 ATAŞEHİR",
+    "type": "company",
+    "fax": "2123102483",
+    "phone": "2164567422",
+    "web": "http://www.agorahosting.net",
+    "approve_date": "2025-03-05 11:04:02+03"
+  },
+  {
+    "id": 4226635,
+    "company": "Fazlanet Bilgi Teknolojileri Anonim Şirketi ",
+    "address": "Mansuroğlu Mahallesi, 288/5 Sokak, No: 8 Daire: 2 Bayraklı",
+    "type": "company",
+    "fax": "8503023663",
+    "phone": "2324842951",
+    "web": "https://www.fazlanet.com",
+    "approve_date": "2024-10-21 17:49:38+03"
+  },
+  {
+    "id": 4226636,
+    "company": "ITM YAZILIM BİLGİSAYAR SİSTEMLERİ VE DANIŞMANLIK TİC. LTD. ŞTİ. ",
+    "address": "Oruç Reis Mah.Vadi Caddesi Giyimkent İstanbul Ticaret Sarayı No:108 Kat:9 Kapı No:552, D:553, 34235 Esenler/İstanbul",
+    "type": "company",
+    "fax": "2126100017",
+    "phone": "8503084682",
+    "web": "https://rageva.com/&https://gamingvds.com/",
+    "approve_date": "2025-01-22 11:20:13+03"
+  },
+  {
+    "id": 4226637,
+    "company": "Serkan Taş",
+    "address": "Demirtas Barbaros Mahallesi Barbaros Caddesi NO:39 D:8",
+    "type": "company",
+    "fax": "",
+    "phone": "05304468758",
+    "web": "https://www.levahost.com",
+    "approve_date": "2024-06-29 14:08:14+03"
+  },
+  {
+    "id": 4226638,
+    "company": "MEK YAZILIM VE BİLİŞİM LİMİTED ŞİRKETİ ",
+    "address": "ÜÇEVLER MAH. TANAY CAD. BALI İŞ MERKEZİ NO:25 K:2 D:10 ",
+    "type": "company",
+    "fax": "",
+    "phone": "2244430476",
+    "web": "https://mekhost.com",
+    "approve_date": "2024-08-10 22:20:59+03"
+  },
+  {
+    "id": 4224952,
+    "company": "YASEMİN SUZER",
+    "address": "MEYDANKAVAĞI MAH. ASPENDOS BLV. 4 B MURATPAŞA/ANTALYA",
+    "type": "company",
+    "fax": "02423213717",
+    "phone": "8508852507",
+    "web": "http://www.yukselinternet.com.tr",
+    "approve_date": "2019-03-13 12:35:46+03"
+  },
+  {
+    "id": 4224953,
+    "company": "BERKAY YILMAZ",
+    "address": "SUNULAH MAHALLESİ MEYDAN SOKAK NO:22/1",
+    "type": "company",
+    "fax": "2667189094",
+    "phone": "5346629245",
+    "web": "http://www.hostustasi.com",
+    "approve_date": "2019-03-13 12:35:50+03"
+  },
+  {
+    "id": 4224954,
+    "company": "EMRE KURT",
+    "address": "TABAKHANE MH. KİRAZ SK. NO.6",
+    "type": "company",
+    "fax": "",
+    "phone": "5444059964",
+    "web": "http://www.globalmedia.com.tr",
+    "approve_date": "2019-03-13 12:35:51+03"
+  },
+  {
+    "id": 4224955,
+    "company": "OĞUZHAN URAL",
+    "address": "BAHÇELİEVLER MAH. SULTAN MURAT CAD. VATAN PERVER SOK. NO:7 -",
+    "type": "company",
+    "fax": "5534178438",
+    "phone": "5534178438",
+    "web": "http://www.hosturki.com",
+    "approve_date": "2019-03-13 12:35:52+03"
+  },
+  {
+    "id": 4224956,
+    "company": "YILDIRIM ALBAYRAK",
+    "address": "AYAZAĞA MAH. ŞEHİT İLHAN YURT SK. NO: 66/A SARIYER",
+    "type": "company",
+    "fax": "2122892037",
+    "phone": "8508401638",
+    "web": "http://www.hostingciniz.net",
+    "approve_date": "2019-03-13 12:35:52+03"
+  },
+  {
+    "id": 4224957,
+    "company": "MAHMUT YUM",
+    "address": "YENİŞEHİR MAH. FATİH CAD. NO:36/2 ALTINÖZÜ",
+    "type": "company",
+    "fax": "08503026274",
+    "phone": "8503026274",
+    "web": "www.localsistem.com",
+    "approve_date": "2019-03-13 12:35:56+03"
+  },
+  {
+    "id": 4224958,
+    "company": "MAHMUT GÜNDÜZALP",
+    "address": " İPEKYOL CADDESİ BAHÇELİEVLER MAHALLESİ SENCAR APT. NO: 1",
+    "type": "company",
+    "fax": "",
+    "phone": "8503022763",
+    "web": "http://zeplinsoft.com",
+    "approve_date": "2019-03-13 12:35:56+03"
+  },
+  {
+    "id": 4224959,
+    "company": "OĞUZHAN DOĞAN",
+    "address": "GÜLSEREN MAH. 91. SOKAK NO:4 MAMAK",
+    "type": "company",
+    "fax": "",
+    "phone": "5325030625",
+    "web": "https://turk-serv.net",
+    "approve_date": "2019-03-13 12:35:57+03"
+  },
+  {
+    "id": 4224960,
+    "company": "SELMİN EREN",
+    "address": "BAHÇELİEVLER MH. İSTANBUL SK. NO:40/4",
+    "type": "company",
+    "fax": "5353871375",
+    "phone": "5359497259",
+    "web": "http://www.yesmebilisim.com",
+    "approve_date": "2019-03-13 12:35:59+03"
+  },
+  {
+    "id": 4224961,
+    "company": "EMRE KOCAOĞLU",
+    "address": "RIFKI TONGSİR CD. ÖZGÜR SK. KRAL APT. NO : 4/7",
+    "type": "company",
+    "fax": "5545519090",
+    "phone": "5545519090",
+    "web": "http://www.turklokasyon.com",
+    "approve_date": "2019-03-13 12:35:59+03"
+  },
+  {
+    "id": 4224962,
+    "company": "MUSTAFA AYRENK",
+    "address": "KURTULUŞ MH/ULUCAMİ C/PIRIL AP./2.KAT/EKORBİLİSİM-İSKENDERUN",
+    "type": "company",
+    "fax": "5468013353",
+    "phone": "5468013353",
+    "web": "http://ekorbilisim.com",
+    "approve_date": "2019-03-13 12:36:00+03"
+  },
+  {
+    "id": 4224963,
+    "company": "UĞUR ŞAHİN",
+    "address": "ÖZERLER MAH. FATİH CAD. NO:14/65",
+    "type": "company",
+    "fax": "8503023990",
+    "phone": "2129141739",
+    "web": "http://www.shntelekom.com",
+    "approve_date": "2019-03-13 12:36:00+03"
+  },
+  {
+    "id": 4224964,
+    "company": "ÖMER CAN AKGÜN",
+    "address": "ESENTEPE MAH. İZZETTİN ÇALIŞLAR SK. 48. BLOK D:7 ŞİŞLİ",
+    "type": "company",
+    "fax": "2122277881",
+    "phone": "2122277881",
+    "web": "http://www.madeinweb.com.tr",
+    "approve_date": "2019-03-13 12:36:01+03"
+  },
+  {
+    "id": 4224965,
+    "company": "ABDURRAHMAN SERT",
+    "address": "YUKARI DUDULLU MAREŞAL FEVZİ ÇAKMAK CADDESİ NO:48",
+    "type": "company",
+    "fax": "5349288233",
+    "phone": "5349288233",
+    "web": "http://producehost.com",
+    "approve_date": "2019-03-13 12:36:02+03"
+  },
+  {
+    "id": 4224966,
+    "company": "NUMAN ÖZDEMİR",
+    "address": "ALİŞAHANE MAH. TURGUT ÖZAL CAD. KARAMAN",
+    "type": "company",
+    "fax": "",
+    "phone": "5417949214",
+    "web": "https://by-pass.us",
+    "approve_date": "2019-03-13 12:36:02+03"
+  },
+  {
+    "id": 4224967,
+    "company": "YUSUF MUTLU",
+    "address": "KALE MAHALLESİ, 88 SOKAK NO 34",
+    "type": "company",
+    "fax": "4145120681",
+    "phone": "5418179524",
+    "web": "http://www.mutlushell.com",
+    "approve_date": "2019-03-13 12:36:03+03"
+  },
+  {
+    "id": 4224968,
+    "company": "VOLKAN GÖKBEL",
+    "address": "YENİ MAHALLE NURİGÜNGÖR CADDESİ NO:30 ÇİNE AYDIN",
+    "type": "company",
+    "fax": "",
+    "phone": "8503046977",
+    "web": "http://www.usmbilisim.com",
+    "approve_date": "2019-03-13 12:36:03+03"
+  },
+  {
+    "id": 4224969,
+    "company": "ALI SAMET  AKPINAR",
+    "address": "DEMOKRASI MAH EMNIYETKÜMEEVLER NO:14 MELIKGAZI",
+    "type": "company",
+    "fax": "5074975297",
+    "phone": "5074975297",
+    "web": "http://www.pinarbilisim.com",
+    "approve_date": "2019-03-13 12:36:08+03"
+  },
+  {
+    "id": 4224970,
+    "company": "BEKİR GELEBEK",
+    "address": "ÇANKAYA, ARKA TOPRAKLIK MAH. MAHMUT ESAT BOZKURT CAD. 121/4",
+    "type": "company",
+    "fax": "",
+    "phone": "5458430458",
+    "web": "https://galateahosting.com",
+    "approve_date": "2019-03-13 12:36:12+03"
+  },
+  {
+    "id": 4224971,
+    "company": "FATİH ERSİN COŞKUN",
+    "address": "SARAYLAR MAH. ŞADIRVAN SK. 29 51 MERKEZEFENDİ/ DENİZLİ",
+    "type": "company",
+    "fax": "",
+    "phone": "5530103226",
+    "web": "http://www.coskunlarbilisim.com",
+    "approve_date": "2019-03-13 12:36:13+03"
+  },
+  {
+    "id": 4224972,
+    "company": "YAVUZ GÜNAY",
+    "address": "ADAPAZARI OZANLAR MAH HOŞ SOKAK NO 35",
+    "type": "company",
+    "fax": "5312648521",
+    "phone": "5312648521",
+    "web": "http://ayhosting.net",
+    "approve_date": "2019-03-13 12:36:13+03"
+  },
+  {
+    "id": 4224973,
+    "company": "BARIŞ BOSTANCI",
+    "address": "GÜVENLİK MAH. 277 SOK.",
+    "type": "company",
+    "fax": "----------",
+    "phone": "5453444512",
+    "web": "http://www.turkuazinternet.com",
+    "approve_date": "2019-03-13 12:36:14+03"
+  },
+  {
+    "id": 4224974,
+    "company": "ARDA ÖLGÜN",
+    "address": "ADALET MAH. MANAS BUL. NO:39 FOLKART TOWERS KAT:31 BAYRAKLI ",
+    "type": "company",
+    "fax": "2323909101",
+    "phone": "2323909177",
+    "web": "http://www.onno7.com",
+    "approve_date": "2019-03-13 12:36:14+03"
+  },
+  {
+    "id": 4224975,
+    "company": "HALİT ŞAHİN",
+    "address": "BELEDİYE EVLERİ MH 84013 SK NO 5 BLOK 5/1",
+    "type": "company",
+    "fax": "08503465149",
+    "phone": "5395432817",
+    "web": "www.zetabilisim.net / www.ciscobilisim.com",
+    "approve_date": "2019-03-13 12:36:15+03"
+  },
+  {
+    "id": 4224976,
+    "company": "MUSTAFA KAYHAN",
+    "address": "MAREŞAL FEVZİ ÇAKMAK MAH. 394 SK. SEDA C 3 1 MERKEZ/ AFYON",
+    "type": "company",
+    "fax": "",
+    "phone": "5388352100",
+    "web": "http://www.akkocbilisim.com",
+    "approve_date": "2019-03-13 12:36:15+03"
+  },
+  {
+    "id": 4224977,
+    "company": "YAKUP AVCI",
+    "address": "ŞİRİNKÖY KÖYÜ, NO:85 - GÖKÇEADA/ÇANAKKALE",
+    "type": "company",
+    "fax": "2868976266",
+    "phone": "2868976266",
+    "web": "https://www.yakupavci.com.tr",
+    "approve_date": "2019-03-13 12:36:16+03"
+  },
+  {
+    "id": 4224978,
+    "company": "MEHMET ARİF KURDOĞLU",
+    "address": "ESENTEPE MH. MİLANGAZ CD. MONUMENTO KARTAL A BLOK NO.75A D.7",
+    "type": "company",
+    "fax": "8508851104",
+    "phone": "8508851103",
+    "web": "http://www.mgr.com.tr",
+    "approve_date": "2019-03-13 12:36:16+03"
+  },
+  {
+    "id": 4224979,
+    "company": "HASAN AHMET GÜLTEKİN",
+    "address": "MALTEPE MAH. ESKİ ÇIRPICI YOLU SOK. NO:8/195 ZEYTİNBURNU",
+    "type": "company",
+    "fax": "2129398401",
+    "phone": "2125555568",
+    "web": "http://www.wizutech.com",
+    "approve_date": "2019-03-13 12:36:17+03"
+  },
+  {
+    "id": 4224980,
+    "company": "BARBAROSHAN ÖZCAN",
+    "address": "KÖRFEZ MAH. 7384/5 SOKAK NO:2/1 BAYRAKLI/İZMİR",
+    "type": "company",
+    "fax": "8508852057",
+    "phone": "8508852057",
+    "web": "http://www.hostpiri.com",
+    "approve_date": "2019-03-13 12:36:20+03"
+  },
+  {
+    "id": 4224981,
+    "company": "COŞKUN ÇETİN",
+    "address": "ONUR MAH. 7370 SOKAK NO:5/34 BAYRAKLI ",
+    "type": "company",
+    "fax": "8508851015",
+    "phone": "8508851015",
+    "web": "https://www.megatrhost.com",
+    "approve_date": "2019-03-13 12:36:20+03"
+  },
+  {
+    "id": 4224982,
+    "company": "MURATCAN SAĞLAM",
+    "address": "GÖKMEDRESE MAH. SELÇUKLU SOKAK. SU DEPOSU YANI NO/6",
+    "type": "company",
+    "fax": "5456477858",
+    "phone": "5456477858",
+    "web": "http://murathosting.com",
+    "approve_date": "2019-03-13 12:36:21+03"
+  },
+  {
+    "id": 4224983,
+    "company": "EKREM DOĞAN",
+    "address": "MUHLİS ALİ MAH Mustafa Seydi evren sokak no 2/c",
+    "type": "company",
+    "fax": "                    ",
+    "phone": "3264412245",
+    "web": "http://iskenderunreklam.com.tr",
+    "approve_date": "2024-01-05 14:07:13+03"
+  },
+  {
+    "id": 4224984,
+    "company": "NURETTİN DÖNMEZ",
+    "address": "KARAKEÇİLİ MAHALLESİ ALBAYRAK CAD. KÜÇÜKPARK İŞHANI 1/1 304",
+    "type": "company",
+    "fax": "3642120101",
+    "phone": "3642120101",
+    "web": "http://www.kaliteinternet.com",
+    "approve_date": "2019-03-13 12:36:22+03"
+  },
+  {
+    "id": 4224985,
+    "company": "BERK EMREGÜL",
+    "address": "ŞHT. BAHADIR YALÇIN SOK. LAPETHOS CİTRUS VİLLALARI NO: 17/1",
+    "type": "company",
+    "fax": "3928151054",
+    "phone": "3928151054",
+    "web": "http://www.ovdhost.com",
+    "approve_date": "2019-03-13 12:36:23+03"
+  },
+  {
+    "id": 4224986,
+    "company": "ÖMER  KÖKEN",
+    "address": "YENİCE MAH.ATATÜRK BLV. 15-A PAMUKOVA",
+    "type": "company",
+    "fax": "-",
+    "phone": "5376992623",
+    "web": "https://2khosting.com.tr",
+    "approve_date": "2019-03-13 12:36:24+03"
+  },
+  {
+    "id": 4224987,
+    "company": "MEHMET SELİM ŞAHİN",
+    "address": "FEVZİÇAKMAH MAH.795 SOKAK SERENİTY EVL.B BLOK KAT 4 DAİRE 28",
+    "type": "company",
+    "fax": "5423611484",
+    "phone": "5423611484",
+    "web": "http://www.siberdc.com",
+    "approve_date": "2019-03-13 12:36:24+03"
+  },
+  {
+    "id": 4224988,
+    "company": "GÖKHAN DİLLİ",
+    "address": "GÜRSEL MAHALLESİ ÇIKRIK SOKAK NO 4/1 KAĞITHANE",
+    "type": "company",
+    "fax": "2122225523",
+    "phone": "2122225523",
+    "web": "http://www.SirinShell.Com",
+    "approve_date": "2019-03-13 12:36:25+03"
+  },
+  {
+    "id": 4224989,
+    "company": "SİNEM DALDAL",
+    "address": "ADALET MAH. MANAS BLV. NO:47/A K:20 D:2002 FOLKART TOWERS",
+    "type": "company",
+    "fax": "",
+    "phone": "5428400400",
+    "web": "http://www.optimabilisim.com",
+    "approve_date": "2019-03-13 12:36:25+03"
+  },
+  {
+    "id": 4224990,
+    "company": "REMZİ GÖKHAN UÇKAN",
+    "address": "SEHITLER MAH. YEDIEYLÜL YOLU CAD.  220 B TURGUTLU",
+    "type": "company",
+    "fax": "",
+    "phone": "5065067546",
+    "web": "https://www.wecloudy.com",
+    "approve_date": "2019-03-13 12:36:27+03"
+  },
+  {
+    "id": 4224991,
+    "company": "KASIM TANCAN SÖZERİ",
+    "address": "ÇİRİŞHANE MAH. KASAP SOK. NO:5",
+    "type": "company",
+    "fax": "",
+    "phone": "5397153222",
+    "web": "http://www.tekport.net",
+    "approve_date": "2019-03-13 12:36:27+03"
+  },
+  {
+    "id": 4224992,
+    "company": "HAYRULLAH ŞAHAN",
+    "address": "KEMALPAŞA MH. ADNAN MENDERES BULV. NO:2 D:30",
+    "type": "company",
+    "fax": "",
+    "phone": "2243340448",
+    "web": "http://www.inweb.com.tr",
+    "approve_date": "2019-03-13 12:36:27+03"
+  },
+  {
+    "id": 4224993,
+    "company": "FUNDA SARIARSLAN",
+    "address": "MUSTAFA KEMAL MH.DUMLUPINAR BLV. NO:266 A-BLOK NO:82 ÇANKAYA",
+    "type": "company",
+    "fax": "08502200451",
+    "phone": "3129701968",
+    "web": "http://www.zirvegrupbilisim.com.tr",
+    "approve_date": "2019-03-13 12:36:28+03"
+  },
+  {
+    "id": 4224994,
+    "company": "MURAT DEMİR",
+    "address": "ÇANKAYA MAH. 2003. SOK BENHUR APT. NO 14/B KARAKÖPRÜ",
+    "type": "company",
+    "fax": "",
+    "phone": "5468202054",
+    "web": "https://www.febilisim.com",
+    "approve_date": "2019-03-13 12:36:28+03"
+  },
+  {
+    "id": 4224995,
+    "company": "SAFİNAZ ÖZKAN",
+    "address": "DİRİLİŞ MAH 41 SOK ERAS SİTESİ C BLOK DAİRE 27 KAT 6 SİVAS",
+    "type": "company",
+    "fax": "8503025842",
+    "phone": "8503025842",
+    "web": "http://www.anindahosting.com",
+    "approve_date": "2019-03-13 12:36:29+03"
+  },
+  {
+    "id": 4224996,
+    "company": "UĞUR  AKPOLAT",
+    "address": "MÜMİNLİ MAH. 5291 SK. NO:49/1 SARIÇAM",
+    "type": "company",
+    "fax": "3222472887",
+    "phone": "5557316060",
+    "web": "http://www.anatoliaajans.com",
+    "approve_date": "2019-03-13 12:36:30+03"
+  },
+  {
+    "id": 4224997,
+    "company": "AHMET MUHSİN YÜKSEL",
+    "address": "PINARBAŞI MH. HÜRRİYET CAD. AR-GE1 3B 210 KONYAALTI",
+    "type": "company",
+    "fax": "5342042292",
+    "phone": "5342042292",
+    "web": "http://www.yukselbts.com",
+    "approve_date": "2019-03-13 12:36:30+03"
+  },
+  {
+    "id": 4224998,
+    "company": "MESUT HAYLAR",
+    "address": "FEYZULLAH MAHALLESİ SEVİNÇ SOKAK NO:12/A",
+    "type": "company",
+    "fax": "",
+    "phone": "5067953232",
+    "web": "https://www.ayvazhosting.com",
+    "approve_date": "2019-03-13 12:36:30+03"
+  },
+  {
+    "id": 4224999,
+    "company": "SERTAÇ DİLER",
+    "address": "MURAT REİS MAHALLESİ NUH KUYUSU CADDESİ NO:297/3 ÜSKÜDAR",
+    "type": "company",
+    "fax": "2165303202",
+    "phone": "2165303202",
+    "web": "http://www.will.com.tr",
+    "approve_date": "2019-03-13 12:36:31+03"
+  },
+  {
+    "id": 4225000,
+    "company": "UĞUR TERZİ",
+    "address": "BAGLICA MAH. GOKCEKENT SIT. NO: 5-14",
+    "type": "company",
+    "fax": "3122302151",
+    "phone": "3122302151",
+    "web": "http://triceps.com.tr",
+    "approve_date": "2019-03-13 12:36:31+03"
+  },
+  {
+    "id": 4225001,
+    "company": "İDRİS GÜLMEZ",
+    "address": "KUŞTEPE MAH. İNÖNÜ CAD. İZMEN SİT. B2 BLOK D:71 ŞİŞLİ",
+    "type": "company",
+    "fax": "8504801795",
+    "phone": "8504801795",
+    "web": "http://www.ontek.com.tr",
+    "approve_date": "2019-03-13 12:36:32+03"
+  },
+  {
+    "id": 4225002,
+    "company": "MERT SONUGUR",
+    "address": "CUMHURİYET MAHALESİ  GENCLIK CADDESİ 53 SOKAK BASAK 2 APT ",
+    "type": "company",
+    "fax": "",
+    "phone": "5546561102",
+    "web": "http://www.hostinginiz.com",
+    "approve_date": "2019-03-13 12:36:32+03"
+  },
+  {
+    "id": 4225003,
+    "company": "AHMET ALİ AKYILDIZ",
+    "address": "AMİRAL HASAN SARIOĞLU CD. CAYELİ/RİZE",
+    "type": "company",
+    "fax": "850 840 6895",
+    "phone": "5334566153",
+    "web": "http:/guvenilir.web.tr",
+    "approve_date": "2019-03-13 12:36:33+03"
+  },
+  {
+    "id": 4225004,
+    "company": "MEHMET ALİ GÜMÜŞ",
+    "address": "AGAH ATEŞ MAH. DR MUHSİN ALATAŞ CAD. NO:21 KÖRFEZ",
+    "type": "company",
+    "fax": "2626060735",
+    "phone": "2626060735",
+    "web": "http://www.bulutmedya.org",
+    "approve_date": "2019-03-13 12:36:34+03"
+  },
+  {
+    "id": 4225005,
+    "company": "VOLKAN ERDOĞAN",
+    "address": "DEMİRTAŞ CUMHURİYET MAH. 1210 SOKAK NO:32/A",
+    "type": "company",
+    "fax": "2242625054",
+    "phone": "2242625054",
+    "web": "http://mactechsoft.com",
+    "approve_date": "2019-03-13 12:36:35+03"
+  },
+  {
+    "id": 4225006,
+    "company": "EBRU AFACAN",
+    "address": "1367 SOKAK NO 2 KAT 7 DAİRE 702",
+    "type": "company",
+    "fax": "2323321535",
+    "phone": "5359639594",
+    "web": "https://www.budvabilisim.com",
+    "approve_date": "2019-03-13 12:36:35+03"
+  },
+  {
+    "id": 4225007,
+    "company": "MERT KIVRAK",
+    "address": "AKŞEMSETTİN MAHALLESİ 1115.SOKAK NO 2 MAMAK",
+    "type": "company",
+    "fax": "3124290051",
+    "phone": "3124290051",
+    "web": "https://oyunhosting.com.tr",
+    "approve_date": "2019-03-13 12:36:36+03"
+  },
+  {
+    "id": 4225008,
+    "company": "SAMET ZAFER KAÇMAZ",
+    "address": "GERZELE MAHALLESİ GERZELE CADDESİ NO 36",
+    "type": "company",
+    "fax": "",
+    "phone": "5323801757",
+    "web": "http://www.uzman.com.tr",
+    "approve_date": "2019-03-13 12:36:38+03"
+  },
+  {
+    "id": 4225009,
+    "company": "ÖMÜR AKGÜN",
+    "address": "ATIF BEY MAH. HACI MOLLA MÜMİN HOCA SK. NO:58/D GAZİEMİR",
+    "type": "company",
+    "fax": "8508850138",
+    "phone": "8508850101",
+    "web": "http://www.datatr.com.tr",
+    "approve_date": "2019-03-13 12:36:40+03"
+  },
+  {
+    "id": 4225010,
+    "company": "ATABEY AKBULAK",
+    "address": "CUMHURİYET MAH.2066 SOK. DELTA TOWERS 2 DAİRE:120 ESENYURT",
+    "type": "company",
+    "fax": "",
+    "phone": "5074440292",
+    "web": "http://www.servisixir.com",
+    "approve_date": "2019-03-13 12:36:43+03"
+  },
+  {
+    "id": 4225011,
+    "company": "SAYGI GÜNENÇ MALAŞ",
+    "address": "ARAPSUYU MAH. 623 SOK 14/1 KONYAALTI",
+    "type": "company",
+    "fax": "2422292277",
+    "phone": "2422292277",
+    "web": "www.sgmyazilim.com",
+    "approve_date": "2019-03-13 12:36:44+03"
+  },
+  {
+    "id": 4225012,
+    "company": "SERHAT PEHLİVAN",
+    "address": "CİHANGİR MAH. EKİN SOK NO2/14",
+    "type": "company",
+    "fax": "",
+    "phone": "5356259118",
+    "web": "http://zeroyazilim.com",
+    "approve_date": "2019-03-13 12:36:46+03"
+  },
+  {
+    "id": 4225013,
+    "company": "OZAN KADİR SARAÇOĞLU",
+    "address": "FEVZİ ÇAKMAK MAH.DR.ZEKİ ACAR CAD.BİLGİN SOK.",
+    "type": "company",
+    "fax": "5372215681",
+    "phone": "5372215681",
+    "web": "http://www.axissunucu.com",
+    "approve_date": "2019-03-13 12:36:46+03"
+  },
+  {
+    "id": 4225014,
+    "company": "YUSUF YILMAZ",
+    "address": "HASTAHANE YOLU KAVŞAGI ATATÜRK BULVARI HAYBER APARTMANI NO 7",
+    "type": "company",
+    "fax": "",
+    "phone": "5443326400",
+    "web": "http://www.gunesweb.com",
+    "approve_date": "2019-03-13 12:36:47+03"
+  },
+  {
+    "id": 4225015,
+    "company": "necmi taban",
+    "address": "MERKEZ MAH. GEYİK SK. LALE APT NO: 3 İÇ KAPI NO: 8 GÜNGÖREN",
+    "type": "company",
+    "fax": "",
+    "phone": "8505540701",
+    "web": "https://hazalhost.com/",
+    "approve_date": "2025-02-06 22:51:14+03"
+  },
+  {
+    "id": 4225016,
+    "company": "HASAN ŞENOL",
+    "address": "ETİ MAH. TOROS SOK. NO:7/23 ÇANKAYA",
+    "type": "company",
+    "fax": "3122299299",
+    "phone": "3122323322",
+    "web": "http://www.lansman.com.tr",
+    "approve_date": "2019-03-13 12:36:50+03"
+  },
+  {
+    "id": 4225017,
+    "company": "MEHMET OKAN ÖZKARABULUT",
+    "address": "CUMHURİYET MAH. / DİKİLİ",
+    "type": "company",
+    "fax": "8508409621",
+    "phone": "8508409621",
+    "web": "https://www.vivoxy.com- www.netmarlis.com.tr",
+    "approve_date": "2019-03-13 12:36:52+03"
+  },
+  {
+    "id": 4225018,
+    "company": "UĞUR EKİNCİ",
+    "address": "YENİ MAH. 9. SOK. NO:10",
+    "type": "company",
+    "fax": "8503046075",
+    "phone": "8503046075",
+    "web": "http://www.nevsehirbilisim.com",
+    "approve_date": "2019-03-13 12:36:52+03"
+  },
+  {
+    "id": 4225019,
+    "company": "SÜLEYMAN DOĞAN",
+    "address": "GAZİANTEP UNİVERSİTESİ TEKNOPARK, C BLOK NO.123",
+    "type": "company",
+    "fax": "",
+    "phone": "8505329273",
+    "web": "http://www.ase.web.tr",
+    "approve_date": "2019-03-13 12:36:53+03"
+  },
+  {
+    "id": 4225020,
+    "company": "MERTCAN ERSÖZ",
+    "address": "HAMİDİYE MAHALLESİ 528. SOKAK ŞELALE EVLERİ DAİRE 22/ABLOK",
+    "type": "company",
+    "fax": "",
+    "phone": "5345785120",
+    "web": "www.loaplay.net",
+    "approve_date": "2019-03-13 12:36:54+03"
+  },
+  {
+    "id": 4225021,
+    "company": "EROL ÜNAL",
+    "address": "MÜNÜF PAŞA MAHALESİ POSTACI SOKAK NO 162",
+    "type": "company",
+    "fax": "-",
+    "phone": "5419068406",
+    "web": "www.zamanbilisim.com.tr   www.ezelbilisim.com",
+    "approve_date": "2019-03-13 12:36:55+03"
+  },
+  {
+    "id": 4225022,
+    "company": "SADİJA RONA",
+    "address": "KEMALPAŞA MAH. ERKİN SOKAK NO:12 DAİRE:1",
+    "type": "company",
+    "fax": "2125989282",
+    "phone": "2125989282",
+    "web": "http://sadecewebhosting.net",
+    "approve_date": "2019-03-13 12:36:56+03"
+  },
+  {
+    "id": 4225023,
+    "company": "ABDULHAMİT  AKTAŞ",
+    "address": "PAMUKKALE TEK.GELİŞ.BÖLG.KULUÇKA VE İDARİ BİNASI D BLOK Z:17",
+    "type": "company",
+    "fax": "                    ",
+    "phone": "2582611119",
+    "web": "http://technoone.com.tr",
+    "approve_date": "2019-03-13 12:36:57+03"
+  },
+  {
+    "id": 4225024,
+    "company": "AHMET VEFİK ETA",
+    "address": "KIRCAALİ MAH. FEVZİ ÇAKMAK CAD. NO : 62 / 17 OSMANGAZİ",
+    "type": "company",
+    "fax": "",
+    "phone": "5494900016",
+    "web": "http://www.highteknoloji.com",
+    "approve_date": "2019-03-13 12:36:57+03"
+  },
+  {
+    "id": 4225025,
+    "company": "AHMET FEYZİ BAHRİOĞLU",
+    "address": "MURATPAŞA MAH HAŞIL EFENDİ CAD AKGÜL İŞ MERKEZİ 7/14 YAKUTİY",
+    "type": "company",
+    "fax": "442 238 45 62",
+    "phone": "5395533022",
+    "web": "https://www.propollbilisim.com",
+    "approve_date": "2019-03-13 12:36:58+03"
+  },
+  {
+    "id": 4225026,
+    "company": "ALİ TEMEL",
+    "address": "KARASOKU MAH. KIZILAY CAD. ALSARAY RAŞİT ENER İŞ MERKEZİ KAT",
+    "type": "company",
+    "fax": "",
+    "phone": "3223590062",
+    "web": "https://teknosos.com.tr",
+    "approve_date": "2019-03-13 12:36:58+03"
+  },
+  {
+    "id": 4225027,
+    "company": "İBRAHİM HALİL GÜL",
+    "address": "AHMET BAHÇIVAN İŞ MERKEZİ NO:18",
+    "type": "company",
+    "fax": "5414142706",
+    "phone": "5426609701",
+    "web": "http://www.urfahost.com",
+    "approve_date": "2019-03-13 12:36:58+03"
+  },
+  {
+    "id": 4225028,
+    "company": "BURAK GÖÇÜM",
+    "address": "DEĞİRMENÖNÜ MAH. 1476 SOK. YAĞMUR SİT A BLOK NO:13",
+    "type": "company",
+    "fax": "8508852176",
+    "phone": "8508852176",
+    "web": "http://hostojen.com.tr",
+    "approve_date": "2019-03-13 12:36:59+03"
+  },
+  {
+    "id": 4225029,
+    "company": "SERHAT SOYLU",
+    "address": "MERKEZ MAH MİLLİ EGEMENLİK CAD 31 / POSOF",
+    "type": "company",
+    "fax": "",
+    "phone": "5380556487",
+    "web": "http://www.hanedanhosting.com",
+    "approve_date": "2019-03-13 12:37:00+03"
+  },
+  {
+    "id": 4225030,
+    "company": "AHMET ULAS GENÇ",
+    "address": "ÇARŞI MAHALLESİ / İNÖNÜ CAD / 51/A / MERKEZ",
+    "type": "company",
+    "fax": "8503026471",
+    "phone": "8503026471",
+    "web": "http://oyunderesi.com",
+    "approve_date": "2019-03-13 12:37:00+03"
+  },
+  {
+    "id": 4225031,
+    "company": "KEMAL CAN AKBAY",
+    "address": "YENİDOĞAN MAH. 3068 SOK. NO:27",
+    "type": "company",
+    "fax": "",
+    "phone": "5347754554",
+    "web": "https://akbaybilisim.com",
+    "approve_date": "2019-03-13 12:37:00+03"
+  },
+  {
+    "id": 4225032,
+    "company": "ERTUGRUL SARI",
+    "address": "MEHTERÇEŞME MH. CUMHURİYET CD. 1870 SK. NO :10 ESENYUR",
+    "type": "company",
+    "fax": "5315649267",
+    "phone": "5315649267",
+    "web": "https://royal.net.tr/",
+    "approve_date": "2025-02-14 09:22:51+03"
+  },
+  {
+    "id": 4225033,
+    "company": "BİLAL KISA",
+    "address": "TAHSİLLİ MAH 2529/65",
+    "type": "company",
+    "fax": "8503029901",
+    "phone": "3223000030",
+    "web": "http://www.nekil.com",
+    "approve_date": "2019-03-13 12:37:03+03"
+  },
+  {
+    "id": 4225034,
+    "company": "NALAN EMİNE KURT",
+    "address": "GAZİMUHTARPASA BUL. NO.26/C PANDORA BİLİSİM İNCİLİPINAR",
+    "type": "company",
+    "fax": "3423219017",
+    "phone": "3423219017",
+    "web": "http://www.pandorabilisim.net",
+    "approve_date": "2019-03-13 12:37:04+03"
+  },
+  {
+    "id": 4225035,
+    "company": "ÜMİT BOZÜYÜK",
+    "address": "Barış Mh. Fidangör Cd. No:22/7 Beylikdüzü / İstanbul",
+    "type": "company",
+    "fax": "8503024604",
+    "phone": "8503024604",
+    "web": "https://www.hizmetpark.com.tr/",
+    "approve_date": "2023-03-08 10:16:18+03"
+  },
+  {
+    "id": 4225036,
+    "company": "İSMAİL GÜLER",
+    "address": "ÇINARLI MAHALLESİ ÇOLAKSALİH SOKAK NO 21",
+    "type": "company",
+    "fax": "",
+    "phone": "5418732527",
+    "web": "http://www.gulerx.com.tr",
+    "approve_date": "2019-03-13 12:37:06+03"
+  },
+  {
+    "id": 4225037,
+    "company": "SAMİ KODALO",
+    "address": "ALPARSLAN MAH. FARABİ CAD. NO:23/4 MELİKGAZİ",
+    "type": "company",
+    "fax": "5545943678",
+    "phone": "5545943678",
+    "web": "https://www.sunucuoyun.com",
+    "approve_date": "2019-03-13 12:37:09+03"
+  },
+  {
+    "id": 4225038,
+    "company": "BETÜL YALÇIN",
+    "address": "ORTAKLAR MAH. KURTULUŞ SOK. NO:26 GERMENCİK/AYDIN",
+    "type": "company",
+    "fax": "2569110425",
+    "phone": "2569110425",
+    "web": "http://www.ayyildizmedya.com",
+    "approve_date": "2019-03-13 12:37:09+03"
+  },
+  {
+    "id": 4225039,
+    "company": "OSMAN SARIÇAM",
+    "address": "TURAN MAH. ATATÜRK BULVARI NO:122/108",
+    "type": "company",
+    "fax": "2363124574",
+    "phone": "2363124574",
+    "web": "http://www.saricamweb.com",
+    "approve_date": "2019-03-13 12:37:10+03"
+  },
+  {
+    "id": 4225040,
+    "company": "SEFA SAYĞAN",
+    "address": "ŞEHİTNUSRET CADDESİ ADİL KÜRKÇÜOĞLU İŞHANI NO 10",
+    "type": "company",
+    "fax": "",
+    "phone": "5323060915",
+    "web": "https://www.sayganweb.com/",
+    "approve_date": "2019-03-13 12:37:12+03"
+  },
+  {
+    "id": 4225041,
+    "company": "FEYZULLAH ERHUN TÜRERER",
+    "address": "NİŞANTAŞ  MH. H. ULUŞAHİN İŞ MERKEZİ A BLOK NO:Z121",
+    "type": "company",
+    "fax": "",
+    "phone": "3323223341",
+    "web": "http://www.kucukhost.com",
+    "approve_date": "2019-03-13 12:37:12+03"
+  },
+  {
+    "id": 4225042,
+    "company": "MÜCAHİT GÜNAL",
+    "address": "LİSELER MAH. FATİH SULTAN MEHMET CAD. 4. GEÇİT NO:30 / ÜNYE",
+    "type": "company",
+    "fax": "5442191092",
+    "phone": "5442191092",
+    "web": "http://www.zirveshell.com",
+    "approve_date": "2019-03-13 12:37:12+03"
+  },
+  {
+    "id": 4225043,
+    "company": "NESLİHAN KARA",
+    "address": "YESİLOVA MAH KEMER CESME CADDESİ NO: 167 OSMANGAZİ ",
+    "type": "company",
+    "fax": "2242510244",
+    "phone": "2242510244",
+    "web": "http://www.ecebilisim.com",
+    "approve_date": "2019-03-13 12:37:13+03"
+  },
+  {
+    "id": 4225044,
+    "company": "HALİL SERTKAYA",
+    "address": "FATİH MAH. SEMT YAKACIK CAD. NO:92 SANCAKTEPE",
+    "type": "company",
+    "fax": "",
+    "phone": "5459653905",
+    "web": "www.hostingsubesi.com",
+    "approve_date": "2019-03-13 12:37:15+03"
+  },
+  {
+    "id": 4225045,
+    "company": "LEVENT ÖZMEN",
+    "address": "S.OMURTAK CAD. HEYKEL MEYDANI ERATAMAN SİT. B GİRİŞİ N.178/1",
+    "type": "company",
+    "fax": "2826532289",
+    "phone": "2826532289",
+    "web": "http://www.ozgulbilgisayar.com",
+    "approve_date": "2019-03-13 12:37:15+03"
+  },
+  {
+    "id": 4225046,
+    "company": "MÜKREMİN EMRE EKİNCİ",
+    "address": "İDRİS MAHALLESİ CEVİZLİ ÇARŞI CADDESİ NO:75",
+    "type": "company",
+    "fax": "-",
+    "phone": "5548853797",
+    "web": "http://www.karizmaserver.com",
+    "approve_date": "2019-03-13 12:37:16+03"
+  },
+  {
+    "id": 4225047,
+    "company": "FURKAN FİDAN",
+    "address": "ORTA MAH. YÜCEZAFER SK. NO: 23 ODUNPAZARI",
+    "type": "company",
+    "fax": "8503043726",
+    "phone": "5536046127",
+    "web": "https://www.tureter.com",
+    "approve_date": "2019-03-13 12:37:17+03"
+  },
+  {
+    "id": 4225048,
+    "company": "FİGEN DURUEL",
+    "address": "AHMET CELALETTİN SOK 30/1 REŞİTPAŞA MAH. SARIYER",
+    "type": "company",
+    "fax": "",
+    "phone": "5536697278",
+    "web": "https://divanhosting.com/",
+    "approve_date": "2019-03-13 12:37:19+03"
+  },
+  {
+    "id": 4225049,
+    "company": "İBRAHİM AKTAŞ",
+    "address": "ATAKENT MAH. TURGUT ÖZAL BLV. 48/A B2 KAPI: 243 KÜÇÜKCEKMECE",
+    "type": "company",
+    "fax": "",
+    "phone": "8505324937",
+    "web": "http://sorfbilisim.com",
+    "approve_date": "2019-03-13 12:37:19+03"
+  },
+  {
+    "id": 4225050,
+    "company": "HÜSAMETTİN ÇOBAN",
+    "address": "BATTALGAZİ MH. TOMURCUK SK. NO 20 KAT 1 DAİRE 4 ESENYURT",
+    "type": "company",
+    "fax": "8503044932",
+    "phone": "8503044932",
+    "web": "https://sadecealanadi.com/",
+    "approve_date": "2019-03-13 12:37:19+03"
+  },
+  {
+    "id": 4225051,
+    "company": "MEHMET KANBAZ",
+    "address": "Ulubağ Mahallesi, Recep Tayyip Erdoğan Bulvarı. No:283/308 Şanlıurfa Teknokent",
+    "type": "company",
+    "fax": "",
+    "phone": "05439556687",
+    "web": "https://webicro.com",
+    "approve_date": "2022-11-07 14:20:36+03"
+  },
+  {
+    "id": 4225052,
+    "company": "EMRAH AK",
+    "address": "ESENTEPE MAH. DİLEK ATLİG CADDESİ NO 182",
+    "type": "company",
+    "fax": "-",
+    "phone": "3223410788",
+    "web": "http://eak.com.tr",
+    "approve_date": "2019-03-13 12:37:20+03"
+  },
+  {
+    "id": 4225053,
+    "company": "AHMET ABDULHAMİT KAYA",
+    "address": "CEVAT PAŞA MAH. BARBAROS HAYRETTİN PAŞA CAD. 64-1 BAYRAMPAŞA",
+    "type": "company",
+    "fax": "",
+    "phone": "2126170982",
+    "web": "https://tsarena.net",
+    "approve_date": "2019-03-13 12:37:21+03"
+  },
+  {
+    "id": 4225054,
+    "company": "MESUT KURU",
+    "address": "ATATÜRK MAH. MELTEM SOK. NO:22/5",
+    "type": "company",
+    "fax": "",
+    "phone": "5068683697",
+    "web": "http://www.webdehasi.com",
+    "approve_date": "2019-03-13 12:37:21+03"
+  },
+  {
+    "id": 4225055,
+    "company": "Kadir Bakmaz",
+    "address": "IKITELLI OSB MAH. GIYIM SANATKARLARI 4B BLOK SK. GIYIM SANATKARLARI TICARET MER 4B BLOK 4 B 409",
+    "type": "company",
+    "fax": "",
+    "phone": "05319142152",
+    "web": "https://www.hazirwebsitem.net",
+    "approve_date": "2025-01-14 09:33:41+03"
+  },
+  {
+    "id": 4225056,
+    "company": "ERGÜN DURSUN",
+    "address": "ŞEYHSİNAN MAHALLESİ KOCA AĞA SOKAK BAYOL İŞ HANI KAT 3 NO:87",
+    "type": "company",
+    "fax": "",
+    "phone": "2826524678",
+    "web": "http://hostbankasi.com",
+    "approve_date": "2019-03-13 12:37:22+03"
+  },
+  {
+    "id": 4225057,
+    "company": "ÖMER DALKIRAN",
+    "address": "GÜLABİBEY MH. MİLÖNÜ CD. SANCAKTAR İŞ MRK. KAT: 3 NO: 42",
+    "type": "company",
+    "fax": "-",
+    "phone": "3643330365",
+    "web": "http://www.smartbilisim.com.tr",
+    "approve_date": "2019-03-13 12:37:22+03"
+  },
+  {
+    "id": 4225058,
+    "company": "AHMET TAHA GÜNDOĞDU",
+    "address": "ŞENLİK MAH. AŞIKPAŞA CAD. NO:39/10",
+    "type": "company",
+    "fax": "",
+    "phone": "8508409542",
+    "web": "https://www.teksanet.com.tr",
+    "approve_date": "2019-03-13 12:37:23+03"
   }
 ]
