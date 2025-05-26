@@ -361,7 +361,7 @@
 | Cem Koray SOYSAL | company | Hamidiye mah. Uğur Mumcu Cad. Park O'live Evleri d2 16 | +905524361985 | https://datakale.net | 2024-01-29T11:12:49.000Z |
 | CEM METE OKUR | company | RÜSTEMPAŞA MH. CUMHURİYET CD. BARIŞ SK. NO: 3/5 MERKEZ | +902268133292 | http://www.ajansceo.com | 2019-03-13T12:37:36.000Z |
 | Cem Tolga Elbaşı | company | Yeşilce Mah. Yasin Sok No:11/10 Kağıthane | +908503463739 | https://www.epifizajans.com | 2021-04-27T13:47:36.000Z |
-| CEM ZORLU | company | Selçukbey Mh. 562/1 Sk. No:3 | +905529333180 | https://onelyahosting.com | 2025-03-01T17:34:17.000Z |
+| CEM ZORLU | company | Selçukbey Mh. 562/1 Sk. No:3 | +905529333180 | https://onelyahosting.com | 2025-05-25T02:57:14.000Z |
 | Cemal Turgut Aldemir | company | SARAYCIK MAH. 2433 CAD. NO: 1 /19 İÇ KAPI NO: 2 SİNCAN/ ANKARA | +905536632403 | https://netzoda.com/ | 2025-02-14T09:50:14.000Z |
 | Cemil Berkan Zorlu | company | 9503/1 Sk No 4/4A İnönü Ciğli | +908508409728 | https://hostegon.com | 2023-03-10T09:24:42.000Z |
 | CEMİL NAYMAN | company | Fenerbahçe Mh. Iğrıp Sk. No: 13 Kadıköy/İstanbul PK: 34726 | +905366903444 | https://www.cntasarim.net | 2023-06-08T09:16:03.000Z |
