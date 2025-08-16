@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 2111
+## Kayıt Sayısı: 2113
 
 ### Kaynak: <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -60,7 +60,7 @@
 | ahmet aydoğan | company | çavuş mah.bayrak cad.no 19.daire 10 | +905300507751 | https://www.aprilsoft.net/ | 2025-04-11T11:23:12.000Z |
 | AHMET BAHADIR SARI | company | İSTASYON MAH. 2324 CAD. OLCAY APT. NO: 72 İÇ KAPI NO: 1 ETİMESGUT/ ANKARA | +903129113706 | https://ankarateknoloji.com | 2021-01-07T14:06:52.000Z |
 | Ahmet Batuhan Pekin | company | Ayrancı mahallesi 284.sokak 3/7 | +905515920171 | https://www.coretexhost.com | 2024-03-15T09:23:42.000Z |
-| AHMET BERK BAŞARAN | company | Dumlupınar, Sakıp Sabancı Cd. NO:44 D:5, 41250 Kocaeli/Kartepe | +908503036520 | https://www.zirvesunucum.com | 2025-08-12T15:22:43.000Z |
+| AHMET BERK BAŞARAN | company | Dumlupınar, Sakıp Sabancı Cd. NO:44 D:5, 41250 Kocaeli/Kartepe | +908503036520 | https://www.zirvesunucum.com | 2025-08-15T12:23:02.000Z |
 | AHMET BÜYÜKASLAN | company | AKADEMİ MAH. GÜRBULUT SK. NO:67 | +903326060235 | HTTPS://WWW.AEYAZILIM.COM | 2021-12-16T09:53:09.000Z |
 | AHMET CENGIZ | company | GÖLÇAYIR MAH. NO:37 AKSEHIR | +905424834728 | http://www.cengizbilisim.net | 2019-03-13T12:33:48.000Z |
 | Ahmet Çevik | company | Ortabayır Mah. Atalar Cad. 57 Kağıthane/İstanbul | +908503098867 | https://hostopya.com/ | 2024-07-24T11:17:30.000Z |
@@ -143,6 +143,7 @@
 | ALPEREN AVCI | company | ZAFER MH. CUMHURİYET CD. DEVECİOĞLU İŞ HANI KAT:6, NO:23/102 | +903622308888 | https://www.362.com.tr | 2019-07-08T11:18:32.000Z |
 | ALPEREN EYMEN ÖZCAN | company | CAMİKEBİR MAH. GARAJ SOK. TOMRUK APARTMAN ALTI ÖZCAN YAPIPEN | +902245732007 | http://www.hostinyo.com | 2019-03-13T12:34:01.000Z |
 | Alperen Karabıyık | company | ankara keçiören karargahtepe mah. atış cad. çavdar sok. 28/8 | +908508409980 | https://hostluyoruz.com | 2024-05-12T12:48:59.000Z |
+| Alperen Özcan | company | Çolaklı Mahallesi İnönü Caddesi No:6 | +908508400722 | https://vdsal.tr/ | 2025-08-15T15:33:24.000Z |
 | ALPEREN ZEKERİYA ÇULHA | company | Y.OVA MAH. KORUCU SOKAK NO:6/7 | +908507800055 | http://www.culhabilisim.com.tr | 2025-03-11T21:29:48.000Z |
 | ALTAN SAHİN | company | OKMEYDANI PERPA TİCARET MERKEZİ A BLOK KAT:13 NO:2042 | +908503330241 | http://www.platinumeticaret.com | 2019-03-13T12:38:35.000Z |
 | Altay Çelik | company | YENİKENT MAH. HACI BEKTAŞ VELİ CAD. OZYURTLAR N OUTLET MERKEZ A4 BLOK NO: 2 F İÇ KAPI NO: 46 ESENYURT/ İSTANBUL | +905451706138 | https://vomecloud.com/ | 2025-08-06T15:19:48.000Z |
@@ -175,6 +176,7 @@
 | Arif Bekir Arı | company | TURGUT TÜRKALP MAH. 79042 SK. ORHANLAR APT. NO: 21 İÇ KAPI NO: 2 TOROSLAR/ MERSİN | +908503800033 | https://www.sunucudiyari.com.tr | 2023-07-20T22:45:07.000Z |
 | Arif Kuvvet | company | MERKEZ MAH. ERDEMOĞLU BLV. ERDEM KENT ERDEMLIKENT TATIL SITESI C BLOK NO: 74 H İÇ KAPI NO: 4 ERDEMLİ/ MERSİN | +905452154283 | https://kuvvet.net | 2023-07-14T10:37:39.000Z |
 | arife uyar kaçmaz | company | gerzele mh yeşilvadi cd no 23 d2 | +905324655611 | https://www.uzman.net.tr | 2023-12-16T18:14:43.000Z |
+| arife uyar kaçmaz | company | gerzele mh yeşilvadi cd no 23 d2 | +905324655611 | https://www.uzman.net.tr | 2023-12-16T18:14:43.000Z |
 | ARTI 360 YAZILIM SAN. VE TİC. A.Ş. | company | BALIKESİR ÜNİVERSİTESİ TEKNOLOJİ GELİŞTİRME BÖLGESİ. ÇAĞIŞ MAH. ÇAĞIŞ B.M SK. NO: 340 /16- İÇ KAPI NO: 62 BİGADİÇ | +908503402626 | https://www.arti360.com.tr | 2021-12-02T09:53:55.000Z |
 | ARTI MYE DANIŞMANLIK GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ | company | Toros Mh. 78200 sk. Talip apt. K:11 D:21 Çukurova Adana | +905334761455 | Http://www.webyurdu.com | 2025-01-07T09:15:07.000Z |
 | ARTIBİR GRUP İLETİŞİM DANIŞMANLIK LTD ŞTİ | company | ŞEMSETTİN GÜNALTAY CD. NO:179/8 | +903123557777 | http://www.artibir.net | 2019-03-13T12:42:27.000Z |
@@ -192,6 +194,7 @@
 | Atilla Çıtıroğlu | company | Meşebükü Mah. Aybastı Cad. No:67/1 Fatsa/Ordu | +905532061185 | https://www.kobimix.com | 2025-04-06T22:21:29.000Z |
 | ATİLLA İLHAN KARTAL | company | EGE MH. 438 SK. VİZYONKENT SİT. A1 BLOK D:3 KUŞADASI | +908504955323 | http://www.ergatech.com | 2019-03-13T12:35:09.000Z |
 | Atilla Kurtuluş ŞİMŞEK | company | Terzialiler Mahallesi, Başoğlu Sokak, No: 38 / B, Ortaca, | +908503074221 | https://varkhedigital.net.tr | 2024-06-26T14:54:44.000Z |
+| ATİS TEKNOLOJİ BİLİŞİM MEDİKAL İNŞAAT DANIŞMANLIK SANAYİ VE TİCARET LİMİTED ŞİRKETİ | company | YENİBAĞLAR MAH. İSMETİNÖNÜ-1.CAD. NO:140 KAPI NO:30 TEPEBAŞI /ESKİŞEHİR | +905335592669 | https://jokerhost.com/ | 2023-05-05T15:23:18.000Z |
 | ATİS TEKNOLOJİ BİLİŞİM MEDİKAL İNŞAAT DANIŞMANLIK SANAYİ VE TİCARET LİMİTED ŞİRKETİ | company | YENİBAĞLAR MAH. İSMETİNÖNÜ-1.CAD. NO:140 KAPI NO:30 TEPEBAŞI /ESKİŞEHİR | +905335592669 | https://jokerhost.com/ | 2023-05-05T15:23:18.000Z |
 | ATLAS ON-LİNE İLETİŞİM SİSTEMLERİ TİC.A.Ş. | company | Müeyyedzade Mah. Kemeraltı Cad.Öney İş Hanı No:6 Kat:6 | +902122938055 | https://atlas.net.tr | 2025-08-01T09:38:39.000Z |
 | ATUTCO SAVUNMA SANAYİ İÇ VE DIŞ TİC. LTD. ŞTİ. | company | YEŞİLOVA MH. 4003 SK. NO:3/2 ETİMESGUT | +905053663660 | https://atutcosoft.com.tr | 2023-01-19T16:50:29.000Z |
@@ -238,7 +241,6 @@
 | BARIŞ ÜRÜN | company | Şerefiye Mah. Rasim Betir Paşa Blv. 334.Sk. Cengizler İş Merkezi NO:16 K:3 D:34 | +903805143329 | http://www.bw.net.tr | 2020-12-17T02:48:17.000Z |
 | BARIŞ YAZILIM VE BİLİŞİM TEKNOLOJİLERİ SAN.TİC.A.Ş. | company | DEĞİRMİÇEM MAH.ÖMER KÖYLÜOĞLU CAD.NO:12/B | +908508400027 | https://www.barisbilisim.com | 2020-08-19T14:58:15.000Z |
 | BARIS YILMAZ | company | MANSUROGLU MH DUMLUPINAR CD NO66 K2 D14 | +905326847101 | https://www.b3dp.com | 2021-12-22T16:19:10.000Z |
-| BARIŞ ZIBAHALAT MOFRAD | company | Cennet Mahallesi Yahya Kemal Beyatlı Caddesi No:23 D:3 Küçükçekmece | +908503085778 | https://mofradhost.com | 2025-07-03T14:46:38.000Z |
 | Barış Bolat | company | Yeşil Bağlar Mahallesi D 100 | +905102200941 | https://hostlera.com | 2024-10-08T14:38:01.000Z |
 | Barış Çağman | company | Habibler Mah. 2718 Sok. No:51/1 Sultangazi | +905433558934 | https://barcag.com | 2021-06-16T13:32:19.000Z |
 | Barış Emre Teksin | company | Çeysa Twin Towers plaza B blok kat 7 no 48 | +905534477669 | https://www.btekhost.com/ | 2024-01-05T09:33:36.000Z |
@@ -353,7 +355,6 @@
 | Cahit Bodur | company | Esentepe Mah 2389/2 Sk No:5 D:16 Sultangazi | +905415365255 | https://sizinsayfaniz.com | 2025-08-05T21:32:25.000Z |
 | Calldex Bilişim A.Ş. | company | Kosuyolu Mah.Ibrahimaga Zaviyesi Sk. No:8 - Kadıköy | +908503337677 | https://www.calldex.com.tr | 2020-08-10T15:45:58.000Z |
 | CAMART ARAŞTIRMA GELİŞTİRME YAZILIM OTOMASYON SAN. TİC.LTD. ŞTİ. | company | PAÜ TEKNOLOJİ GELİŞTİRME BÖLGESİ (TEKNOKENT) İDARİ BİNA D BL | +908503338020 | http:// | 2019-03-13T12:42:21.000Z |
-| Can Berkay DALGIÇ | company | NİĞDE ÇİFTLİK KÜME EVLERİ NO:133 D:1 | +908503466331 | https://himsey.com.tr | 2025-05-16T14:20:37.000Z |
 | CAN GÜNEŞ | company | İstanbul Silivri Gümüşyaka Mahallesi Hızırreis Caddesi No:23 A Blok Daire: 1 | +908503051209 | https://oceanbilisim.com.tr | 2024-10-17T10:22:44.000Z |
 | Can Sarıkoç | company | Çırağan Caddesi, Yıldız Mahallesi, Şahnişin Sokak NO:11 | +905455862173 | https://chmedya.com | 2020-04-30T01:27:19.000Z |
 | Canan Özlem AYDİN | company | Levent Mahallesi, Cömert Sokak, Yapı Kredi Plaza, N0:1, C Blok, Kat: 17, No: 40-41, Ofis No: DO-o1 Beşiktaş | +902129091989 | https://ykbweb.com.tr | 2019-09-17T10:11:54.000Z |
@@ -488,7 +489,7 @@
 | EDAŞ YAZILIM A.Ş. | company | MEHMETÇİK MAH. TERMESSOS BULV. OFİS 24 İŞ MRK. NO: 18 A2 BLK KAT:5 D:9 MURATPAŞA | +902423219777 | http://edasyazilim.com | 2019-03-13T12:45:19.000Z |
 | EDAX DANIŞMANLIK VE KURUMSAL HİZMETLER A.Ş. | company | ATATÜRK MAH. GÜNER SOKAK B 1 BLOK D:160 KÜÇÜKÇEKMECE İSTANBUL | +905551690155 | https://edax.com.tr | 2023-09-12T17:28:10.000Z |
 | Ediz Kamburoğlu | company | Yakuplu Mah.126.Sokak 18/9 Beylikdüzü/İstanbul | +905554542405 | https://www.netikonsoft.com | 2022-02-22T17:13:51.000Z |
-| EDS Bilişim Sistemleri San. ve Dış Tic. Ltd. Şti | company | Kocaeli Üniversitesi Teknoparkı Yeniköy Vatan Cad. No: 83/C6 | +902127060701 | https://www.edsbilisim.com | 2025-07-10T17:02:18.000Z |
+| EDS Bilişim Sistemleri San. ve Dış Tic. Ltd. Şti | company | Kocaeli Üniversitesi Teknoparkı Yeniköy Vatan Cad. No: 83/C6 | +902127060701 | https://www.edsbilisim.com | 2025-08-15T15:50:39.000Z |
 | EFE CAN BÜYÜKKABAKÇI | company | MERKEZ MAH. HASTANE SK. AYŞEGÜL APT NO: 9 B, GAZİOSMANPAŞA/ İSTANBUL | +905455967329 | https://softsunucum.com.tr | 2023-09-28T09:04:59.000Z |
 | Efe Can Tunçbilek | company | Liman Mah. 37. Sok. Manolya Sitesi No:1 A Blok D:8 | +905452950226 | https://epiksunucum.com/ | 2021-08-05T13:54:50.000Z |
 | EFEKAN RAŞİT ZEYBEK | company | dallıca mah. 4648 sok. nazevler sitesi no:29/B Nazilli | +905061026757 | https://nethiz.com | 2025-04-18T10:50:37.000Z |
@@ -523,7 +524,6 @@
 | EMİR ŞİMŞEK | company | SARIYER MERKEZ MAH. SARIYER DERESİ SK. NO: 2 İÇ KAPI NO: 1 SARIYER/ İSTANBUL | +905366538308 | https://www.dekasya.com.tr | 2020-11-10T17:11:42.000Z |
 | Emir Taş | company | Zübeyde Hanım Mahallesi, 1430 Sk. No:4 Daire:3 Sultangazi/İstanbul | +905530589469 | https://ticarihosting.com | 2023-07-06T16:29:51.000Z |
 | Emircan Apak | company | Cumhuriyet mah. Karanfil cd. no: 50 Daire 6 Erbaa/Tokat | +905535847563 | https://hostvera.com.tr | 2025-05-06T13:56:17.000Z |
-| Emirhan Akgül | company | Halıkent Mah. 5206 Sokak Gültur Sitesi G Blok Kat 5 Daire17 | +905423300807 | https://elinsoft.com | 2025-08-05T21:05:20.000Z |
 | Emirhan Akgül | company | Halıkent Mah. 5206 Sokak Gültur Sitesi G Blok Kat 5 Daire17 | +905423300807 | https://elinsoft.com | 2025-08-05T21:05:20.000Z |
 | Emirhan Akif Mert | company | Perpa B Blok Kat: 11 No: 2025 | +905386833023 | https://www.viyoza.com | 2019-07-30T09:53:18.000Z |
 | Emirhan Akpınar | company | Çınar Mahallesi 789.Sokak No:15 Daire:6 | +908503094503 | https://sunucuduragi.com | 2025-06-19T16:07:47.000Z |
@@ -561,7 +561,6 @@
 | Enes Şentürk | company | 8 The Green, Suite 18920, Dover, DE, 19901, USA | +905306207417 | https://bws.blesyum.com | 2025-02-03T02:43:57.000Z |
 | ENES ŞENTÜRK | company | AKEVLER MH. 1076 SK. NO: 8-E/153 ESENYURT/İSTANBUL | +908503021161 | https://onlinesunucu.com.tr | 2022-08-31T16:17:24.000Z |
 | ENES YAHYA AK | company | FENERBAHÇE MAH. IĞRIP SOK. NO: 13/1 KADIKÖY / İSTANBUL | +908503089243 | https://webvo.com.tr | 2022-09-27T10:11:45.000Z |
-| ENES YAHYA AK | company | FENERBAHÇE MAH. IĞRIP SOK. NO: 13/1 KADIKÖY / İSTANBUL | +908503089243 | https://webvo.com.tr | 2022-09-27T10:11:45.000Z |
 | enes yıldız | company | PULUR MAH. İTFAİYE SK. HARUN EFENDİ APT. 1 /1/22 MERKEZ/SİVAS | +905059929460 | https://www.flycof.com | 2023-12-07T03:54:30.000Z |
 | ENESCAN TAŞ | company | CUMHURİYET MAH NO 2 | +908503032907 | https://www.altunhost.com | 2022-02-01T20:46:23.000Z |
 | ENGİN AKAR | company | DEREAĞZI MAH. MERASİM SOK. NO:8/14 | +908508553195 | http://www.akarweb.net | 2019-08-05T16:49:10.000Z |
@@ -583,6 +582,7 @@
 | ercan bilici | company | cumhuriyet mahallesi gül cadedesi Gemlik | +905523305167 | https://bilicinetwork.com | 2022-03-29T10:57:40.000Z |
 | ERCAN GENÇER | company | SAKARYA MAH HACI HULUSİ BABA CAD NO :7/B FATSA - ORDU | +904524239696 | https://www.gencbilgiislem.com.tr/ | 2020-06-02T14:46:56.000Z |
 | ERCAN ÖZCAN | company | POSTANE MAH. BARBAROS HAYRETTİN CAD. NO:23/A D:12 TUZLA / İSTANBUL | +902165820209 | http://www.webevin.com | 2020-10-05T09:12:31.000Z |
+| ercan yüren | company | zafer mahallesi 4301 sokak no:86 d:2 | +905554070606 | https://canbulut.com | 2022-09-22T16:08:40.000Z |
 | ercan yüren | company | zafer mahallesi 4301 sokak no:86 d:2 | +905554070606 | https://canbulut.com | 2022-09-22T16:08:40.000Z |
 | ERCİN SALİH AYHAN | company | SARIGOL MAH. YAYLA SOK. NO 2 DA 10 GAZİOSMANPASA | +905342762882 | http://www.444ticaret.com | 2019-03-13T12:32:52.000Z |
 | ERDAL TÜRKSOY | company | Mehmet Akif Ersoy Mahallesi Rauf Denktaş Caddesi Özmat Premium Sitesi B Blok No:48 38B/B Merkez Kastamonu | +905423184336 | https://www.akvimbilisim.com | 2024-02-26T14:55:43.000Z |
@@ -774,6 +774,7 @@
 | GÜNER HORSUNLU | company | İSLİCE MAH. ANNAÇ SOK. NO:36 BAYHAN İŞHANI KAT:6 D:604 | +902766060160 | http://www.usakhosting.com | 2019-08-19T23:23:27.000Z |
 | GÜNERİ YEŞİLTAŞ | company | Turan Mahallesi 2203 Sokak, No:1 Daire:1 | +905433440000 | https://www.uzayhost.com | 2024-08-03T16:10:16.000Z |
 | Güney AKTAŞ | company | KEMERALTI MAHALLESİ ESKİ DATCA YOLU CADDESİ SEDAT ASLAN APARTMANI NO:77/6 | +905367701327 | https://www.exoras.com.tr/ | 2023-05-12T09:52:07.000Z |
+| Güney AKTAŞ | company | KEMERALTI MAHALLESİ ESKİ DATCA YOLU CADDESİ SEDAT ASLAN APARTMANI NO:77/6 | +905367701327 | https://www.exoras.com.tr/ | 2023-05-12T09:52:07.000Z |
 | GÜNGÖR BAL | company | KORKUT SK. N:19 UĞURUM APT D:6 KOZYAĞI KADIKÖY | +905326547068 | https://www.antpi.net | 2024-03-09T15:20:23.000Z |
 | Güray Avcı | company | SARAYLAR MAH. 464 SK. DURMUŞ ALİ ÇOBAN İŞ MERKEZİ NO: 1 İÇ KAPI NO: 12 Merkezefendi | +908503029188 | https://www.sibermimar.com.tr | 2024-12-06T22:00:39.000Z |
 | GÜRAY BAHADIR | company | KEMALİYE MAH. SÜMBÜL SK. ELIT PARK SITESI A BLOK NO: 12 A İÇ KAPI NO: 14 VAKFIKEBİR/ TRABZON | +905527501261 | https://baglanti.net | 2024-01-08T09:45:40.000Z |
@@ -932,7 +933,6 @@
 | İlker Oğulcan Sayın | company | Kızılırmak Mahallesi Dumlupınar Bulvarı YDA Center 9A/158 | +908508850605 | https://v34.net | 2022-03-17T09:54:13.000Z |
 | İlker Öztürk | company | Karlıktepe Mah. Orhan Veli Sok. No:4 D:9 Kartal/İstanbul | +908503033614 | https://www.btinteraktif.com | 2025-08-05T20:45:36.000Z |
 | İLKER ŞEN | company | PERPA TİCARET MERKEZİ A BLOK 12. KAT NO: 1942 ŞİŞLİ | +902122527287 | http://www.turkhoster.com | 2025-08-03T23:42:24.000Z |
-| İLKER ŞEN | company | PERPA TİCARET MERKEZİ A BLOK 12. KAT NO: 1942 ŞİŞLİ | +902122527287 | http://www.turkhoster.com | 2025-08-03T23:42:24.000Z |
 | ILYAS ÖZTÜRK | company | TABAKLAR MAH.H.EMIN BARIN CAD. ÜNAL ISH. NO:20/3 | +905327414480 | http://www.webservisim.net | 2019-03-13T12:32:28.000Z |
 | İlyas Serter | company | Turkmen mh. Bahcearasi sk. 3/8 | +905550446699 | https://www.verievi.com | 2021-03-02T16:40:02.000Z |
 | İNETMAR İNTERNET HİZMETLERİ BİLİŞİM TEKNOLOJİLERİ SAN. TİC. LTD. ŞTİ. | company | MANSUROĞLU MAH 286/1 SOKAK NO:16 D:21 ATA PLAZA BAYRAKLI | +902324462396 | http://www.inetmar.com.tr | 2019-03-13T12:43:16.000Z |
@@ -958,6 +958,7 @@
 | İSLAM ERGÜN | company | SARAÇOĞLU MAH. 39.SOKAK NO:22 | +905378904460 | https://www.nanotekbilgisayar.com | 2019-03-13T12:37:57.000Z |
 | İSLAM KAYGUSUZ | company | KUŞDİLLİ MAHALLESİ / 3.ÇARŞI CAMİİ SOKAK./EMEK İŞ HANI /N.47 | +905455828794 | http://www.iskaybilisim.com | 2019-03-13T12:35:03.000Z |
 | İSMAİL BAHADIR ATAKAN ÖZ | company | Adalet Mahallesi Manas Bulvarı Folkart Towers A Kule No:47/B K:26 D:2601 Bayraklı-İzmir | +908503074910 | https://www.nettescil.com.tr | 2025-07-07T01:39:01.000Z |
+| İsmail Bayraktar | company | kocaeli derince yavuzsultan mahallesi yenilik sokak tan apartmanı kat 4 daire 8 | +902626061802 | https://hostluyor.com | 2025-08-15T10:48:37.000Z |
 | İSMAİL CAN  TAŞAN | company | YENİ KARAMAN MAH.6.YİLDİRİM SOK.NO:9 | +908503603952 | https://www.bursahostingdunyasi.com.tr/ | 2023-03-10T14:02:54.000Z |
 | İSMAİL ÇOLAK | company | CUMHURİYET MAHALLESİ 1979 SOKAK NO :11 KAT 2 EFELER/AYDIN | +905076028561 | https://turkishdedicated.com | 2019-03-13T12:33:53.000Z |
 | İSMAİL EKTİK | company | YENİŞEHİR MAH. RAVZA CAD. ESRA APT. BLOK NO:22 NO:13 | +905454474422 | http://www.artukluweb.com.tr | 2019-03-13T12:38:45.000Z |
@@ -1035,7 +1036,6 @@
 | KEREM SARI | company | Yalı Mah. Fethiye Cad. No:69/12 Maltepe | +905327442058 | https://bircpu.com/ | 2025-06-02T14:36:11.000Z |
 | Kerem Uluboy | company | Fenerbahçe Mah. İğrip Sk. No: 13 İç Kapı No: 1 Kadıköy/İstanbul | +908503037099 | https://whitebilisim.com | 2025-03-24T10:16:37.000Z |
 | Kerim aksanaoğlu | company | ESENTEPE MAH. KESKİN KALEM SK. ARYA PLAZA NO: 17 İÇ KAPI NO: 2 ŞİŞLİ/ İSTANBUL | +905389724767 | https://jushost.net | 2023-10-03T16:37:00.000Z |
-| Kerim aksanaoğlu | company | ESENTEPE MAH. KESKİN KALEM SK. ARYA PLAZA NO: 17 İÇ KAPI NO: 2 ŞİŞLİ/ İSTANBUL | +905389724767 | https://jushost.net | 2023-10-03T16:37:00.000Z |
 | KERİM CAN YILDIRIM | company | Devlet Mah. 5. Cad. No: 39/B Vize/Kırklareli | +908504669608 | https://moyo.com.tr | 2021-05-10T03:38:20.000Z |
 | Kerim Koral | company | KOÜ Teknopark Yeniköy Merkez Mh. Vatan Vd. No:83 C21 Başiskele | +902623224322 | http://kimbilisim.com | 2021-05-06T14:12:41.000Z |
 | KERNZEN TELEKOMÜNİKASYON BİLİŞİM YAZILIM VE BİLGİSAYAR LİMİTED ŞİRKETİ | company | Çamlıca Mah. Bağdat Cad. No:83 İç Kapı No:167 | +908508400996 | https://kernzen.com | 2024-11-26T09:47:49.000Z |
@@ -1059,6 +1059,7 @@
 | Kor Bilişim Bilgisayar Emlak Danışmanlık Mühendislik Reklam Pazarlama İthalat İhracat Sanayi ve Ticaret Limited Şirketi | company | Doğan Taşdelen Cd., 3001. Sokak, No:29 Çayyolu, Çankaya, Ankara/Türkiye | +905396828596 | https://cloud.core.gen.tr/ | 2025-08-05T16:36:44.000Z |
 | Koray Bal | company | Esentepe Mahallesi, İnönü Cad. Sualtın Inşaat No: 145 İç Kapı No: 29 KARTAL/İSTANBUL | +905537868237 | https://vibyte.net | 2025-08-12T15:30:12.000Z |
 | KORLOG AR.GE. BİLG. MAK. İNŞ. SAN. VE TİC. LTD. ŞTİ. | company | BÜYÜKDERE MH. GENÇLİK BUL. OSMANGAZİ ÜNV. TEKNOPARKI 44/205 | +902222293567 | http://korlog.com | 2019-03-13T12:42:14.000Z |
+| KORP Yazılım ve Bilgi Teknolojileri Limited Şirketi | company | Beşevler Mahallesi Yıldırım Caddesi 274/1C | +908508889060 | https://www.korpcloud.com | 2023-10-05T20:25:46.000Z |
 | KORP Yazılım ve Bilgi Teknolojileri Limited Şirketi | company | Beşevler Mahallesi Yıldırım Caddesi 274/1C | +908508889060 | https://www.korpcloud.com | 2023-10-05T20:25:46.000Z |
 | KOŞAN ADAM BİLİŞİM IŞIK VE SES SİS. REK. ORG. TURZ. SAN. VE TİC. LTD. ŞTİ. | company | BATI SİTESİ MAHALLESİ SEMT 2307. SK. NO:30 YENİMAHALLE | +903122563343 | http://www.tasarimekseni.com | 2019-03-13T12:42:28.000Z |
 | KTA BİLİŞİM MEDYA TELEKOMÜNİKASYON LTD. ŞTİ. | company | TEKNOPARK - SANAYİ MAH. TEKNOPARK BULVARI NO: 1 1-4A 101 | +905398608401 | https://www.kta.com.tr | 2019-03-13T12:43:30.000Z |
@@ -1086,7 +1087,6 @@
 | LİMON YAZILIM VE BİLİŞİM DANIŞMANLIK HİZMETLERİ LTD ŞTİ | company | CİHANNUMA MAH BARABAROS BULVARI HUSNU SAVMAN SOK NO40 DA9 | +902123066080 | https://www.limonhost.net | 2019-03-13T12:42:59.000Z |
 | LİNYİTNET İLETİŞİM TELEKOMÜNİKASYON HİZMETLERİ SAN.VE TİC.LTD.ŞTİ | company | KURTULUŞ MH. C.NUMANOĞLU SOKAK NO 5 | +902366120001 | http://www.linyitnet.com.tr | 2019-03-13T12:43:42.000Z |
 | LİVAPROXY YAZILIM TİCARET LİMİTED ŞİRKETİ | company | CEBECİ MAHALLESİ P CADDESİ NO:35-37 İÇ KAPI NO 29 SULTANGAZİ/İSTANBUL | +905535213776 | https://livaproxy.com | 2024-05-21T13:44:20.000Z |
-| LİYALABS AKILLI TARIM OTOMASYON SİSTEMLERİ ANONİM ŞİRKETİ | company | İVEDİKOSB MAH. 2224 CAD. NO: 1 İÇ KAPI NO: 116 YENİMAHALLE/ ANKARA | +908502420645 | https://liyalabs.com | 2025-04-02T11:38:01.000Z |
 | LİYALABS AKILLI TARIM OTOMASYON SİSTEMLERİ ANONİM ŞİRKETİ | company | İVEDİKOSB MAH. 2224 CAD. NO: 1 İÇ KAPI NO: 116 YENİMAHALLE/ ANKARA | +908502420645 | https://liyalabs.com | 2025-04-02T11:38:01.000Z |
 | LODOS YAZILIM VE BİLGİSAYAR HİZMETLERİ SAN.TİC.LTD.ŞTİ. | company | Fethiye Mah. Top Sahası Cad. No:60/1 Daire:2 - Nilüfer/BURSA | +905422517310 | https://lodosyazilim.com.tr | 2019-11-20T14:03:52.000Z |
 | Lütfi ARDIÇ | company | Gülük Mah. Karakuş Sk. Eras İş Mer. No:13/701 | +905321782579 | https://pazaport.com | 2021-01-05T11:08:42.000Z |
@@ -1314,7 +1314,6 @@
 | MUSTAFA MUSLU | company | Merkez mahallesi 52125 sokak soylu residence a blok 9/17 | +908503058162 | https://mantikbilisim.com/ | 2021-03-25T16:52:57.000Z |
 | Mustafa Ömer GÖLGELİ | company | Yenibosna Merkez Mah. 29 Ekim Cad. Ihlas Yuva Sitesi D4, Bahçelievler | +908505324916 | https://khrono.net | 2020-08-19T10:05:13.000Z |
 | Mustafa Özsüslü | company | UFUK MAH. 893 SK. NO: 5 A BUCA/ İZMİR | +908503073542 | https://netlara.com/ | 2023-12-06T22:04:37.000Z |
-| Mustafa Özsüslü | company | UFUK MAH. 893 SK. NO: 5 A BUCA/ İZMİR | +908503073542 | https://netlara.com/ | 2023-12-06T22:04:37.000Z |
 | MUSTAFA SAİD KASAP | company | VATAN MAH. 233 MUSTAFA KAZAK CAD. NO: 8 İÇ KAPI NO: 2 MERKEZ/ ISPARTA | +905530923004 | http://webyerim.tr/ | 2025-06-13T10:31:55.000Z |
 | MUSTAFA SARUL | company | GURSEL MAH. IMRAHOR CAD. NO:29/A43 PREMIER KAMPUS OFIS KAĞITHANE | +908505150050 | http://mssoft.com.tr/ | 2022-09-18T16:23:03.000Z |
 | Mustafa Seçkin | company | YİLDİRİM BEYAZIT 46SK NO8 KAT2 SARIÇAM | +908503046050 | https://www.anindadomain.com | 2021-04-16T14:30:53.000Z |
@@ -1396,6 +1395,7 @@
 | NOVA HABERLEŞME UYDU SIS.GÜV.MED.İNTERNET HIZMETLERI TIC.SANLTD.ŞTI. | company | Camikebir Mh. Ulu Sk. No:4 Tashan K:10 Melikgazi | +908503020220 | https://organiktrafik.com.tr/ | 2023-10-03T15:46:25.000Z |
 | NOVA HOSTİNG VE BİLİŞİM TEKNOLOJİLERİ A.Ş. | company | Koza Cd. 20/4 GOP | +908502424678 | https://isimkaydet.com | 2025-03-06T09:54:45.000Z |
 | NOVASİS TEKNOLOJİ BİLİŞİM TİC.LTD.ŞTİ. | company | SARAY MH.DR.ADNAN BÜYÜKDENİZ CD. AKKOM OFİS 2.BLOK NO4 K10 ÜMRANİYE İSTANBUL | +902164992121 | https://www.novasishost.net | 2020-01-03T00:25:25.000Z |
+| NSX Bilişim Teknolojileri Tic. Ltd. Şti. | company | Mahmutbey Mah. Taşocağı Yolu Cad. No:1 Kat:20 D:164 Bağcılar | +902124014125 | https://www.nsx.com.tr | 2025-08-15T10:32:09.000Z |
 | NT BİLGİ TEKNOLOJİLERİ A.Ş. | company | Sırakapılar Mahallesi 1778 Sokak No:2 Kat:3/8 | +902582440068 | https://www.ntbilgi.com | 2020-06-16T15:34:04.000Z |
 | NUAGE TEKNOLOJİ ANONİM ŞİRKETİ | company | CUMHURİYET MAH. CEVVAL SOK. NO:1/3 C K:10 D:158 | +902129510061 | https://www.nuagedc.com | 2024-09-10T14:50:11.000Z |
 | NUH KETİM | company | Asma Mah. Mustafa Çavuşoğlu Sokak No-1B | +908503040835 | http://www.teksunucu.com | 2023-06-05T00:35:39.000Z |
@@ -1405,6 +1405,7 @@
 | NURETTİN AKYÜZ | company | ÇAYIRLI İLKÖĞRETİM OKULU KARŞISI NO: 110 KDZ.EREĞLİ | +903723330033 | https://www.akyuznet.com.tr | 2020-07-07T14:31:42.000Z |
 | NURETTİN DÖNMEZ | company | KARAKEÇİLİ MAHALLESİ ALBAYRAK CAD. KÜÇÜKPARK İŞHANI 1/1 304 | +903642120101 | http://www.kaliteinternet.com | 2019-03-13T12:36:22.000Z |
 | Nurettin Özen | company | Selçuklu Mah. Atatürk Cad. Necip Pala İş Merkezi, Bina No 44/B Kat 1 No 103, 42320 Ereğli/Konya | +903326060365 | https://www.pixron.com | 2024-05-17T16:16:20.000Z |
+| NURHAN AKYÜZ | company | Bağlık Mah. Şair Abay Kunanbay Sk. No:14/A | +908502593367 | https://www.dcnet.com.tr | 2024-06-24T14:28:21.000Z |
 | NURHAN AKYÜZ | company | Bağlık Mah. Şair Abay Kunanbay Sk. No:14/A | +908502593367 | https://www.dcnet.com.tr | 2024-06-24T14:28:21.000Z |
 | Nuri YAĞMUR | company | Niyazi Mah. Tuna Sk. No:10/A | +908503085662 | https://fuya.net.tr | 2023-01-20T15:28:00.000Z |
 | NURSEN HACİOĞLU | company | MERKEZ MAH. MARMARA CAD.ERENLER 1 İŞ MERK. NO:22/93 AVCILAR | +908503041808 | http://www.ncbilisim.com.tr www.webilnet.com | 2019-03-13T12:32:57.000Z |
@@ -1539,6 +1540,7 @@
 | Ozan Can Oruç | company | Merkez mah. Prof. Dr. Nurettin Mazhar Öktel Sok. No:19/2 | +905050385263 | https://webuvi.com.tr | 2019-12-09T14:43:58.000Z |
 | OZAN KADİR SARAÇOĞLU | company | FEVZİ ÇAKMAK MAH.DR.ZEKİ ACAR CAD.BİLGİN SOK. | +905372215681 | http://www.axissunucu.com | 2019-03-13T12:36:46.000Z |
 | OZAN ÖZ | company | 100. YIL MAH. 2121 SOK. 25/4 BAĞCILAR | +902129099686 | http://sonyazilim.net | 2025-05-05T18:26:02.000Z |
+| OZAN ÖZ | company | 100. YIL MAH. 2121 SOK. 25/4 BAĞCILAR | +902129099686 | http://sonyazilim.net | 2025-05-05T18:26:02.000Z |
 | OZAN ÖZDİNÇER | company | Cumhuriyet M. Belediye C. İstanbul Outlet Park AVM No:374/137 K:4 Büyükçekmece | +902164426582 | https://tubilmer.com.tr | 2020-08-07T09:36:30.000Z |
 | OZAN YILDIZ | company | YENİ MAHALLE DEVRENGEC CD NO:9 D:6 | +902243340242 | http://www.sistemdc.com | 2023-04-10T14:26:11.000Z |
 | ÖZCAN ATACAN SATI | company | Yunuseli Mah. 802.sok No:12 B1/11 D:23 Osmangazi | +902242525212 | https://www.bursabil.com.tr | 2020-12-02T13:56:51.000Z |
@@ -1626,9 +1628,7 @@
 | RIZA AKÇABAY | company | Umurbey mah. Liman Cad. No:5/B | +905534517027 | https://ilkselnet.com | 2024-04-19T09:16:20.000Z |
 | RIZA ÖCALIR | company | ALİ NİHAT TARLAN CAD. KAHRAMAN SOK 1/4 KADIKÖY | +902167061216 | http://kreatoryum.com.tr | 2019-03-13T12:34:41.000Z |
 | Rıza Onur İÇÖZ | company | PİRİMEHMET MAH. 118 CAD. İMAMZADE İŞHANI Kapı No:14/8 MERKEZ-ISPARTA | +908503070732 | https://www.rois.co | 2022-10-01T07:31:58.000Z |
-| Rıza Onur İÇÖZ | company | PİRİMEHMET MAH. 118 CAD. İMAMZADE İŞHANI Kapı No:14/8 MERKEZ-ISPARTA | +908503070732 | https://www.rois.co | 2022-10-01T07:31:58.000Z |
 | RL ENFORMASYON TEKNOLOJİLERİ SAN. VE TİC. LTD. ŞTİ. | company | TAHILPAZARI MAH. ÇATALKÖPRÜ CAD. NO:16/301 MURATPAŞA | +902422121001 | http://www.rl.com.tr | 2019-03-13T12:42:49.000Z |
-| RMR SOFT BİLİŞİM SİSTEMLERİ İTHALAT İHRACAT SANAYİ VE LİMİTED ŞİRKETİ | company | RÜSTEM PAŞA MAH. ÇEŞME SK. NO: 7 İÇ KAPI NO: 9 MERKEZ/ YALOVA | +905528461564 | https://www.rmr-soft.com | 2022-07-08T01:20:42.000Z |
 | RMR SOFT BİLİŞİM SİSTEMLERİ İTHALAT İHRACAT SANAYİ VE LİMİTED ŞİRKETİ | company | RÜSTEM PAŞA MAH. ÇEŞME SK. NO: 7 İÇ KAPI NO: 9 MERKEZ/ YALOVA | +905528461564 | https://www.rmr-soft.com | 2022-07-08T01:20:42.000Z |
 | RNG BİLİŞİM TEKNOLOJİLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ | company | Kozyatagi Nidakule Degirmen SK. NO:18/19B 10.KAT Kozyatagi Kadikoy | +908503052900 | https://rng.tech | 2023-01-24T16:48:12.000Z |
 | RODİNYA DİJİTAL REKLAM AJANSI LİMİTED ŞİRKETİ | company | SULTAN SELİM MAH. HÜMEYRA SK. NEF 09 B BLOK NO: 7 İÇ KAPI NO: 69 Kağıthane/İstanbul | +905415531058 | https://asmcloud.net.tr | 2025-02-18T14:45:57.000Z |
@@ -1659,7 +1659,6 @@
 | Samet OCAK | company | Tabakhane Mh. Atatürk Bulv. No:11/2 Bafra | +905424891217 | http://www.globalmedia.com.tr | 2020-12-08T15:09:11.000Z |
 | SAMET ÖZEN | company | SOĞANLI MAHALLESİ ÖZLEM SOKAK NO 20 KAT 2 | +908503051808 | https://hostium.com.tr | 2020-07-03T15:38:54.000Z |
 | Samet Turan | company | ESENTEPE MAH. EVLİYA ÇELEBİ SK. AYDIN APT NO: 8 İÇ KAPI NO: 4 KARTAL/ İSTANBUL | +905536733261 | https://oculeth.com | 2022-07-07T17:06:30.000Z |
-| Samet Turan | company | ESENTEPE MAH. EVLİYA ÇELEBİ SK. AYDIN APT NO: 8 İÇ KAPI NO: 4 KARTAL/ İSTANBUL | +905536733261 | https://oculeth.com | 2022-07-07T17:06:30.000Z |
 | SAMET YILMAZ | company | Yenicuma Mahallesi Suboyu Sok. No : 15 / 5 | +908503462861 | https://www.netguc.com | 2024-05-13T17:25:23.000Z |
 | SAMET ZAFER KAÇMAZ | company | GERZELE MAHALLESİ GERZELE CADDESİ NO 36 | +905323801757 | http://www.uzman.com.tr | 2019-03-13T12:36:38.000Z |
 | SAMİ KODALO | company | ALPARSLAN MAH. FARABİ CAD. NO:23/4 MELİKGAZİ | +905545943678 | https://www.sunucuoyun.com | 2019-03-13T12:37:09.000Z |
@@ -1683,6 +1682,7 @@
 | SEFER TORUN | company | Vani Mehmet Mahallesi Akıncı Sokak No15 Çiçek Apt Kat 1 Daire 2 | +905330799817 | https://saglamhosting.com.tr/ | 2023-07-21T22:04:09.000Z |
 | Seher Kabalı | company | ATAKÖY 7-8-9-10. KISIM MAH. ÇOBANÇEŞME E-5 YAN YOL CAD. A BLOK NO:22 | +908505543455 | https://www.sunucucenter.com | 2023-11-24T10:40:17.000Z |
 | SEHER ÖZSARI | company | Dumlupınar Bulvarı Next Level Plaza Kat 16 No:81 | +908503054875 | https://www.venitron.com | 2020-10-01T14:48:35.000Z |
+| SELAHADDİN SIRAÇ GİRGİN | company | TORBALI MAHALLESİ 5014 SOKAK | +908508404935 | https://turkdb.com.tr | 2023-09-06T15:27:07.000Z |
 | SELAHADDİN SIRAÇ GİRGİN | company | TORBALI MAHALLESİ 5014 SOKAK | +908508404935 | https://turkdb.com.tr | 2023-09-06T15:27:07.000Z |
 | Selçuk Akın | company | Talatpaşa mah. Ulutaş sok. 26/1 D.6, Kağıthane | +905396618937 | https://nisanajans.com/ | 2021-03-31T23:20:08.000Z |
 | SELÇUK GÖZETKAYASI | company | HACISEYİTALİ MAH. 153063 SOK. NO:10/A  SEYDİŞEHİR | +908508404240 | https://www.bilmate.com | 2025-03-04T15:27:48.000Z |
@@ -1821,6 +1821,7 @@
 | SYNC BİLİŞİM İNTERNET HİZMETLERİ VE YAZILIM DANIŞMANLIK TİC. LTD. ŞTİ. | company | MERKEZ MAH. SADABAD CAD. NO:17 KAT:4 D:403 | +908503037962 | https://www.nesbil.com | 2019-09-30T10:32:48.000Z |
 | SYNCHRON BİLİŞİM İLETİŞİM İNTERNET SAN. VE TİC. LTD. ŞTİ. | company | HASANPAŞA MAHALLESİ ALİBEY SOKAK NO:10/D KADIKÖY | +902169788191 | http://www.synchron.com.tr | 2019-03-13T12:42:40.000Z |
 | TAG BİLİŞİM TİC. VE PAZ. LTD. ŞTİ. | company | DEFTERDAR MAHALLESİ OTAKÇILAR CAD. KAR PLAZA Apt. NO: 80/32- EYÜPSULTAN/İSTANBUL | +902122801614 | https://www.tgworkshop.com | 2021-04-30T13:50:37.000Z |
+| Taha Ege Aydın | company | Askent Sok. 1/C D:28 Ataşehir | +905059280907 | https://gyrohosting.com | 2024-11-08T12:56:41.000Z |
 | Taha Ege Aydın | company | Askent Sok. 1/C D:28 Ataşehir | +905059280907 | https://gyrohosting.com | 2024-11-08T12:56:41.000Z |
 | Taha Göktuğ ÖZER | company | AKDEĞİRMEN MAH. AKDEĞİRMEN CAD. SAVUR NO: 52 İÇ KAPI NO: 3 MERKEZ/ SİVAS | +908503462425 | https://etaweb.com.tr | 2021-03-22T08:54:05.000Z |
 | TAHA KIVANÇ IRAK | company | İnönü Bulvarı Eras İş Merkezi Kat:6 No: 614 Kayseri / TÜRKİYE | +908504412551 | https://ayzeta.net | 2021-12-02T20:54:01.000Z |
@@ -1997,7 +1998,6 @@
 | VKM BİLİŞİM TEM.YEM. GID. TUR. REK. SAN. TİC. LTD. ŞTİ. | company | MACUN MAH. 174.CAD ATB İŞ MRK. G BLOK NO:196-1 YENİMAHALLE | +903123975400 | http://www.vkmgroup.com | 2019-03-13T12:42:41.000Z |
 | Volkan Çapar | company | Büyükşehir mah. İstiklal cad. C18 blok D:36 Beylikdüzü/İstanbul | +905442285680 | https://euperline.com | 2025-08-04T21:02:07.000Z |
 | Volkan Deniz İkiz | company | ATAKENT MAH. 241 SOK. TERRACE TEMA RESIDENCE, A BLOK DAIRE:46 KÜÇÜKÇEKMECE / İSTANBUL | +905536121256 | https://naklov.com | 2022-07-20T14:11:10.000Z |
-| Volkan Deniz İkiz | company | ATAKENT MAH. 241 SOK. TERRACE TEMA RESIDENCE, A BLOK DAIRE:46 KÜÇÜKÇEKMECE / İSTANBUL | +905536121256 | https://naklov.com | 2022-07-20T14:11:10.000Z |
 | VOLKAN ERDOĞAN | company | DEMİRTAŞ CUMHURİYET MAH. 1210 SOKAK NO:32/A | +902242625054 | http://mactechsoft.com | 2019-03-13T12:36:35.000Z |
 | Volkan Erkut | company | Küçükbakkalköy Mah. Çandarlı Sok. Ekşioğlu Plaza No:7/13 Ataşehir / İSTANBUL | +902166616316 | https://evonet.com.tr | 2021-05-18T14:45:16.000Z |
 | VOLKAN GÖKBEL | company | YENİ MAHALLE NURİGÜNGÖR CADDESİ NO:30 ÇİNE AYDIN | +908503046977 | http://www.usmbilisim.com | 2019-03-13T12:36:03.000Z |
@@ -2089,6 +2089,7 @@
 | Yunus Emre Taşkın | company | Yalı mah. Kemal Gürsoy Cad No : 29 | +905060276169 | https://www.cloudviba.com | 2025-07-30T00:50:59.000Z |
 | YUNUS KAYA | company | NİŞANTAŞ MH. HAZIM ULUŞAHİN İŞ MRK. NO:1 606 | +903322341434 | http://www.kayalarbilisim.com | 2019-03-13T12:33:47.000Z |
 | YUNUS SEVİNÇ | company | YENİŞEHİR MAH. PROF.DR.SELAHATTİN Y. CD/NO:11/YENİŞEHİR | +908504662138 | https://dikasoft.com | 2019-03-13T12:38:07.000Z |
+| yunus unal | company | KÜLTÜR MAHALLESİ EFİL SOKAK NO 2/75 | +905428384133 | http://www.sunucuhane.com | 2025-08-15T10:42:40.000Z |
 | YURDUM YAYINCILIK VE YAZILIM SAN. TİC. LTD. ŞTİ. | company | Küçükbakkalköy Mah. Defne Sokak No:1 / 365 Ataşehir | +903122357025 | https://www.yy.com.tr | 2024-09-09T11:03:47.000Z |
 | Yusuf barış efe | company | Osmanağa mah. Söğütlüçeşme Cad. Bulvar Çarşısı No 64 | +908503031888 | http://www.uzmantescil.com.tr | 2024-07-08T14:14:45.000Z |
 | Yusuf Barış Sarıkaya | company | Sultan Orhan Mah. 1103 Sk. No: 2 İç Kapı No: 405 | +905422407562 | https://hostegro.com/index.html | 2023-08-08T09:06:51.000Z |
@@ -2105,6 +2106,7 @@
 | YUSUF YILMAZ | company | HÜKÜMET KONAGI KARSISI BEYAZ SARAY AVM YANI | +904362129973 | http://www.hostadam.com | 2019-03-13T12:32:50.000Z |
 | YUSUF YILMAZ | company | HASTAHANE YOLU KAVŞAGI ATATÜRK BULVARI HAYBER APARTMANI NO 7 | +905443326400 | http://www.gunesweb.com | 2019-03-13T12:36:47.000Z |
 | Z3 Yazılım ve Teknoloji A.Ş. | company | Orta Mah. Anıt Sok. No:2/31 34030  Bayrampaşa, İstanbul | +908503033363 | https://www.z3.com.tr | 2024-12-20T09:48:53.000Z |
+| Z4M Medya Bilişim Teknolojileri İnşaat Turizm A.Ş. | company | Seyrantepe Mah. Yayıncılar Sok. No:2/19 | +908505320192 | https://z4mmedya.com | 2022-09-09T16:21:56.000Z |
 | Z4M Medya Bilişim Teknolojileri İnşaat Turizm A.Ş. | company | Seyrantepe Mah. Yayıncılar Sok. No:2/19 | +908505320192 | https://z4mmedya.com | 2022-09-09T16:21:56.000Z |
 | ZAFER AK | company | KARTAL TEPE MAHALLESİ MEVLANA SOKAK 7/5 BAYRAMPAŞA | +908508884261 | https://www.hostingsubesi.com | 2019-03-13T12:38:47.000Z |
 | ZAFER BAHTLI | company | ŞEKERHANE MAH ŞEVKET TOKUŞ CAD DİLEK AP 14/3 | +905522246107 | http://www.kralserver.com | 2019-03-13T12:35:26.000Z |
