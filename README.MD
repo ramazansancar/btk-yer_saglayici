@@ -2,7 +2,7 @@
 
 ## Kayıt Sayısı: 2134
 
-### Kaynak: <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
+### Kaynak: <https://internet.btk.gov.tr/yer-saglayici-listesi> - <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
 | İşletmeci | Türü | Adres | Telefon | Web | Onay Tarihi |
 | --- | --- | --- | --- | --- | --- |

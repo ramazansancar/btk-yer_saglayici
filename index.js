@@ -102,28 +102,28 @@ const fetchCompanies = async (page) => {
 const fetchAllCompanies = async () => {
   let page = 1;
   let response = await fetchCompanies(page);
-  if(response !== undefined){
+  if (response !== undefined) {
     companies = [...companies, ...response];
-  }else{
+  } else {
     response = await fetchCompanies(page);
   }
-  if(response !== undefined){
+  if (response !== undefined) {
     companies = [...companies, ...response];
   }
   while (response?.length > 0) {
     page++;
     response = await fetchCompanies(page);
-    if(response !== undefined){
+    if (response !== undefined) {
       companies = [...companies, ...response];
-    }else{
+    } else {
       response = await fetchCompanies(page);
     }
   }
-  writeFile("raw_companies.json", JSON.stringify(companies, null, 2));
-  if(companies.length === 0){
+  if (companies.length === 0) {
     console.error("Companies could not be fetched.");
     return;
   }
+  writeFile("raw_companies.json", JSON.stringify(companies, null, 2));
   companies = companies.map((item) => {
     // Null check
     item.company = nullCheck(item.company);
@@ -214,6 +214,18 @@ const fetchAllCompanies = async () => {
 }
 
 fetchAllCompanies().then(async (data) => {
+  if (!companies || companies.length === 0) {
+    console.error("No companies data to process.");
+    
+    exit(1);
+    return;
+  }
+
+  if (!data || data.length === 0) {
+    console.error("No companies data to process.");
+    return;
+  }
+
   console.log("Companies fetched successfully.");
   console.log("Total companies:", companies.length);
   console.log("Total count:", count);
@@ -221,7 +233,7 @@ fetchAllCompanies().then(async (data) => {
 
   const mdPath = "./README.MD";
   await writeFile(mdPath, "");
-  await appendToFile(mdPath, `# Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi\n\n## Kayıt Sayısı: ${count}\n\n### Kaynak: <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>\n\n| İşletmeci | Türü | Adres | Telefon | Web | Onay Tarihi |\n| --- | --- | --- | --- | --- | --- |\n`);
+  await appendToFile(mdPath, `# Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi\n\n## Kayıt Sayısı: ${count}\n\n### Kaynak: <https://internet.btk.gov.tr/yer-saglayici-listesi> - <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>\n\n| İşletmeci | Türü | Adres | Telefon | Web | Onay Tarihi |\n| --- | --- | --- | --- | --- | --- |\n`);
   /*
   {
     "id": 3856534,
