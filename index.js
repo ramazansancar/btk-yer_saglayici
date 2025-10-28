@@ -194,6 +194,17 @@ const fetchAllCompanies = async () => {
     return new Date(a.approve_date) - new Date(b.approve_date);
   });*/
   companies = companies.filter((item) => item !== null);
+
+  const seenCompanies = new Set();
+  companies = companies.filter((item) => {
+    const key = `${item.id}-${item.company}`;
+    if (seenCompanies.has(key)) {
+      return false;
+    }
+    seenCompanies.add(key);
+    return true;
+  });
+
   companies.sort((a, b) => {
     return a.company.localeCompare(b.company);
   });
