@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 2133
+## Kayıt Sayısı: 2132
 
 ### Kaynak: <https://internet.btk.gov.tr/yer-saglayici-listesi> - <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -375,7 +375,7 @@
 | CEM ZORLU | company | Selçukbey Mh. 562/1 Sk. No:3 | +905529333180 | https://onelyahosting.com | 2025-05-25T02:57:14.000Z |
 | Cemil Berkan Zorlu | company | 9503/1 Sk No 4/4A İnönü Ciğli | +908508409728 | https://hostegon.com | 2023-03-10T09:24:42.000Z |
 | Cemil Celil Özel | company | Akdere mahallesi 380. sokak 6/10 | +905454056931 | https://aktifsunucum.net | 2025-07-17T14:26:31.000Z |
-| CEMİL NAYMAN | company | Fenerbahçe Mh. Iğrıp Sk. No: 13 Kadıköy/İstanbul PK: 34726 | +905366903444 | https://www.cntasarim.net | 2023-06-08T09:16:03.000Z |
+| CEMİL NAYMAN | company | Fenerbahçe Mh. Iğrıp Sk. No: 13 Kadıköy/İstanbul PK: 34726 | +905366903444 | https://www.cntasarim.net | 2025-10-29T14:42:16.000Z |
 | CENGAVER KAHAN YURDUSEVEN | company | ismet kaptan mahallesi, gaziosman paşa bulvarı no 15 daire:86 konak izmir | +905529434200 | http://www.teklan.com.tr | 2024-12-11T13:59:51.000Z |
 | CENGİZ HAKAN POLATKAN | company | ARAPHASAN MAH. 265/3 SOK. NO:7/A KARABAĞLAR | +902324070724 | http://www.hostpark.com.tr | 2019-03-13T12:37:55.000Z |
 | CENGİZ KIR | company | İstanbul/Avcılar | +905340332040 | https://sunucuhizmeti.com.tr | 2022-04-05T10:01:36.000Z |
@@ -961,7 +961,6 @@
 | İSLAM ERGÜN | company | SARAÇOĞLU MAH. 39.SOKAK NO:22 | +905378904460 | https://www.nanotekbilgisayar.com | 2019-03-13T12:37:57.000Z |
 | İSMAİL BAHADIR ATAKAN ÖZ | company | Adalet Mahallesi Manas Bulvarı Folkart Towers A Kule No:47/B K:26 D:2601 Bayraklı-İzmir | +908503074910 | https://www.nettescil.com.tr | 2025-07-07T01:39:01.000Z |
 | ismail başer | company | SANCAKTEPE MAH. 892. SK. B BLOK ÖZ FURKAN APT. NO: 1 A BAĞCILAR / İSTANBUL | +908508406450 | https://www.x6.com.tr | 2025-10-05T23:09:06.000Z |
-| İsmail Bayraktar | company | kocaeli derince yavuzsultan mahallesi yenilik sokak tan apartmanı kat 4 daire 8 | +902626061802 | https://hostluyor.com | 2025-08-15T10:48:37.000Z |
 | İSMAİL CAN  TAŞAN | company | YENİ KARAMAN MAH.6.YİLDİRİM SOK.NO:9 | +908503603952 | https://www.bursahostingdunyasi.com.tr/ | 2023-03-10T14:02:54.000Z |
 | İSMAİL ÇOLAK | company | CUMHURİYET MAHALLESİ 1979 SOKAK NO :11 KAT 2 EFELER/AYDIN | +905076028561 | https://turkishdedicated.com | 2019-03-13T12:33:53.000Z |
 | İSMAİL EKTİK | company | YENİŞEHİR MAH. RAVZA CAD. ESRA APT. BLOK NO:22 NO:13 | +905454474422 | http://www.artukluweb.com.tr | 2019-03-13T12:38:45.000Z |
