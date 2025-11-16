@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 2129
+## Kayıt Sayısı: 2128
 
 ### Kaynak: <https://internet.btk.gov.tr/yer-saglayici-listesi> - <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -438,7 +438,7 @@
 | DENİZ PEHLİVAN | company | HACIMANSUR MAH. KARAKUŞ SK. ERAS İŞ MRK KAT 5 NO:505 | +903524201420 | http://www.denizmedia.com | 2019-03-13T12:38:04.000Z |
 | DENİZ SAĞBİRGE | company | ORTACAMİ MAHALLESİ/SOYSAL SOKAK/NO25/KAT1 | +905454842197 | http://www.etkenweb.com | 2019-03-13T12:35:23.000Z |
 | DENİZSOFT BİLGİSAYAR VE YAZILIM HİZMETLERİ İÇ VE DIŞ TİCARET LTD ŞTİ | company | PERPA TIC MER A BLOK KAT 13 NO 1993 | +908505770574 | https://www.denizsoft.com.tr | 2023-05-06T19:42:35.000Z |
-| Derin Tufan | company | İçerenköy Mah Şükran Sok Gülsüm Apt No : 36 / B  34752 Ataşehir - İstanbul | +908503099013 | https://faaw.net | 2024-03-26T18:57:09.000Z |
+| Derin Tufan | company | İçerenköy Mah Şükran Sok Gülsüm Apt No : 36 / B   34752 Ataşehir - İstanbul | +908503099013 | https://faaw.net | 2024-03-26T18:57:09.000Z |
 | derviş demirbaş | company | FETİH MAH AHMET EFENDİ SOKAK 7/24 | +905359479205 | https://dijitalofis.net/ | 2024-05-27T15:00:53.000Z |
 | DESTECH İNTERNET HİZ. TİC. LTD. ŞTİ. | company | YEŞİLBAHÇE MAH. METİN KASAPOĞLU CD. NO:54 K:5 D:9 MURATPASA | +902423219611 | http://www.destech.com.tr | 2019-03-13T12:42:53.000Z |
 | Dev İnovasyon Bilişim Teknolojileri Anonim Şirketi | company | Atikali Mh. Ispanakçı Sk. No: 3/1 | +905335525229 | http://devinovasyon.com | 2022-04-27T09:49:45.000Z |
@@ -881,7 +881,6 @@
 | HÜSEYİN FİDAN | company | A.KUTSİ TECER CAD. ALTAY SOK. NO:5 - G MERTER | +902125536531 | http://www.ntbilisim.com | 2019-03-13T12:38:26.000Z |
 | HÜSEYİN KARAGÜN | company | Suphi Rıza Sok. No :4/3 Ortaköy / LEFKOŞA | +908503020829 | http://www.areraweb.com | 2020-05-04T00:16:06.000Z |
 | Hüseyin Şahin | company | Emek Mahallesi Nergiz Sokak No 1 | +908503078170 | https://netravo.com | 2025-04-24T11:45:28.000Z |
-| HÜSEYİN TALHA ÇINKIR | company | YEŞİLOVA MAH. ŞHT.J.ÇVŞ.HÜSEYİN KAFALI CAD. NO: 24 ANDIRIN / KAHRAMANMARAŞ | +908503081509 | https://serverturk.net/ | 2024-11-28T16:00:04.000Z |
 | HÜSEYİN TOPRAK | company | Kırcaali Mah. Celal Bayar Cad. Karamanoğulları Plaza 2 No: 181/11 Osmangazi | +902242724410 | http://www.veriloji.com | 2019-08-21T17:10:15.000Z |
 | Hüseyin Uçak | company | Karadeniz mh. Övgü sk. No:4/4 ilkadım/SAMSUN | +903624388746 | https://www.namesunucu.com | 2020-02-28T09:43:08.000Z |
 | HZD TEKNOLOJİ VE İNOVASYON SAN. VE TİC. LTD. ŞTİ. | company | Mimar Sinan Mh. Ethem Sk. No:3 Kat:2 D:3 Bolelli İş Merkezi / Çekmeköy / İstanbul | +902166320039 | https://www.hzd.com.tr | 2024-07-30T09:49:11.000Z |
@@ -1807,7 +1806,7 @@
 | STÜDYO FOTOĞRAFÇILIK PRODÜKSİYON FİLMCİLİK VE REKLAMCILIK LİMİTED ŞİRKETİ | company | Ortaköy Mecidiye Mah. Tarçın Sok. No:20 | +902123272758 | https://nakvaryum.com/ | 2021-12-16T14:37:22.000Z |
 | Suat Gürel | company | Kemalpaşa Mh. Osmanbey Sk. No:59/C Küçükçekmece | +905365877716 | https://kobihost.net.tr | 2024-03-15T09:20:29.000Z |
 | Süha Sevim | company | 600 Evler Yeni Sanayi Sitesi 1310 Sokak No:57 Bandırma | +902666060868 | https://www.onayhost.com/ | 2021-11-16T14:39:05.000Z |
-| ŞÜKRÜ AK | company | Ziya Gökalp Mh. Süleyman Demirel Bulvarı Mall Of İstanbul Kat:17 D:136 Başakşehir | +905365741672 | https://www.akwebhostingi.com | 2025-10-03T18:14:22.000Z |
+| ŞÜKRÜ AK | company | Ziya Gökalp Mh. Süleyman Demirel Bulvarı Mall Of İstanbul Kat:17 D:136 Başakşehir | +905365741672 | https://www.akwebhostingi.com | 2025-11-16T01:26:54.000Z |
 | ŞÜKRÜ BERKE EKMEKÇİ | company | MİMARSİNAN MERKEZ MAH,YILDIRIM BEYAZIT CAD, DEFNE2 SİTESİ H1 | +905537735197 | http://adaletsunucum.org/ | 2019-03-13T12:37:34.000Z |
 | Şükrü ÇELİKOĞLU | company | BARIŞ MAH. FİDANGÖR CAD. NEZİH EKOL KENT NEZİH, EKOLKENT APARTMANI NO: 8 İÇ KAPI NO: 42 BEYLİKDÜZÜ/, İSTANBUL | +908503027102 | https://hostingwo.com/ | 2023-12-11T11:49:46.000Z |
 | ŞÜKRÜ EMRE ERİM | company | KÜKÜRTLÜ MAH. OULU CAD. OYLUM SİTESİ F BLOK KAT 3 NO 18 | +902242254475 | http://www.medyabim.com.tr | 2019-03-13T12:33:41.000Z |
