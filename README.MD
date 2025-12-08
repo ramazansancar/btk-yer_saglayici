@@ -434,7 +434,7 @@
 | DATEMA BILISIM TICARET ANONIM SIRKETI | company | KAYABASI MAH. ULUBATLI HASAN CAD. NO: 2 H IÇ KAPI NO: 3 BASAKSEHIR/ ISTANBUL | +908504500800 | http://www.datemabilisim.com.tr/ | 2020-11-19T10:32:06.000Z |
 | DC HOST BİLİŞİM TEKNOLOJİLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ | company | ATAKÖY 7-8-9-10. KISIM MH. E-5 YAN YOL CD NEF22 A BLK N:22/1/120 | +908503467822 | https://dchost.com | 2021-12-02T09:06:02.000Z |
 | DEDİCATED TELEKOMÜNİKASYON TEKNOLOJİ HİZ. TİC. SAN. LTD. ŞTİ | company | MAHİR İZ CADDESİ NO:28 KAT:B1 ,ALTUNİZADE, ÜSKÜDAR | +902164749520 | http://www.dedicated.com.tr | 2019-03-13T12:42:27.000Z |
-| DEHOST İNTERNET VE BİLİŞİM TEKNOLOJİLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ | company | Pınarbaşı Mh. Akarsu 2 Sk. NO 13A Keçiören / Ankara | +903128701206 | https://dehost.com.tr | 2025-11-01T02:16:37.000Z |
+| DEHOST İNTERNET VE BİLİŞİM TEKNOLOJİLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ | company | Pınarbaşı Mh. Akarsu 2 Sk. NO 13A Keçiören / Ankara | +903128701206 | https://dehost.com.tr | 2025-12-08T00:02:54.000Z |
 | Deniz Berke Türkmen | company | Perpa Ticaret Merkezi B Blok 1281 | +905397207723 | https://www.yereldisk.com | 2020-05-27T12:17:28.000Z |
 | Deniz KAYA SERT | company | Fenerbahçe Mah. İğrip Sok. No: 13/1 Kadıköy | +908503085987 | https://www.hepsisunucu.com.tr | 2022-02-28T14:32:54.000Z |
 | Deniz Örnek | company | İzmir/Narlıdere Limanreis Mah. Pınar sok. No: 34 | +905525757712 | https://keyzuvi.com | 2025-07-09T14:45:14.000Z |
@@ -960,7 +960,7 @@
 | Işıl Uman | company | Adalet Mahallesi, Manas Bulvarı, Folkart Towers, B Kule, No: 39,Kat: 25, Kapı No: 2511, 35530, Bayraklı | +908503042011 | https://hostolog.com | 2025-09-18T13:44:12.000Z |
 | İSLAM ERGÜN | company | SARAÇOĞLU MAH. 39.SOKAK NO:22 | +905378904460 | https://www.nanotekbilgisayar.com | 2019-03-13T12:37:57.000Z |
 | İSMAİL BAHADIR ATAKAN ÖZ | company | Adalet Mahallesi Manas Bulvarı Folkart Towers A Kule No:47/B K:26 D:2601 Bayraklı-İzmir | +908503074910 | https://www.nettescil.com.tr | 2025-07-07T01:39:01.000Z |
-| ismail başer | company | SANCAKTEPE MAH. 892. SK. B BLOK ÖZ FURKAN APT. NO: 1 A BAĞCILAR / İSTANBUL | +908508406450 | https://www.x6.com.tr | 2025-11-07T14:33:36.000Z |
+| ismail başer | company | SANCAKTEPE MAH. 892. SK. B BLOK ÖZ FURKAN APT. NO: 1 A BAĞCILAR / İSTANBUL | +908508406450 | https://www.x6.com.tr | 2025-12-07T23:39:28.000Z |
 | İSMAİL CAN  TAŞAN | company | YENİ KARAMAN MAH.6.YİLDİRİM SOK.NO:9 | +908503603952 | https://www.bursahostingdunyasi.com.tr/ | 2023-03-10T14:02:54.000Z |
 | İSMAİL ÇOLAK | company | CUMHURİYET MAHALLESİ 1979 SOKAK NO :11 KAT 2 EFELER/AYDIN | +905076028561 | https://turkishdedicated.com | 2019-03-13T12:33:53.000Z |
 | İSMAİL EKTİK | company | YENİŞEHİR MAH. RAVZA CAD. ESRA APT. BLOK NO:22 NO:13 | +905454474422 | http://www.artukluweb.com.tr | 2019-03-13T12:38:45.000Z |
@@ -1508,7 +1508,7 @@
 | Onur KARABİBER | company | reşadiye mah, selim kaya sok. kurtoğlu apt no8 daire8 | +905437472415 | https://nemru.com/ | 2021-10-19T14:54:08.000Z |
 | ONUR KARAMAN | company | DAVUTPAŞA CADDESİ KAZIM DİNÇOL SANAYİ SİTESİ 81/86 | +905348815590 | https://www.runobilisim.com | 2019-03-13T12:35:28.000Z |
 | ONUR KARATAŞLI | company | Yunusemre Mh. Asmapınar Sk. Borsel City S. No 9A Yıldırım | +902243340124 | https://www.vhost.tel | 2022-07-27T10:08:27.000Z |
-| ONUR MURAT NAZLIMOĞLU | company | TABAKLAR MAH. FERİT TALAY CD. NO:8/1 14100 | +903742121252 | http://www.omn.com.tr | 2025-11-07T09:47:31.000Z |
+| ONUR MURAT NAZLIMOĞLU | company | TABAKLAR MAH. FERİT TALAY CD. NO:8/1 14100 | +903742121252 | http://www.omn.com.tr | 2025-12-07T21:10:02.000Z |
 | ONUR ÖĞDÜM | company | ALİYE İZZET BEGOVİC BLV. DİLEK SİT. C/5 NO:39 | +903222323300 | https://www.superhost.com.tr | 2019-10-17T17:17:38.000Z |
 | ONUR ONUK | company | Eski Kuyumcular Mahallesi 13002 Sokak Demirel İşhanı Kat:3 Daire :18 Karesi/BALIKESİR | +905367905195 | https://www.onukbilisim.com/ | 2022-04-01T09:36:20.000Z |
 | Onur Özkaya | company | cevizli mah toros cad no:32 daire:1 / istanbul maltepe | +905369151583 | https://tuacco.com | 2021-05-10T14:54:15.000Z |
