@@ -482,7 +482,7 @@
 | DUKQAN BİLGİ TEKNOLOJİLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ | company | FULYA MH. BÜYÜKDERE CD. QUASAR İSTANBUL AP. NO:76/188 ŞİŞLİ | +908503034020 | https://www.dukqan.com | 2019-03-13T12:46:02.000Z |
 | DURMUŞ ALİ DURMAZ | company | Bağlar Mahallesi Mustafa Kemal Caddesi No:72/1 | +905386976325 | https://mercanhosting.com | 2024-02-06T23:01:02.000Z |
 | DURSUN DURMUŞ | company | kemaliyemah 1187s no 18/1 Sakarya / Hendek | +905435767989 | https://www.mesuthost.com | 2024-07-29T15:28:48.000Z |
-| DURUL ŞİLLİ | company | Hürriyet Mahallesi kar sokak no 11/2 daire 6 Süleymanpaşa | +905444037059 | http://www.tasarim59.com | 2025-11-25T20:48:54.000Z |
+| DURUL ŞİLLİ | company | Hürriyet Mahallesi kar sokak no 11/2 daire 6 Süleymanpaşa | +905444037059 | http://www.tasarim59.com | 2025-12-16T09:33:37.000Z |
 | E TİCARET VE BİLİŞİM TEKNOLOJİLERİ DANIŞMANLIK SAN. VE TİC. LTD. ŞTİ. | company | CUMHURİYET MAHALLESİ ÖZGÜNEŞ SOKAK, NO: 26, ÜSKÜDAR | +902164430417 | http://www.eticaret.com.tr | 2019-03-13T12:42:28.000Z |
 | E VERİ BİLİŞİM TURİZİM SAN.VE TİC.LTD.ŞTİ. | company | KÜÇÜKBAKKALKÖY MAH.KÜÇÜKSETLİ SOK.NO:5-9 ATAŞEHİR-İSTANBUL | +905546606363 | http://e-veri.com | 2025-12-01T09:36:11.000Z |
 | E1 BİLİŞİM VE TEKNOLOJİ AŞ | company | ÜNİVERSİTE MAHALLESİ SARIGÜL SOKAK 37/1 AVCILAR İSTANBUL | +908508400004 | http://www.e1.com.tr | 2019-03-13T12:45:50.000Z |
@@ -1494,8 +1494,8 @@
 | Ömer Tosun | company | Duralialıc mahallesi 953 sokak 5/33 | +905071070605 | https://ragehost.net/ | 2022-04-01T09:55:06.000Z |
 | ÖMER TURGUT YÜCE | company | A.KUTSİ TECER CAD..ALTAY SK.NO:5/G MERTER | +902125065050 | http://www.ntbilisim.com | 2019-03-13T12:35:05.000Z |
 | ÖMER YÜCE | company | ÖZVEREN SOK. NO:13/18 DEMİRTEPE ÇANKAYA | +903122290981 | http://www.normyazilim.com | 2019-03-13T12:34:35.000Z |
-| ÖMÜR AKGÜN | company | Atıf bey Mah. Önder Cad. No:12/Z-5 Gaziemir | +908508850101 | https://www.datatr.com.tr | 2025-01-06T17:02:27.000Z |
 | ÖMÜR AKGÜN | company | ATIF BEY MAH. HACI MOLLA MÜMİN HOCA SK. NO:58/D GAZİEMİR | +908508850101 | http://www.datatr.com.tr | 2019-03-13T12:36:40.000Z |
+| ÖMÜR AKGÜN | company | Atıf bey Mah. Önder Cad. No:12/Z-5 Gaziemir | +908508850101 | https://www.datatr.com.tr | 2025-01-06T17:02:27.000Z |
 | ON İKİ LEVHA YAYINCILIK A.Ş. | company | PROF. NURETTİN MAZHAR ÖKTEL SOKAK NO: 6A ŞİŞLİ | +902123430901 | http://www.onikilevha.com.tr | 2019-03-13T12:45:15.000Z |
 | Önder Aydoğdu | company | Şeyh Şamil Mah. 170. Sok. Kapı No: 12 Eryaman Etimesgut | +908503028305 | https://btpark.com.tr/ | 2024-01-08T22:04:38.000Z |
 | Onecard Kurumsal Çözümler Yazılım Limited Şirketi BERGE | company | Kazım Özalp Mahallesi Kuleli Cad. No: 83/12 Çankaya/ANKARA | +903129112795 | https://www.onecard.net.tr | 2020-04-01T12:45:23.000Z |
