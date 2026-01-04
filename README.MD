@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 2149
+## Kayıt Sayısı: 2148
 
 ### Kaynak: <https://internet.btk.gov.tr/yer-saglayici-listesi> - <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -935,7 +935,7 @@
 | İlker Ergün | company | Güvenevler Mah. Yeşilyurt Sk. 17/4 Çankaya | +905325654654 | http://mentalium.com | 2020-01-22T14:36:03.000Z |
 | İlker Oğulcan Sayın | company | Kızılırmak Mahallesi Dumlupınar Bulvarı YDA Center 9A/158 | +908508850605 | https://v34.net | 2022-03-17T09:54:13.000Z |
 | İlker Öztürk | company | Karlıktepe Mah. Orhan Veli Sok. No:4 D:9 Kartal/İstanbul | +908503033614 | https://www.btinteraktif.com | 2025-11-14T11:23:19.000Z |
-| İLKER ŞEN | company | PERPA TİCARET MERKEZİ A BLOK 12. KAT NO: 1942 ŞİŞLİ | +902122527287 | http://www.turkhoster.com | 2025-12-01T20:51:46.000Z |
+| İLKER ŞEN | company | PERPA TİCARET MERKEZİ A BLOK 12. KAT NO: 1942 ŞİŞLİ | +902122527287 | http://www.turkhoster.com | 2026-01-03T21:46:08.000Z |
 | ILYAS ÖZTÜRK | company | TABAKLAR MAH.H.EMIN BARIN CAD. ÜNAL ISH. NO:20/3 | +905327414480 | http://www.webservisim.net | 2019-03-13T12:32:28.000Z |
 | İlyas Serter | company | Turkmen mh. Bahcearasi sk. 3/8 | +905550446699 | https://www.verievi.com | 2021-03-02T16:40:02.000Z |
 | İNETMAR İNTERNET HİZMETLERİ BİLİŞİM TEKNOLOJİLERİ SAN. TİC. LTD. ŞTİ. | company | MANSUROĞLU MAH 286/1 SOKAK NO:16 D:21 ATA PLAZA BAYRAKLI | +902324462396 | http://www.inetmar.com.tr | 2019-03-13T12:43:16.000Z |
@@ -1486,7 +1486,6 @@
 | Ömer Faruk Özen | company | Merkez mahallesi kalender sokak no 43 daire 12 Gaziosmanpaşa İstanbul | +908503092440 | https://hypesoft.net | 2024-02-05T10:40:10.000Z |
 | ÖMER FARUK YILDIZ | company | Esenkent Mah. Erbap Sok. No : 29/4 Ümraniye – İstanbul | +902166297744 | https://mirbilisim.com/ | 2021-11-03T20:05:19.000Z |
 | Ömer Furkan Topacık | company | TASPAZAR MAHALLESI 7/ATATURK BULVARI, ERDEM SITESI C BLOK NO:15/D | +905444407868 | https://datanetron.com.tr | 2022-03-22T09:49:01.000Z |
-| ÖMER KALEDİBİ | company | Esentepe Mh. Akademiyolu Sokak Teknoloji Geliştirme Bölgesi D Blok Z06 Serdivan / Sakarya | +902642770808 | http://www.greensoft.com.tr | 2024-10-02T14:53:46.000Z |
 | ÖMER KÖKEN | company | YENİCE MAH.ATATÜRK BLV. 15-A PAMUKOVA | +905376992623 | https://2khosting.com.tr | 2019-03-13T12:36:24.000Z |
 | ÖMER ONUR KÜÇÜK | company | MEVLANA MAH.BİLGİNLER CAD.RUHSAR SOK. NO:3/14 | +908503043020 | www.turkeybilisim.com | 2019-03-13T12:39:01.000Z |
 | Ömer Şeran | company | Tepebaşı Mahallesi 642. sokak no 15 daire 4 | +905441317243 | https://webbek.com.tr | 2021-08-03T10:44:30.000Z |
@@ -1804,7 +1803,7 @@
 | SOFTİGO WEBPROJE WEBHOSTİNGS WEBDOMAİN E-TİCARET YAZILIM VE GIDA SANAYİ TİCARET LİMİTED ŞİRKETİ | company | saadetdere mahallesi 98. sokak no:2/E esenyurt / istanbul | +905415204646 | https://www.softigo.com.tr/ | 2025-12-18T09:25:31.000Z |
 | Softiz Teknoloji A.Ş. | company | Adalet Mah. Anadolu Cad. Megapol Tower No:41/101 Bayraklı-İzmir | +908503099035 | https://softiz.com.tr | 2023-11-16T14:01:31.000Z |
 | SOFTWATE BİLİŞİM VE PROJE YÖNETİMİ LİMİTED ŞİRKETİ | company | Emniyetevler mh Seyir Cd. No:12/1, Kağıthane | +902129340034 | https://www.eticaretyap.com | 2024-11-19T18:36:31.000Z |
-| SOLFİKS İNTERNET ERİŞİM HİZM. VE DANIŞMANLIK LTD. ŞTİ. | company | Perpa Tic. Mrkz. H. Rıfat Paşa Mah. Yüzer Havuz Sk. B:Blok K:6 No:642 | +908508850985 | http://www.solfix.net.tr | 2025-12-01T09:33:18.000Z |
+| SOLFİKS İNTERNET ERİŞİM HİZM. VE DANIŞMANLIK LTD. ŞTİ. | company | Perpa Tic. Mrkz. H. Rıfat Paşa Mah. Yüzer Havuz Sk. B:Blok K:6 No:642 | +908508850985 | http://www.solfix.net.tr | 2026-01-03T17:08:28.000Z |
 | SOLİS BİLİŞİM TEKNOLOJİLERİ SAN.TİC.LTD.ŞTİ. | company | ESENTEPE MAHALLESİ YILDIZ POSTA CADDESİ MEHMET ALİ ÜLGEN SOK | +902122884841 | http://www.solis.com.tr | 2019-03-13T12:42:24.000Z |
 | Solofor Teknoloji A.Ş. | company | Ankara Teknopark TGB Yerleşkesi İvedikOSB Mah. 2224.Cad. No:1/116 (40/A) B Blok Üst Zemin Kat Nar Kuluçka Merkezi Yenimahalle/ANKARA | +908508408490 | https://solofor.com | 2025-12-17T16:59:10.000Z |
 | SONER YILDIZ | company | ASO BULVARI SİNOVA İŞ MERKEZİ N:54 SİNCAN ANKARA | +903122715526 | http://yildizbilisim.com.tr | 2021-01-13T13:57:34.000Z |
