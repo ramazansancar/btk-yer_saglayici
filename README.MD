@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 2162
+## Kayıt Sayısı: 2160
 
 ### Kaynak: <https://internet.btk.gov.tr/yer-saglayici-listesi> - <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -160,7 +160,6 @@
 | ANATOLIAN PRODUCTION MEDIA YAPIM ORGANİZASYON E-TİCARET HİZMETLERİ LİMİTED ŞİRKETİ | company | YESILKOY MAH. ATATURK CAD. NO:12/26 BAKIRKÖY | +908503800808 | http://www.anatolianmedia.com | 2024-04-03T14:39:17.000Z |
 | ANATOLMEDİA BİL. HİZM. REKL. PAZ. TİC.LTD.ŞTİ. | company | BUDAK MH. G.MUHTARPASA BLV. 10031NOLU SK.YASEM İŞMERKZ 8/816 | +903422901155 | http://www.anatolmedia.net | 2019-03-13T12:42:22.000Z |
 | ANDROMEDA TV DİJİTAL PLATFORM İŞLETMECİLİĞİ ANONİM ŞİRKETİ | company | 100. Yıl Mah. 2264. SK. Demirören Medya Center No: 1 BAGCILAR/ ISTANBUL | +902123737800 | https://www.andromedatvdijital.com.tr/ | 2026-01-05T12:41:21.000Z |
-| ANGI YAYINCILIK SAN. LTD. ŞTİ. | company | SANAYİ CAD. NO:17/2-3 ULUS | +903123123655 | https://www.angi.com.tr | 2025-12-24T00:24:25.000Z |
 | ANIL BEHÇET GÜLLÜOĞLU | company | Oğuzlar Mh. Mürselpaşa Blv. Arslanbey İş Merkezi No:24/3 | +905102220117 | https://www.tescilli.com | 2024-05-16T09:12:35.000Z |
 | ANIL GÖRKEM FIRAT | company | KARABAŞ MAHALLESİ ŞEHİT MUSA SOKAK SAROĞLU APARTMAMNI 18/1 | +902622700050 | https://sunucugg.com/ | 2022-03-05T10:49:45.000Z |
 | ANIL GÜCÜYETER | company | KUŞDİLİ CAD.SEVİMLİ İŞ HANI NO:18/163 | +902165502223 | http://www.milenyumwebtasarim.com.tr | 2019-03-13T12:32:47.000Z |
@@ -1751,7 +1750,6 @@
 | Şerefcan Doğanok | company | Ümraniye Tepeüstü Mah. Hacıbayram Sok No 10 | +905449676566 | https://www.adahost.net | 2024-01-10T09:59:46.000Z |
 | Serhan Aleyna CEYLAN | company | Mansuroğlu mah. 286/1 sokak No:1 Ontan bayraklı Kat:109 /1 | +905322030287 | https://www.argeart.com.tr | 2020-12-24T17:28:58.000Z |
 | SERHAN KÜLLÜOĞLU | company | H.Efendi-R.Paşa Mah. Barbaros Cad. No:16 Bedesten İş Merkezi K:1/159 Efeler/AYDIN | +908503027282 | http://www.serkod.com.tr | 2025-01-14T09:23:47.000Z |
-| SERHAN VARHAN | company | DUMLUPINAR MAH, YUMURTACI ABDİBEY CAD. TEKNİK YAPI CONCORD İ | +908503175949 | https://taksimbilisim.com | 2020-11-06T00:53:00.000Z |
 | Serhat AKDAN | company | Evliya Çelebi Mah. Sadık Onur Alp Cad. 5/2 Beyoğlu | +905426562987 | https://evrino.com | 2020-05-30T18:49:15.000Z |
 | SERHAT ÇETİN | company | HACI SARRAF MAHALLESİ MEKTEP ARALIK SOKAK NO : 6 YILDIRIM | +905418516408 | http://www.cetinbilisim.net | 2019-03-13T12:33:31.000Z |
 | SERHAT DEMİR | company | SAMSUN TEKNOPARK AKSU MAH. OMÜ CAD. NO:165 ATAKUM / SAMSUN | +908502551747 | https://www.sip.com.tr | 2020-10-07T13:55:47.000Z |
