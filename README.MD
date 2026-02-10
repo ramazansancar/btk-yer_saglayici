@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 2169
+## Kayıt Sayısı: 2168
 
 ### Kaynak: <https://internet.btk.gov.tr/yer-saglayici-listesi> - <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -152,7 +152,6 @@
 | Alperen Özcan | company | Çolaklı Mahallesi İnönü Caddesi No:6 | +908508400722 | https://miskinyar.com/ | 2026-01-16T11:54:42.000Z |
 | ALPEREN ZEKERİYA ÇULHA | company | Y.OVA MAH. KORUCU SOKAK NO:6/7 | +908507800055 | http://www.culhabilisim.com.tr | 2026-02-07T20:54:46.000Z |
 | ALTAN SAHİN | company | OKMEYDANI PERPA TİCARET MERKEZİ A BLOK KAT:13 NO:2042 | +908503330241 | http://www.platinumeticaret.com | 2019-03-13T12:38:35.000Z |
-| Altay Çelik | company | YENİKENT MAH. HACI BEKTAŞ VELİ CAD. OZYURTLAR N OUTLET MERKEZ A4 BLOK NO: 2 F İÇ KAPI NO: 46 ESENYURT/ İSTANBUL | +905451706138 | https://vomecloud.com/ | 2025-11-10T21:44:03.000Z |
 | ALTINSOFT BİLİŞİM TEKNOLOJİLERİ TİC. LTD. ŞTİ. | company | Fevzi çakmak mah. Gazi Mustafa Kemal Bulvarı No:30 Veli Abalı Apt. D:8 Babaeski | +908503038159 | https://www.altinsoft.com | 2022-10-05T09:33:44.000Z |
 | Anadolu Petkim LTD. ŞTİ. | company | Yıldıztepe Mh. Amir sk. No:32 | +908503090621 | https://teenbilisim.net | 2024-02-22T09:29:51.000Z |
 | ANATESCİL BİLİŞİM SAN. TİC. LTD. ŞTİ | company | ÇAYIROVA MAHALLESİ 5206 SOKAK NO: 125/B ÇAYIROVA | +902627421997 | http://www.anatescil.com.tr | 2019-03-13T12:42:26.000Z |
@@ -440,7 +439,7 @@
 | DATEMA BILISIM TICARET ANONIM SIRKETI | company | KAYABASI MAH. ULUBATLI HASAN CAD. NO: 2 H IÇ KAPI NO: 3 BASAKSEHIR/ ISTANBUL | +908504500800 | http://www.datemabilisim.com.tr/ | 2020-11-19T10:32:06.000Z |
 | DC HOST BİLİŞİM TEKNOLOJİLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ | company | ATAKÖY 7-8-9-10. KISIM MH. E-5 YAN YOL CD NEF22 A BLK N:22/1/120 | +908503467822 | https://dchost.com | 2021-12-02T09:06:02.000Z |
 | DEDİCATED TELEKOMÜNİKASYON TEKNOLOJİ HİZ. TİC. SAN. LTD. ŞTİ | company | MAHİR İZ CADDESİ NO:28 KAT:B1 ,ALTUNİZADE, ÜSKÜDAR | +902164749520 | http://www.dedicated.com.tr | 2019-03-13T12:42:27.000Z |
-| DEHOST İNTERNET VE BİLİŞİM TEKNOLOJİLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ | company | Pınarbaşı Mh. Akarsu 2 Sk. NO 13A Keçiören / Ankara | +903128701206 | https://dehost.com.tr | 2026-01-04T22:53:02.000Z |
+| DEHOST İNTERNET VE BİLİŞİM TEKNOLOJİLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ | company | Pınarbaşı Mh. Akarsu 2 Sk. NO 13A Keçiören / Ankara | +903128701206 | https://dehost.com.tr | 2026-02-09T02:45:26.000Z |
 | Deniz Berke Türkmen | company | Perpa Ticaret Merkezi B Blok 1281 | +905397207723 | https://www.yereldisk.com | 2020-05-27T12:17:28.000Z |
 | Deniz KAYA SERT | company | Fenerbahçe Mah. İğrip Sok. No: 13/1 Kadıköy | +908503085987 | https://www.hepsisunucu.com.tr | 2022-02-28T14:32:54.000Z |
 | Deniz Örnek | company | İzmir/Narlıdere Limanreis Mah. Pınar sok. No: 34 | +905525757712 | https://keyzuvi.com | 2025-07-09T14:45:14.000Z |
@@ -987,7 +986,7 @@
 | Istanbul Networks Web Teknolojileri Ticaret Limited Şirketi | company | Tomtom Mh. Istiklal Cd. Beyoglu Is Merkezi, No:187/147 | +908508850299 | https://qaserver.com | 2019-08-08T14:26:41.000Z |
 | İSTANBUL SOFT BİLİŞİM VE DANIŞMANLIK LTD.ŞTİ. | company | Mecidiyeköy Mah. Selahattin Pınar Cad. Kemer İş Hanı No: 15/7 Şişli | +902122121034 | https://www.istanbul-soft.com.tr | 2019-06-12T14:58:58.000Z |
 | İTC BİLGİ SİSTM.TEK.TELEKOM.GÜV.SİST.VE DAN.HİZ.TİC.LTD.ŞTİ | company | RIHTIM CAD.DERYA İŞHANI NO:28A/71 KADIKÖY | +902163307445 | http://www.itcbilgi.com | 2019-07-10T11:27:53.000Z |
-| ITCRAFT BİLGİ TEKNOLOJİLERİ VE DANIŞMANLIK HİZMETLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ | company | ORUÇREİS MH. TEKSTİLKENT CD. A BLOK NO:12B İÇ KAPI NO:011 34235 | +902129702691 | https://www.itcraft.com.tr/ | 2026-02-05T17:30:07.000Z |
+| ITCRAFT BİLGİ TEKNOLOJİLERİ VE DANIŞMANLIK HİZMETLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ | company | ORUÇREİS MH. TEKSTİLKENT CD. A BLOK NO:12B İÇ KAPI NO:011 34235 | +902129702691 | https://www.itcraft.com.tr/ | 2026-02-09T11:01:15.000Z |
 | ITM YAZILIM BİLGİSAYAR SİSTEMLERİ VE DANIŞMANLIK TİC. LTD. ŞTİ. | company | Oruç Reis Mah.Vadi Caddesi Giyimkent İstanbul Ticaret Sarayı No:108 Kat:9 Kapı No:550 | +902126100007 | https://utopiabilisim.tr/ https://rageva.com/ | 2025-10-17T14:36:12.000Z |
 | İZ HOST BİLİŞİM VE DANIŞMANLIK HİZ. TİC. LTD. ŞTİ. | company | 19 MAYIS MAH. TURABOĞLU SOK. HAMDİYE YAZGAN İŞ MERKEZİ NO 4 | +908508851080 | https://izhost.com | 2022-04-05T23:22:57.000Z |
 | İZCOSOFT YAZILIM VE BİLİŞİM TEKNOLOJİLERİ ANONİM ŞİRKETİ | company | YENİŞEHİR MAH. KARDEŞLER CAD. TEKNOKENT ARGE NO: 7/2 | +903466060565 | https://www.izcohost.com | 2024-04-26T14:59:38.000Z |
@@ -1581,7 +1580,7 @@
 | OZCGRUP İNTERNET TEKNOLOJİLERİ ELEKTRİK ELEKTRONİK MÜH. EĞİTİM DANŞ. GIDA İTH. | company | MALTEPE MAH. ESKİ ÇIRPICI YOLU SOK. MERİDYEN PLAZA OFİS:415 | +902125515150 | http://ozcgrup.com.tr | 2019-03-13T12:41:50.000Z |
 | ÖZCOŞKUN BİLGİSAYAR İLETİŞİM EĞİTİM GIDA İNŞAAT TEKS. TUR. İÇ VE DIŞ TİC. LTD Ş | company | KIZILAY MAH. SÜMER 2 SOK. YEŞİLDAĞ APT. NO:33/11 ÇANKAYA | +903124791678 | http://www.e-ozcoskun.com | 2019-03-13T12:42:16.000Z |
 | Ozgur Arslan | company | Basagac mahallesi 4 CADDE KONAK SİTESİ 14/3 | +905534259054 | https://www.alptec.org | 2024-09-25T09:15:34.000Z |
-| Özgür Bayraktutan | company | Fatih Cad. 140/7 | +905327261802 | https://www.ibtbilisim.com/ | 2026-01-09T00:37:43.000Z |
+| Özgür Bayraktutan | company | Fatih Cad. 140/7 | +905327261802 | https://www.ibtbilisim.com/ | 2026-02-09T17:09:58.000Z |
 | Özgür Kılıç | company | KAYACIK MAH. 14026 SK. Kapı No:2/3 Daire No:1 | +905416529390 | https://evinso.com | 2024-07-30T10:04:36.000Z |
 | ÖZGÜR ŞAR | company | ATATÜRK MAH. ATAŞEHİR BUL. 36 ADA ATA2/3 PLAZA NO74 ATAŞEHİR | +902164567422 | http://www.agorahosting.net | 2026-02-06T15:54:53.000Z |
 | ÖZGÜR TÜRK | company | KIRCAALİ MAH. KAYALI SK. BİREL İŞ MERKEZİ KAT 4/22 | +902243340767 | http://www.cozumhost.com | 2019-03-13T12:32:27.000Z |
