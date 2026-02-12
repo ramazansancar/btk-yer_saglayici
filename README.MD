@@ -339,7 +339,7 @@
 | Burak Başaran | company | Kamil Ocak Mah. Devrek Sk. 11/19 Keçiören | +905546662366 | https://thoplam.com/ | 2020-06-23T14:16:11.000Z |
 | Burak Bora ÇETİN | company | Büyük Cam Mah. İsmet İnönü Cad. No:23/7 Keşan / Edirne | +905454977281 | https://www.borayazilim.com.tr | 2023-09-08T15:32:50.000Z |
 | burak civelek | company | Manas Bulv. Folkart Towers B Blok 39 / 2511 Adalet Mah | +905378381980 | https://anexus.com.tr/ | 2024-07-10T10:36:01.000Z |
-| Burak Dörtyol | company | Bilal Şahin Mahallesi Fatih Sultan Mehmet Caddesi Yağmurkent Sitesi A blok Daire No:18 | +905427780752 | https://www.befhosting.com/ | 2026-01-05T11:15:04.000Z |
+| Burak Dörtyol | company | Bilal Şahin Mahallesi Fatih Sultan Mehmet Caddesi Yağmurkent Sitesi A blok Daire No:18 | +905427780752 | https://www.befhosting.com/ | 2026-02-11T22:11:10.000Z |
 | BURAK DURDAĞ | company | GÜÇLÜKAYA MAH. PINARLI SOK. | +905545513334 | https://www.hanibu.net | 2019-03-13T12:37:35.000Z |
 | BURAK GÖÇÜM | company | DEĞİRMENÖNÜ MAH. 1476 SOK. YAĞMUR SİT A BLOK NO:13 | +908508852176 | http://hostojen.com.tr | 2019-03-13T12:36:59.000Z |
 | Burak Güder | company | Söğütlü Mahallesi Söğütlü Irmak Caddesi Söğüteli Apartmanı Kat:8 Daire:31 | +905533237323 | https://www.ideamax.com.tr | 2024-05-06T13:42:22.000Z |
