@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 2172
+## Kayıt Sayısı: 2177
 
 ### Kaynak: <https://internet.btk.gov.tr/yer-saglayici-listesi> - <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -261,6 +261,7 @@
 | Bayden Teknoloji Sanayi ve Ticaret Ltd. Şti. | company | Kırmızıtoprak Mahallesi, Porsuk Bulvarı Nilay Sokak, No:11/B Odunpazarı | +908503026430 | http://babayden.com | 2020-04-27T10:58:14.000Z |
 | BAYRAM ALİ DÜĞÜ | company | PİREBİ MAHALLESİ İSMAİL KETENCİ CADDESİ NO 24/B/10 | +908503045847 | https://www.linedc.com.tr | 2024-10-01T09:38:29.000Z |
 | Bayram Kalkan | company | GÜVENTEPE MAH. KIVANÇ CAD 8/A YENİMAHALLE-ANKARA. | +905366609895 | https://hostivya.com/ | 2023-11-07T10:45:57.000Z |
+| Bayram ZAFER | company | Hürriyet Mah. 1172 Sokak No:19-1 | +905065029946 | http://www.zbest.com.tr | 2026-02-18T11:00:12.000Z |
 | BC BİLİŞİM TEKNOLOJİLERİ EĞİTİM DANIŞMANLIK YAYINCILIK BİLGİSAYAR HİZMETLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ | company | ATATÜRK BULVARI, DEPOSİTE İŞ VE OUTLET MERKEZİ, A1 BLOK NO: 325A İKİTELLİ – BAŞAKŞEHİR - İSTANBUL | +902125525656 | https://www.teknolojikutusu.com/ | 2022-09-27T10:08:17.000Z |
 | Bdu Yazılım ve Reklamcılık Ltd. Şti. | company | Balmumcu Mahallesi Barbaros Bulvarı No:48/5 Beşiktaş | +902129091612 | https://feronto.com/ | 2022-01-04T17:55:51.000Z |
 | Bedirhan Bozkaplan | company | Turgut Özal Mahallesi 1940. Sokak Batıkardelen Sitesi 77/F Daire 31 YENİMAHALLE | +905437353353 | https://www.rox.net.tr | 2025-10-14T13:42:38.000Z |
@@ -391,6 +392,7 @@
 | CENGİZ KIR | company | İstanbul/Avcılar | +905340332040 | https://sunucuhizmeti.com.tr | 2022-04-05T10:01:36.000Z |
 | CENGİZ SEVİ | company | ERTUĞRUL MAH.ŞÜKRAN SOK.NO:11 | +902822617758 | http://www.sevi.net.tr | 2019-03-13T12:33:38.000Z |
 | CENK AKSİT | company | ADALET MAH. MANAS BLV. NO:47/B FOLKART T. A KULE K:26 D:2601 | +908505621793 | http://www.cibrahosting.com | 2021-02-11T15:45:33.000Z |
+| Cenk Lüleci | company | Çırpıcı Mah. Şehit Cengiz Aluçku Sokak Elbasan Apt. No: 6 Daire No: 4 Zeytinburnu | +905447176866 | https://magaza.ludeko.com.tr | 2026-02-18T09:24:14.000Z |
 | CENK ŞEKERCİ | company | Pınartepe Mh. Atatürk Cd. No: 118 Büyükçekmece | +908503054678 | https://mersa.net.tr | 2020-08-11T02:42:42.000Z |
 | Cenuta Telekomünikasyon A.Ş. | company | Aksoy Mah, Yali Blv. No:386 D:2, 35580 Karşıyaka/İzmir | +908508853331 | https://www.cenuta.com | 2023-12-21T15:44:25.000Z |
 | Ceren Kerem Eroğlu | company | Akay Sk. No 20 Kat 1 Ic Kapi No 1 Gümüşceşme Mahallesi | +905550597954 | https://alanim.net | 2025-12-01T00:23:51.000Z |
@@ -406,6 +408,7 @@
 | Cihan Ur | company | MURATREİS MAH. SİLAHTARBAHÇE SK. MERİÇ APT. NO: 40 İÇ KAPI NO: 3 ÜSKÜDAR/ İSTANBUL 34664 | +905353100555 | https://www.wcloudhost.com | 2019-04-08T14:53:05.000Z |
 | ÇİKLET TASARIM İLETİŞİM VE ORGANİZASYON TİC. LTD. ŞTİ. | company | DEMİRKAPI MH. İNÖNÜ CD. 5. SK. NO:15 D:4 BAĞCILAR | +902127052550 | http://www.ciklet.net.tr | 2019-03-13T12:42:29.000Z |
 | ÇİZGİ TELEKOMÜNİKASYON A.Ş. | company | GÜLBAHAR MAH.ELİF SK. NO:4 MECİDİYEKÖY ŞİŞLİ | +902122131213 | https://www.natro.com | 2025-10-06T13:31:07.000Z |
+| CLOUD TEKNOLOJİ BİLİŞİM HİZMETLERİ TİCARET A.Ş. | company | Sultan Selim Mah. Hümeyra Sok. Nef 09 Plaza B Blok No:121 | +902122595500 | https://www.daha.net | 2026-02-18T09:29:48.000Z |
 | CNC BİLİŞİM HİZMETLERİ İNŞ SAN TİC LTD ŞTİ | company | GÜRSEL MAH. NAMZET SK. EKŞİOĞLU PLAZA B BLOK OFİS7 KAĞITHANE | +908505330262 | https://www.hizhosting.com | 2025-06-16T15:14:01.000Z |
 | CODE İNTERAKTİF İLETİŞİM REKLAM VE TİCARET LTD. ŞTİ. | company | PERPA TİCARET MERKEZİ A-1167, OKMEYDANI, ŞİŞLİ | +908502411871 | https://www.code.com.tr | 2019-03-13T12:43:38.000Z |
 | Codead Yazılım ve Reklam Hizmetleri Ltd Şti | company | Üçevler Mh. Esra Sk. No:6 Polat Plaza Daire: 15 Nilüfer/BURSA | +905380853323 | https://codead.com.tr/ | 2025-03-04T15:35:13.000Z |
@@ -1216,6 +1219,7 @@
 | MESUT YUREKDİNÇ | company | Karlıbayır Mah. İştirak Sk. No:15/3 Arnavutköy - İstanbul | +902129091214 | https://sparfly.com.tr | 2026-02-01T17:40:25.000Z |
 | Mete Kaan Arici | company | TASDELEN MAH. EDA SK. NO: 1 IÇ KAPI NO: 30 ÇEKMEKÖY | +902166060692 | https://www.mekjoy.com | 2020-05-11T11:58:31.000Z |
 | Mete Özdemir | company | CUMHURİYET MAH. ŞEN SK. ŞATIR APT. NO: 3 İÇ KAPI NO: 3 BAHÇELİEVLER/İSTANBUL | +908503051209 | https://oceanbilisim.com.tr/ | 2021-12-29T11:35:02.000Z |
+| Mete Serkan Sevim | company | Adatepe Mah. Doğuş Cd. No: 207/AG İç Kapı No: 1 BUCA/İZMİR | +905322626030 | https://netsyshosting.com | 2026-02-18T10:19:17.000Z |
 | METE YILDIZ | company | İNKİLAP MAH 531 SOK NO3 D2 BUCA/İZMİR | +902324382279 | https://alsancakweb.com/ | 2020-05-13T12:28:56.000Z |
 | Metehan Acar | company | Akarbaşı Mah. Şehit Yüzbaşı T. Güngör CD.26/7 Kardeş Apt. | +908503040526 | https://acarhost.com | 2025-09-26T09:36:35.000Z |
 | Metehan Gülçiçek | company | 6203 sokak no 10 | +905315050698 | https://wilixis.com | 2022-07-27T09:53:57.000Z |
@@ -1637,6 +1641,7 @@
 | rağıp alkan | company | merkez mah. seçkin sk dap vadisi z ofis kat 2 no 212 kağıthane istanbul | +905442212133 | http://ragip.net | 2021-02-19T12:49:36.000Z |
 | RAGURON TELEKOMÜNİKASYON VE İNTERNET LİMİTED ŞİRKETİ | company | SÜMER MAH. 2482/2 SK. SKYCİTY B BLOK İŞ MERKEZİ NO: 4 /1 İÇ KAPI NO: 16 MERKEZEFENDİ/ DENİZLİ | +902583000300 | https://raguron.com.tr/ | 2024-01-02T18:44:03.000Z |
 | Rahim TUNÇEL | company | Sefaköy Tevfikbey Mahallesi Halkalı Caddesi no:132/3 ofis no:9B | +905330225298 | https://nuvolamedya.com/ | 2020-09-30T11:59:36.000Z |
+| RAINY BILISIM INTERNET VE PROJECT HIZMETLERI LTD | company | Suite 9321 5 Brayford Square, London, United Kingdom, E1 0SG | +905102231702 | https://rainybilisim.com/ | 2026-02-18T10:47:06.000Z |
 | RAMAZAN BALAK | company | ŞİRİNEVLER MH.SARAY CD.11/C | +902124424948 | http://www.balak.net.tr | 2024-11-01T18:12:51.000Z |
 | RAMAZAN ERBAŞARAN | company | KALETEPE MAH. 891. CAD. 12/5 YENİMAHALLE | +908503027655 | https://www.erbasaran.com | 2020-01-28T21:39:49.000Z |
 | Ramazan Gökoğlan | company | Şifahane Mah. 3145 Sok. No:31 İç kapı no:1 Merkez/Aksaray | +905458491230 | https://beyazmedya.net | 2022-02-07T10:14:45.000Z |
