@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 2181
+## Kayıt Sayısı: 2180
 
 ### Kaynak: <https://internet.btk.gov.tr/yer-saglayici-listesi> - <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -494,7 +494,7 @@
 | DUKQAN BİLGİ TEKNOLOJİLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ | company | FULYA MH. BÜYÜKDERE CD. QUASAR İSTANBUL AP. NO:76/188 ŞİŞLİ | +908503034020 | https://www.dukqan.com | 2019-03-13T12:46:02.000Z |
 | DURMUŞ ALİ DURMAZ | company | Bağlar Mahallesi Mustafa Kemal Caddesi No:72/1 | +905386976325 | https://mercanhosting.com | 2024-02-06T23:01:02.000Z |
 | DURSUN DURMUŞ | company | kemaliyemah 1187s no 18/1 Sakarya / Hendek | +905435767989 | https://www.mesuthost.com | 2024-07-29T15:28:48.000Z |
-| DURUL ŞİLLİ | company | Hürriyet Mahallesi kar sokak no 11/2 daire 6 Süleymanpaşa | +905444037059 | http://www.tasarim59.com | 2026-01-04T12:50:22.000Z |
+| DURUL ŞİLLİ | company | Hürriyet Mahallesi kar sokak no 11/2 daire 6 Süleymanpaşa | +905444037059 | http://www.tasarim59.com | 2026-02-24T22:22:00.000Z |
 | E TİCARET VE BİLİŞİM TEKNOLOJİLERİ DANIŞMANLIK SAN. VE TİC. LTD. ŞTİ. | company | CUMHURİYET MAHALLESİ ÖZGÜNEŞ SOKAK, NO: 26, ÜSKÜDAR | +902164430417 | http://www.eticaret.com.tr | 2019-03-13T12:42:28.000Z |
 | E VERİ BİLİŞİM TURİZİM SAN.VE TİC.LTD.ŞTİ. | company | KÜÇÜKBAKKALKÖY MAH.KÜÇÜKSETLİ SOK.NO:5-9 ATAŞEHİR-İSTANBUL | +905546606363 | http://e-veri.com | 2026-02-01T13:20:16.000Z |
 | E1 BİLİŞİM VE TEKNOLOJİ AŞ | company | ÜNİVERSİTE MAHALLESİ SARIGÜL SOKAK 37/1 AVCILAR İSTANBUL | +908508400004 | http://www.e1.com.tr | 2019-03-13T12:45:50.000Z |
@@ -1337,7 +1337,6 @@
 | MUSTAFA EFE | company | Kocatepe Mah. Hatay Sok. 9/23 Çankaya | +903129630163 | https://www.kodzer.net.tr | 2021-10-07T09:24:18.000Z |
 | Mustafa Emir Çebi | company | Esenler Emlak Konutları A11 Blok Kat 12 Daire 131 Esenler / İstanbul | +905056433546 | https://litrosweb.com | 2024-10-07T13:29:54.000Z |
 | MUSTAFA EMRAH ARICAN | company | MADENLER M. PAMUKOVA S. AYLIN APT. NO:2B/7 ÜMRANİYE | +902163276533 | http://www.aricanpm.com | 2019-03-13T12:33:08.000Z |
-| MUSTAFA ENES AKDENİZ | company | Yavuz sultan selim mah. Ali yücel sk. no 5 b körfez kocaeli | +905510414315 | https://oyuncevheri.com | 2020-11-16T16:54:13.000Z |
 | MUSTAFA GÜNEŞ | company | Karamanlı Mahallesi Fulya Sokak no 4 dair 2 Kat -1 | +905010871837 | https://inoxweb.net/ | 2025-12-09T09:31:43.000Z |
 | MUSTAFA GÜRER | company | KARTALTEPE MAH TERAKKİ CAD KARACAOGLAN SOK SOYSAL SİT A2 D3 | +905536105764 | https://fortr.net | 2019-03-13T12:37:45.000Z |
 | MUSTAFA KAYHAN | company | MAREŞAL FEVZİ ÇAKMAK MAH. 394 SK. SEDA C 3 1 MERKEZ/ AFYON | +905388352100 | http://www.akkocbilisim.com | 2019-03-13T12:36:15.000Z |
