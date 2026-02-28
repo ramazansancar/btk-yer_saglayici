@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 2179
+## Kayıt Sayısı: 2182
 
 ### Kaynak: <https://internet.btk.gov.tr/yer-saglayici-listesi> - <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -221,6 +221,7 @@
 | AYKUT BAHADIR | company | KEMALİYE MAH. SÜMBÜL SK. ELIT PARK SITESI A BLOK NO: 12A İÇ KAPI NO: 14 VAKFIKEBİR / TRABZON | +908505325778 | https://datagrup.org | 2021-05-18T14:49:45.000Z |
 | AYKUT BERKSAN | company | SIRACEVİZLER MAHALLESİ CEYLAN ÇIKMAZI NO : 10 KAT 3 | +905357910220 | http://www.ruyahosting.com | 2019-03-13T12:35:33.000Z |
 | AYKUT ÇAN | company | BAĞLARALTI MAH. 3. CAD. 22 PARSEL MEŞE KOOP. 19. BLOK D:3 | +905522292616 | http://www.decagon.com.tr | 2019-03-13T12:34:49.000Z |
+| Aykut MATRAK | company | Adalet Mh. 10043 Sk. Office Demirten İş Merkezi No: 8 / 5 Merkezefendi / Denizli | +902582621042 | http://www.duxa.com.tr | 2026-02-27T14:16:05.000Z |
 | AYKUT SEVER | company | Esentepe Mah. Milangaz Cad. No:77 Dumankaya Vizyon Kartal Residence A1 Blok Kat:22 No:121 Kartal / İSTANBUL | +905458991923 | https://www.deskport.com.tr | 2021-08-04T18:00:12.000Z |
 | AYKUT ZORER | company | AKBÜK MAHALLESİ 1001 CADDESİ NO:57/1 | +902568564994 | http://www.sattisatildi.com/ | 2020-02-02T12:58:57.000Z |
 | AYŞE ÖZGÖREN | company | BARUTLUK MAHALLESİ TAVŞAN BABA TÜRBE SOKAK NO 11 D2 | +905367431943 | http://pinbilisim.com | 2019-03-13T12:33:25.000Z |
@@ -394,6 +395,7 @@
 | CENK AKSİT | company | ADALET MAH. MANAS BLV. NO:47/B FOLKART T. A KULE K:26 D:2601 | +908505621793 | http://www.cibrahosting.com | 2021-02-11T15:45:33.000Z |
 | Cenk Lüleci | company | Çırpıcı Mah. Şehit Cengiz Aluçku Sokak Elbasan Apt. No: 6 Daire No: 4 Zeytinburnu | +905447176866 | https://hosting.ludeko.com.tr | 2026-02-23T15:01:21.000Z |
 | CENK ŞEKERCİ | company | Pınartepe Mh. Atatürk Cd. No: 118 Büyükçekmece | +908503054678 | https://mersa.net.tr | 2020-08-11T02:42:42.000Z |
+| CENTERİUM BİLİŞİM TEKNOLOJİLERİ VE DANIŞMANLIK HİZMETLERİ LİMİTED ŞİRKETİ | company | Yavuz sultan selim mah. Ali yücel sk. No:5B yunus sitesi B Blok D:12 (Kat 2) | +905399344211 | https://dogruhost.com | 2026-02-27T11:05:53.000Z |
 | Cenuta Telekomünikasyon A.Ş. | company | Aksoy Mah, Yali Blv. No:386 D:2, 35580 Karşıyaka/İzmir | +908508853331 | https://www.cenuta.com | 2023-12-21T15:44:25.000Z |
 | Ceren Kerem Eroğlu | company | Akay Sk. No 20 Kat 1 Ic Kapi No 1 Gümüşceşme Mahallesi | +905550597954 | https://alanim.net | 2025-12-01T00:23:51.000Z |
 | Cesrey Bilişim Teknolojileri Anonim Şirketi | company | Kültür Mah. Çakmaklar Cad. Bolu Teknokent No:2/44, Merkez / Bolu | +908508855657 | https://cesrey.com | 2023-04-14T14:24:00.000Z |
@@ -442,6 +444,7 @@
 | DATABİR İNTERNET VE BİLİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ | company | ESKİ KUYUMCULAR MAHALLESİ TEVFİK SAĞLAMPAŞA SOKAK 2/3 | +902666060610 | http://www.databir.com | 2019-03-13T12:42:27.000Z |
 | DATAFON TEKNOLOJİ SAN.TİC.LTD.ŞTİ. | company | ALEMDAĞ CD. YILDIRAN SOK. NO:30/2 | +908508407665 | https://www.datafon.net.tr | 2019-03-13T12:43:06.000Z |
 | DATEMA BILISIM TICARET ANONIM SIRKETI | company | KAYABASI MAH. ULUBATLI HASAN CAD. NO: 2 H IÇ KAPI NO: 3 BASAKSEHIR/ ISTANBUL | +908504500800 | http://www.datemabilisim.com.tr/ | 2020-11-19T10:32:06.000Z |
+| DBS Global Bilgi Teknolojileri ve Danışmanlık Ticaret Ltd Şti | company | Aydıntepe Mah. Sahil Bulvarı Denizciler Ticaret Merkezi No:126 D-53, 34947 | +902169080511 | https://www.dbsteknoloji.com.tr | 2026-02-27T09:39:17.000Z |
 | DC HOST BİLİŞİM TEKNOLOJİLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ | company | ATAKÖY 7-8-9-10. KISIM MH. E-5 YAN YOL CD NEF22 A BLK N:22/1/120 | +908503467822 | https://dchost.com | 2021-12-02T09:06:02.000Z |
 | DEDİCATED TELEKOMÜNİKASYON TEKNOLOJİ HİZ. TİC. SAN. LTD. ŞTİ | company | MAHİR İZ CADDESİ NO:28 KAT:B1 ,ALTUNİZADE, ÜSKÜDAR | +902164749520 | http://www.dedicated.com.tr | 2019-03-13T12:42:27.000Z |
 | DEHOST İNTERNET VE BİLİŞİM TEKNOLOJİLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ | company | Pınarbaşı Mh. Akarsu 2 Sk. NO 13A Keçiören / Ankara | +903128701206 | https://dehost.com.tr | 2026-02-09T02:45:26.000Z |
@@ -1515,8 +1518,8 @@
 | Ömer Tosun | company | Duralialıc mahallesi 953 sokak 5/33 | +905071070605 | https://ragehost.net/ | 2022-04-01T09:55:06.000Z |
 | ÖMER TURGUT YÜCE | company | A.KUTSİ TECER CAD..ALTAY SK.NO:5/G MERTER | +902125065050 | http://www.ntbilisim.com | 2019-03-13T12:35:05.000Z |
 | ÖMER YÜCE | company | ÖZVEREN SOK. NO:13/18 DEMİRTEPE ÇANKAYA | +903122290981 | http://www.normyazilim.com | 2019-03-13T12:34:35.000Z |
-| ÖMÜR AKGÜN | company | Atıf bey Mah. Önder Cad. No:12/Z-5 Gaziemir | +908508850101 | https://www.datatr.com.tr | 2025-01-06T17:02:27.000Z |
 | ÖMÜR AKGÜN | company | ATIF BEY MAH. HACI MOLLA MÜMİN HOCA SK. NO:58/D GAZİEMİR | +908508850101 | http://www.datatr.com.tr | 2019-03-13T12:36:40.000Z |
+| ÖMÜR AKGÜN | company | Atıf bey Mah. Önder Cad. No:12/Z-5 Gaziemir | +908508850101 | https://www.datatr.com.tr | 2025-01-06T17:02:27.000Z |
 | ON İKİ LEVHA YAYINCILIK A.Ş. | company | PROF. NURETTİN MAZHAR ÖKTEL SOKAK NO: 6A ŞİŞLİ | +902123430901 | http://www.onikilevha.com.tr | 2019-03-13T12:45:15.000Z |
 | Önder Aydoğdu | company | Şeyh Şamil Mah. 170. Sok. Kapı No: 12 Eryaman Etimesgut | +908503028305 | https://btpark.com.tr/ | 2024-01-08T22:04:38.000Z |
 | Onecard Kurumsal Çözümler Yazılım Limited Şirketi BERGE | company | Kazım Özalp Mahallesi Kuleli Cad. No: 83/12 Çankaya/ANKARA | +903129112795 | https://www.onecard.net.tr | 2020-04-01T12:45:23.000Z |
@@ -1605,7 +1608,7 @@
 | PENTECH BİLİŞİM TEKNOLOJİLERİ SANAYİ VE LİMİTED ŞİRKETİ | company | OVAAKÇA EĞİTİM MH.İSTANBUL CD.NO:750/1 OSMANGAZİ BURSA | +902243220000 | https://www.pendc.com | 2021-06-14T14:54:40.000Z |
 | PER TEKNOLOJİ VE DANIŞMANLIK ANONİM ŞİRKETİ | company | Atatürk Mah. Sedef Cad. 41. Ada ATA 4-5 B No: 31 Kat: 1 Daire: 6 ATAŞEHİR / İSTANBUL | +908508852666 | https://perteknoloji.com | 2024-07-31T15:19:08.000Z |
 | Perador Bilisim ve Yazılım Hizmetleri AŞ | company | Hacı Mimmi Mahallesi Serdar-ı Ekrem Cd No: 28 | +902122937417 | https://dugun.com | 2020-01-08T18:04:16.000Z |
-| PERFORMANS İLETİŞİM VE TEKNOLOJİ HİZMETLERİ LTD.ŞTİ. | company | ULUDAĞ ÜNİVERSİTESİ ULUTEK TEKNOLOJİ GELİŞTİRME BÖLGESİ NO:217 NİLÜFER BURSA | +908505320548 | https://www.performans.net.tr/ | 2026-01-30T16:19:11.000Z |
+| PERFORMANS İLETİŞİM VE TEKNOLOJİ HİZMETLERİ LTD.ŞTİ. | company | ULUDAĞ ÜNİVERSİTESİ ULUTEK TEKNOLOJİ GELİŞTİRME BÖLGESİ NO:217 NİLÜFER BURSA | +908505320548 | https://www.performans.net.tr/ | 2026-02-27T13:18:45.000Z |
 | PH BİLİŞİM TEKNOLOJİLERİ LİMİTED ŞİRKETİ | company | HALKALI MERKEZ MAH. 1.ÖZEN SK. NO: 7 İÇ KAPI NO: 2 | +905307125464 | https://ph.net.tr | 2025-08-14T13:20:53.000Z |
 | PİCANET WEB TASARIM EMRAH ERGÜLER | company | KONAKLAR MAH. ŞEBBOY SOK. 12N/9 YENİ LEVENT | +902122242044 | http://www.picanet.net | 2019-03-13T12:42:44.000Z |
 | PİERNET TEKSTİL ÜRÜNLERİ SAN. VE TİC. A.Ş. | company | TEKSTİLKENT A25 NO:24 ESENLER | +902122194246 | https://www.piernet.com.tr | 2019-03-13T12:45:27.000Z |
