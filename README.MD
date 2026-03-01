@@ -401,7 +401,7 @@
 | Cesrey Bilişim Teknolojileri Anonim Şirketi | company | Kültür Mah. Çakmaklar Cad. Bolu Teknokent No:2/44, Merkez / Bolu | +908508855657 | https://cesrey.com | 2023-04-14T14:24:00.000Z |
 | Çetin Deniz GELMEN | company | Pirireis mah. 1112 Sk. Hürriyet Apt. No:16/A Yenişehir/MERSİN | +905458580033 | https://mpghost.com/ | 2020-10-21T15:00:15.000Z |
 | Çetin Kurt | company | KIZILIRMAK MAH. 1443 CAD. NO: 25 B İÇ KAPI NO: 8 ÇANKAYA/ ANKARA | +905411393297 | https://www.verisunucu.net/ | 2026-02-23T15:08:48.000Z |
-| ÇETİN YILMAZ | company | İHSANİYE MAH. ÖDÜL SOK. NO:18/1 BOSTANCI GÜL APT. (16130) NİLÜFER | +908502261600 | http://www.interbim.com/ | 2026-02-02T00:18:51.000Z |
+| ÇETİN YILMAZ | company | İHSANİYE MAH. ÖDÜL SOK. NO:18/1 BOSTANCI GÜL APT. (16130) NİLÜFER | +908502261600 | http://www.interbim.com/ | 2026-03-01T01:05:44.000Z |
 | Cetvel Yazılım A.Ş | company | MUALLİMKÖY MAH. DENİZ CAD. MUALLİMKÖY T.G.B. 1.ETAP 1.1.C1 BLOK NO: 143 /8 İÇ KAPI NO: Z01 GEBZE/ KOCAELİ | +902626000088 | https://cetvel.com.tr/ | 2023-03-17T10:05:26.000Z |
 | Ceviz Bilişim A.Ş. | company | barbaros hayrettin paşa mah. 1992. sk. no:16 vetro city residence a blok kat:10 d:209 esenyurt | +905072974547 | https://www.cevizbilisim.com.tr | 2022-01-05T08:39:26.000Z |
 | CHY BİLGİSAYAR BİLİŞİM TEKNOLOJİ TİC.LTD.ŞTİ | company | TOZKOPORAN ABDURRAHMAN NAFİZ GÜRMAN MAH. GENERAL ALİ RIZ | +908504805301 | http://www.domainsitesi.com | 2019-03-13T12:42:51.000Z |
@@ -1240,7 +1240,7 @@
 | MİNİ BİLİŞİM HİZMETLERİ BİLGİSAYAR TURİZM İNŞAAT SAN. TİC. LTD. ŞTİ. | company | MANSUROĞLU MAH. 288/3 SK. SELVİLİ APT. NO:3  K:3  D:9  B | +902324866464 | http://www.minibilisim.com.tr | 2019-03-13T12:42:21.000Z |
 | miraç doğan | company | HOCABEY MAH. ŞEHİT.P.KOMD.ER BÜNYAMİN DEMİREZ (1051) SK. NO: 26 B İÇ KAPI NO: 6 MERKEZ/ ERZİNCAN | +905366803775 | https://perminet.com/ | 2023-09-20T10:45:31.000Z |
 | MİTEKSOFT YAZILIM BİLİŞİM ELEKTRONİK SAN. VE TİC. LTD ŞTİ | company | KAHRAMANMARAŞ AVŞAR YERLEŞKESİ TEKNOKENT | +905435804646 | http://miteksoft.com | 2019-03-13T12:43:20.000Z |
-| MİTUES GLOBAL TEKNOLOJİLER VERİ MERKEZİ HİZMETLERİ LTD. ŞTİ. | company | Yakuplu Mah. Hürriyet Bulvarı, Skyport Plaza, No: 1, Kat: 3, D.No: 64 Beylikdüzü | +908508850114 | https://www.mitues.com | 2026-02-01T00:30:10.000Z |
+| MİTUES GLOBAL TEKNOLOJİLER VERİ MERKEZİ HİZMETLERİ LTD. ŞTİ. | company | Yakuplu Mah. Hürriyet Bulvarı, Skyport Plaza, No: 1, Kat: 3, D.No: 64 Beylikdüzü | +908508850114 | https://www.mitues.com | 2026-03-01T00:07:05.000Z |
 | Mobildir Bilişim Sanayi ve Ticaret Limited Şirketi | company | Sedir Mahallesi Vatan Bulvarı No:10 Kat:5 Daire:11 | +908502420400 | https://tco.com.tr | 2022-10-11T09:31:16.000Z |
 | MOBİLİN TEKNOLOJİ VE BİLİŞİM LİMİTED ŞİRKETİ | company | ÜÇTUTLAR MAH. FATİH 1. SK. NO: 8-B MERKEZ | +908505325751 | https://crobe.net.tr | 2025-11-25T21:45:27.000Z |
 | MOBİNTEK MOBİL VE İNTERNET TEKNOLOJİLERİ BİL İLET. REK İLAN ORG. SAN TİC LTD.ŞTİ | company | Üçevler Mh. Ersan Sk. B Blok No:8/A Nilüfer | +902243625362 | https://www.mobintek.com | 2024-07-15T13:54:27.000Z |
@@ -1363,7 +1363,7 @@
 | MUSTAFA SEVİNÇ | company | KÜPLÜPINAR MAHALLESİ GÜZELPINAR SOKAK NO : 8 OSMANGAZİ | +908508401493 | https://sevincbilisim.com | 2019-03-13T12:35:43.000Z |
 | Mustafa Tekin | company | Ayvalı Caddesi, No: 5/B, Etlik/ANKARA | +905436611617 | http://www.markavinci.com/ | 2020-01-27T14:43:30.000Z |
 | Mustafa Uçarer | company | Küçükçekmece/İstanbul Atatürk Mah. 322. Sk No: 45/B | +908504661245 | https://adda.net.tr | 2023-03-27T14:50:57.000Z |
-| MUSTAFA YILDIZ | company | AKINCILAR MAH. SALCI SK UNAL APT NO 27/A | +90803463516 | https://vizebis.com | 2026-01-29T17:34:03.000Z |
+| MUSTAFA YILDIZ | company | AKINCILAR MAH. SALCI SK UNAL APT NO 27/A | +90803463516 | https://vizebis.com | 2026-02-28T06:53:49.000Z |
 | MUSTAFA ZEKİ BACAK | company | VİŞNEZADE MAH. SÜLEYMAN SEBA CAD. 79/1 34357 BEŞİKTAŞ | +908503467535 | http://www.bsinternet.com | 2019-03-13T12:35:37.000Z |
 | MUSTAFA. DURNA | company | MERKEZ MAH. ABİDE-İ HÜRRİYET CAD. MEYDAN AP NO: 143/8 ŞİŞLİ | +902122334911 | https://www.internetsanati.com | 2026-02-01T19:03:13.000Z |
 | MUTFAK YAPIM FİLMCİLİK MÜZİK ORGANİZASYON SAN VE TİC LTD ŞTİ | company | İSMET KAPTAN MAH ŞAİT EŞREF BULV. SINMAZ BOYALI İŞ HANI K:5 NO:28/52 KONAK | +902324032002 | https://mutfakyapim.com | 2021-07-11T14:40:13.000Z |
