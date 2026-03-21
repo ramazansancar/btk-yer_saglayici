@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 2190
+## Kayıt Sayısı: 2189
 
 ### Kaynak: <https://internet.btk.gov.tr/yer-saglayici-listesi> - <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -631,7 +631,6 @@
 | ERKAN BABADAGI | company | ŞEHİT YÜZBAŞI HÜSEYİN OLGUN SK NO 29 D3 KARŞIYAKA | +905335953584 | http://www.batihost.com | 2025-02-27T16:07:39.000Z |
 | ERKAN ÇÖMEZ | company | LARENDE CADDESİ 27/1 MERAM | +905071212558 | http://hostinal.com | 2019-03-13T12:38:12.000Z |
 | ERKAN ERORHAN | company | CEMALGÜRSEL CD. KOZA APT. NO:39A K:3 NO:301 | +908504333701 | http://www.akdenizpc.com | 2019-03-13T12:38:17.000Z |
-| Erkan ÖZTÜRK | company | pınar mahhallesi çamlıbel cad. no145 | +905539761112 | https://orderbilisim.com | 2024-05-07T10:18:35.000Z |
 | ERKİN ÖZGÜNSÜR | company | TAHILPAZARI MAH. 452 SOK. NO : 9 MURATPAŞA / ANTALYA | +902422444213 | http://www.sisttechnology.com.tr | 2019-03-13T12:33:40.000Z |
 | ERKSEL ÖZEL SAĞLIK HİZ. BİTKİSEL ÜRN. BİLİŞİM SANAYİ VE TİCARET LİMİTED ŞİRKETİ | company | ÇAMLICA MAHALLESİ TOMBAKZADE CADDESİ NO: 79/A 26180 TEPEBAŞI | +902223150500 | http://www.erksel.com | 2019-03-13T12:42:58.000Z |
 | EROL BAŞAR | company | BARBAROS HAYRETTİN PAŞA MH. ADNAN KAHVECİ BULV. PRESTİJ 3 KONUTLARI NO:4/2 H ESENYURT İSTANBUL | +902126899966 | http://www.bilisimdunyasi.org | 2023-01-24T16:27:15.000Z |
