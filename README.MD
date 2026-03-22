@@ -270,7 +270,7 @@
 | Bedirhan Bozkaplan | company | Turgut Özal Mahallesi 1940. Sokak Batıkardelen Sitesi 77/F Daire 31 YENİMAHALLE | +905437353353 | https://www.rox.net.tr | 2025-10-14T13:42:38.000Z |
 | BEDRETTİN AYVAZ | company | Üçevler Mah. İzmir Yolu Cd. No: 241/D Westpoint İş Merkezi D Blok 2. Kat 25. Ofis Nilüfer/BURSA | +905550007716 | https://www.ajansay.com | 2025-04-11T09:44:54.000Z |
 | BEHÇET ÜLKER | company | KIZILTOPRAK MAH. MEVLANA CAD. HAŞİM BALABAN APT. NO: 16 | +902423217068 | http://www.ebox.com.tr | 2019-03-13T12:32:33.000Z |
-| Behzat BOĞAZLIYANLIOĞLU | company | şirintepe mah. mevlana 1.cd. ülkü apt.no:812-24 | +905319284117 | https://netwoturk.com/ | 2023-06-09T10:27:22.000Z |
+| Behzat BOĞAZLIYANLIOĞLU | company | şirintepe mah. mevlana 1.cd. ülkü apt.no:812-24 | +905319284117 | https://netwoturk.com/ | 2026-03-22T00:12:29.000Z |
 | BEKİR GELEBEK | company | ÇANKAYA, ARKA TOPRAKLIK MAH. MAHMUT ESAT BOZKURT CAD. 121/4 | +905458430458 | https://galateahosting.com | 2019-03-13T12:36:12.000Z |
 | Benos Yazılım Teknolojileri ve Danışmanlık A.Ş. | company | Yenibağlar Mahallesi karargah sokak 10/2 tepebaşı/eskişehir | +908503088905 | https://www.benoshost.com | 2024-12-13T09:50:12.000Z |
 | BENTAŞ BİLGİSAYAR ENDÜSTRİ MÜHENDİSLİK VE TİCARET A.Ş. | company | YILANLI AYAZMA SOKAK NO:12 KAT:2 34010 DAVUTPAŞA | +902122313500 | https://www.bentas.com | 2026-02-10T17:49:33.000Z |
