@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 2189
+## Kayıt Sayısı: 2190
 
 ### Kaynak: <https://internet.btk.gov.tr/yer-saglayici-listesi> - <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -472,6 +472,7 @@
 | DİJİTAL BİLİŞİM TEKNOLOJİ HİZMETLERİ SAN TİC LTD ŞTİ | company | Cevizli Mah. Zuhal Cad. 46/D A4 Blok Daire:59 Maltepe | +902122198922 | https://www.bedijital.com | 2026-03-04T17:43:54.000Z |
 | Dijital İş Yerim Bilişim Reklam ve Danışmanlık Hizmetleri Tic. Ltd. Şti. | company | Adalet Mahallesi Şehit Fethi Sekin Caddesi No:6 Ventus Tower Kat: 11 Daire:111 Bayraklı / İZMİR | +908508501515 | https://www.dijitalisyerim.com.tr | 2020-11-25T17:04:21.000Z |
 | DIJITAL KLINIK TEKNOLOJI VE PAZARLAMA SANAYI TICARET LIMITED SIRKETI | company | BULGURLU MAH. IZZETTINBEY SK. NO: 9 /2 IÇ KAPI NO: 2 ÜSKÜDAR/ ISTANBUL | +908508409593 | https://dijitalklinik.com | 2023-05-24T16:10:07.000Z |
+| Dijitmo İletişim Tasarım ve Kurumsal Hizmetler Ltd. Şti. | company | Nisbetiye Mahallesi, Gazi Güçnar Sokak, Uygur İş Merkezi, No:4, D:7, Beşiktaş | +908505321580 | https://www.dijitmo.com/tr/ | 2026-03-24T11:00:10.000Z |
 | Dinçer Bekir | company | HÜRRİYET MAH. YONCA SK. BLOK NO: 8 İÇ KAPI NO: 9 BAHÇELİEVLER / İSTANBUL | +905394218886 | https://reinos.net/ | 2024-10-24T16:30:59.000Z |
 | DİNÇER IŞIK | company | ŞEHİT OSMAN AVCI MAH. MALAZGİRT 1071 CAD. NO:48 B BLOK D:42 | +903123188963 | http://www.hosthane.com | 2020-07-21T22:49:59.000Z |
 | DİRİSOFT BİLGİ VE İLTİŞİM TEKNOLOJİLERİ LİMİTED ŞİRKETİ | company | ANKARA TEKNOLOJİ GELİŞTİRME BÖLGESİ, CYBERPARK CYBERPLAZA A | +903122662752 | www.dirisoft.com | 2019-03-13T12:42:25.000Z |
@@ -592,6 +593,7 @@
 | ENGİN KESKİN | company | İlkbahar Mah. Konrad Adenauer Cad. 602. Sok. No:6/9 Yıldız, Çankaya Ankara | +903129112991 | https://www.next.net.tr | 2020-06-19T14:24:47.000Z |
 | ENGİN TEKİN | company | YUNUS EMRE MAH. TOPCAM SOK. NO :6/19 | +903129110013 | http://www.enghost.com.tr | 2022-10-05T14:57:30.000Z |
 | ENİYİSUNUCUM VERİ MERKEZİ BİLİŞİM HİZ. TİC. VE SAN. LTD. ŞTİ. | company | Akşemsettin Mahallesi, Fatih bulvarı Mihriban Sultan Sokak, NO:37-1 34925 - Sultanbeyli / İSTANBUL | +908505511033 | https://eniyisunucum.com | 2023-03-24T13:54:33.000Z |
+| ENKİTECH BİLİŞİM LİMİTED ŞİRKETİ | company | Konutkent Mah. 3028. Cad. Elmar Towers Bina No:8C Kat:3 Daire:28 Çankaya / Ankara | +908503030489 | https://www.enkitech.com.tr | 2026-03-24T10:31:54.000Z |
 | ENTEGRA BİLİŞİM SANAYİ VE TİCARET A.Ş. | company | KÜÇÜKBAKKALKÖY MAH. DUDULLU CAD. NO 23-25A BRANDİUM R1 D132 | +902155100681 | http://www.entegra.com.tr | 2019-03-13T12:45:18.000Z |
 | Entropha Bilgi Teknolojileri Yazılım Danışmanlık San. ve Tic. Ltd. Şti. | company | Körfez Mahallesi Berk Sokak Barış İş Merkezi No:10 Daire:52 İzmit | +902623259188 | https://entropha.com | 2022-04-04T10:16:58.000Z |
 | ERAY MADEN | company | Bükrüce Mah. Bükrüce Sok. No:388 Bekilli Denizli 20930 | +908503045981 | https://www.etkinhost.com.tr https://www.vmcloud.net.tr | 2025-09-30T14:05:39.000Z |
@@ -871,7 +873,6 @@
 | HİPERMEDYA AJANS REKLAM VE BİLİŞİM HİZMETLERİ TİC. A. Ş. | company | KUŞTEPE MAH. MESUTCEMİL SOK. NO:28 | +902122114043 | http://www.hipermedya.org | 2019-03-13T12:42:58.000Z |
 | Hızlı Sayfalar İnternet ve Bilişim Hizmetleri Ticaret Limited Şirketi | company | Galip Dede Sokak No: 9/5 Çankaya | +903124681671 | https://www.hizlisayfalar.com | 2022-02-06T13:25:26.000Z |
 | Hop İnternet Mağazacılığı İç ve Dış Tic. Ltd. | company | Mahmutbey Mh. 2416 SK. ZE Plaza F Blok 8A Bağcılar | +902129099770 | https://jumboserver.com | 2022-08-10T19:27:09.000Z |
-| HOST İNTERNET VE İLETİŞİM TEKNOLOJİLERİ LİMİTED ŞİRKETİ | company | MAHMUDİYE MAH. ŞEHİT AHMET ERSOY CAD. SALİH USTA APT. No:17 A | +903243253937 | https://host.com.tr/ | 2025-02-14T10:19:59.000Z |
 | Hostider Bilişim Hizmetleri Limited Şirketi | company | Kazimiye Mahallesi Salih Omurtak Caddesi No:16 İç Kapı:17 Çorlu | +908503094560 | https://www.hostider.net | 2024-05-07T10:24:45.000Z |
 | Hostifox İnternet Ve Bilişim Hizmetleri Ticaret Sanayi Limited Şirketi | company | 29 Ekim Özlüce MAH. 413.SK Perge Sitesi A Blok NO 16 KAT 8 | +902243340169 | https://hostifox.com.tr | 2024-03-06T09:05:22.000Z |
 | HOSTİNG DÜNYAM BİLİŞİM TEKNOLOJİLERİ TİCARET LİMİTED ŞİRKETİ | company | Sütlüce mahallesi, İmrahor Caddesi Haliç Park Plaza No:2/1 Kat:5 Daire:13 Beyoğlu/İstanbul | +902129099656 | https://hostingdunyam.com.tr | 2025-05-16T14:39:40.000Z |
@@ -1323,6 +1324,7 @@
 | MURAT TÜRKYILMAZ | company | HASTANE MAH. HADIMKÖY ARNAVUTKÖY | +905368263944 | http://turkyilmazproject.com | 2019-03-13T12:32:55.000Z |
 | MURAT ÜMİT İLGAZİ | company | AYDINLAR CAD. EGEMENLİK MAH. NO:45 TAKİPSAN PLAZA | +902324610270 | http://www.ajansup.com | 2019-03-13T12:33:01.000Z |
 | Murat Yalçın | company | Oğuzlar Mh. 1581 Sk. No:5 Etimesgut/Ankara | +905309468386 | https://datarove.com.tr/ | 2024-10-30T09:52:29.000Z |
+| Murat Yamaç | company | Fenerbahçe Mah. İğrip Sok. No:13/1 | +902166062390 | https://designodin.com.tr | 2026-03-24T12:36:32.000Z |
 | Murat Yazıcı | company | KURUÇEŞME MAH. 202/5 SK. NO: 15 İÇ KAPI NO: 6 BUCA/ İZMİR | +908508400814 | https://berreys.net | 2024-03-11T14:54:33.000Z |
 | MURAT YILMAZ | company | BAGLARBAŞİ MAH. BAGLARBAŞİ CAD. NO:141/C GAZİOSMANPAŞA | +902125379292 | http://www.hepsibirbilisim.com | 2019-03-13T12:32:59.000Z |
 | Murat Yılmaz | company | Beşikkaya Mah. 1947. Sok. No. 4/B | +905333860106 | http://www.siteler.tv.tr/ | 2023-05-11T15:58:35.000Z |
@@ -1522,8 +1524,8 @@
 | Ömer Tosun | company | Duralialıc mahallesi 953 sokak 5/33 | +905071070605 | https://ragehost.net/ | 2022-04-01T09:55:06.000Z |
 | ÖMER TURGUT YÜCE | company | A.KUTSİ TECER CAD..ALTAY SK.NO:5/G MERTER | +902125065050 | http://www.ntbilisim.com | 2019-03-13T12:35:05.000Z |
 | ÖMER YÜCE | company | ÖZVEREN SOK. NO:13/18 DEMİRTEPE ÇANKAYA | +903122290981 | http://www.normyazilim.com | 2019-03-13T12:34:35.000Z |
-| ÖMÜR AKGÜN | company | Atıf bey Mah. Önder Cad. No:12/Z-5 Gaziemir | +908508850101 | https://www.datatr.com.tr | 2025-01-06T17:02:27.000Z |
 | ÖMÜR AKGÜN | company | ATIF BEY MAH. HACI MOLLA MÜMİN HOCA SK. NO:58/D GAZİEMİR | +908508850101 | http://www.datatr.com.tr | 2019-03-13T12:36:40.000Z |
+| ÖMÜR AKGÜN | company | Atıf bey Mah. Önder Cad. No:12/Z-5 Gaziemir | +908508850101 | https://www.datatr.com.tr | 2025-01-06T17:02:27.000Z |
 | ON İKİ LEVHA YAYINCILIK A.Ş. | company | PROF. NURETTİN MAZHAR ÖKTEL SOKAK NO: 6A ŞİŞLİ | +902123430901 | http://www.onikilevha.com.tr | 2019-03-13T12:45:15.000Z |
 | Önder Aydoğdu | company | Şeyh Şamil Mah. 170. Sok. Kapı No: 12 Eryaman Etimesgut | +908503028305 | https://btpark.com.tr/ | 2024-01-08T22:04:38.000Z |
 | Onecard Kurumsal Çözümler Yazılım Limited Şirketi BERGE | company | Kazım Özalp Mahallesi Kuleli Cad. No: 83/12 Çankaya/ANKARA | +903129112795 | https://www.onecard.net.tr | 2020-04-01T12:45:23.000Z |
@@ -1699,7 +1701,6 @@
 | ŞAHABETTİN YILDIRIM | company | MERKEZ MAH. SEÇKİN SOK. 2-4A Z-OFİS ZEMİN KT NO:78 KAĞITHANE | +902124030515 | https://www.netdunyasi.com | 2019-03-13T12:38:45.000Z |
 | ŞAHAN KARTALMIŞ | company | ERGAZİ MAH. HARRAN SİT. NO:60 | +905534972267 | https://www.diqital.net.tr | 2026-03-06T13:03:05.000Z |
 | SAHİBİNDEN BİLGİ TEKNOLOJİLERİ PAZARLAMA VE TİCARET A.Ş. | company | DEĞİRMEN YOLU CAD. NO:28 ASIA OFISPARK A BLOK KAT:2 ATAŞEHİR | +902165711990 | https://sahibinden.com | 2022-06-28T17:49:21.000Z |
-| şahin yesirci | company | Güzeloba, Rauf Denktaş Cd Egda Plaza D:NO:56/102, 07230 Muratpaşa/Antalya | +905424827174 | https://www.serverdizayn.com.tr/ | 2023-06-02T01:52:20.000Z |
 | Said Alperen Yeşilyurt | company | TUZLUGÖL MAH. YAYA SK. NO: 2 MERKEZ/SİVAS | +908503021154 | https://www.weridata.com.tr/ | 2024-06-25T15:09:23.000Z |
 | Sakans Yazılım Teknolojileri Limited Şirketi | company | ikitelli Osb Mah. Ytü ikitelli Teknopark Sk. Yildiz Teknk Üniversitesi Teknopark No: 1 Iç Kapi No: Z20 Basaksehir | +902129095544 | https://cloudmarin.com | 2024-10-15T09:41:05.000Z |
 | Salih YATKIN | company | Ali Çetinkaya Mah. 3080 Sok. No:4 İç Kapı No:1 | +908503098634 | https://www.netafast.net | 2025-04-11T09:39:05.000Z |
