@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 2189
+## Kayıt Sayısı: 2185
 
 ### Kaynak: <https://internet.btk.gov.tr/yer-saglayici-listesi> - <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -100,7 +100,6 @@
 | AHMET YUSUF BUĞDAY | company | FETİH MAH. KARDELEN SOK. SILA APT KAT:6 | +905071857165 | http://www.dengeweb.net | 2019-03-13T12:34:21.000Z |
 | Ahmet Zeki Taşgar | company | Akkuyu Mahallesi Toki Konutları 2.Etap DY1 Blok No:6 Kat:1 ADANA/SARICAM | +905452249305 | https://ansiklopedia.com.tr | 2023-01-11T17:22:38.000Z |
 | AHMETCAN ALTAN | company | FINDIKLI MH. IŞIK SOK. NO:57 KAT:1 | +908505320491 | https://oncunetwork.com.tr | 2019-06-17T17:54:47.000Z |
-| AIOR TEKNOLOJİ LİMİTED ŞİRKETİ | company | FENERBAHÇE MAH. İĞRİP SK. NO: 13 İÇ KAPI NO: 1 KADIKÖY/ İSTANBUL | +905323490020 | https://aior.com | 2026-02-05T21:07:05.000Z |
 | Ajannet Bilişim Hizmetleri Sanayi ve Ticaret Ltd Şti. | company | Oruç Reis mah. Giyimkent sitesi İdris Nebi Cad. 9.Sokak No :17/A 34235 Esenler | +902123203030 | https://ajan.net | 2023-10-04T16:42:24.000Z |
 | AKA BİLİŞİM YAZILIM ARGE İNŞ. TAAH. SAN. TİC. AŞ | company | BULGURLU CAD. ÖZÜMİT İŞ MERKEZİ NO:44 KAT:2 KÇAMLICA ÜSKÜDAR | +902162100888 | http://www.garantiserver.com | 2019-03-13T12:45:14.000Z |
 | AKAT Teknoloji Tic.Ltd.Şti. | company | SIRRIPAŞA MAH. GAFFAR OKKAN CAD. NO: 210 İÇ KAPI NO: | +905304831941 | https://akathosting.com | 2025-08-13T09:22:53.000Z |
@@ -173,7 +172,6 @@
 | Antreta Bilgisayar Sanayi ve Ticaret Limited Şirketi | company | Emirbeyazıt Mah. Emek Caddesi Hüsnü Türkeş Sokak 8/2 | +905413085699 | https://antreta.com.tr | 2025-07-05T12:59:06.000Z |
 | APPTECH SYSTEMS DIŞ TİC.LTD.ŞTİ. | company | İkitelli OSB Mah. YTÜ İKİTELLİ TEKNOPARK Sok. YILDIZ TEKNİK ÜNİVERSİTESİ 1/107 Başakşehir/İstanbul | +902125490304 | https://apptech.com.tr | 2021-10-19T15:48:57.000Z |
 | ARDA ALTAY | company | MEVLANA MH.YILDIRIM BEYAZIT CD. NO :11/33 34515 ESENYURT | +908503098594 | http://www.fortezza.com.tr | 2026-03-02T15:08:16.000Z |
-| ARDA BİLAL BAŞKAN | company | YAKUPLU MAH. 67. SK. NO:4 İÇ NO: 13 BEYLİKDÜZÜ/ İSTANBUL | +908503084002 | https://cloudvist.com | 2022-02-02T11:45:24.000Z |
 | ARDA ÖLGÜN | company | ADALET MAH. MANAS BUL. NO:39 FOLKART TOWERS KAT:31 BAYRAKLI | +902323909177 | http://www.onno7.com | 2019-03-13T12:36:14.000Z |
 | Arel yavuz bilişim teknolojileri ltd.şti | company | Akkent mah. Kütahya eskişehir karayolu 1.km z:147 sera avm | +908503091330 | http://www.ehost.com.tr | 2023-02-03T10:14:29.000Z |
 | ARGA İNŞAAT MÜHENDİSLİK SANAYİ TİCARET LİMİTED ŞİRKETİ | company | GÜNEŞLİ KİRAZLI NO:4/213 BAĞCILAR/İSTANBUL | +902128719534 | https://nestacloud.com/ | 2023-12-15T10:02:43.000Z |
@@ -1647,7 +1645,6 @@
 | RADORE VERİ MERKEZİ HİZMETLERİ A.Ş. | company | METROCITY AVM BÜYÜKDERE CADDESİ NO 171 KAT -4 LEVENT İSTANBUL | +902123440494 | http://www.radore.com | 2026-03-02T08:10:02.000Z |
 | rağıp alkan | company | merkez mah. seçkin sk dap vadisi z ofis kat 2 no 212 kağıthane istanbul | +905442212133 | http://ragip.net | 2021-02-19T12:49:36.000Z |
 | RAGURON TELEKOMÜNİKASYON VE İNTERNET LİMİTED ŞİRKETİ | company | SÜMER MAH. 2482/2 SK. SKYCİTY B BLOK İŞ MERKEZİ NO: 4 /1 İÇ KAPI NO: 16 MERKEZEFENDİ/ DENİZLİ | +902583000300 | https://raguron.com.tr/ | 2024-01-02T18:44:03.000Z |
-| Rahim TUNÇEL | company | Sefaköy Tevfikbey Mahallesi Halkalı Caddesi no:132/3 ofis no:9B | +905330225298 | https://nuvolamedya.com/ | 2020-09-30T11:59:36.000Z |
 | RAINY BILISIM INTERNET VE PROJECT HIZMETLERI LTD | company | Suite 9321 5 Brayford Square, London, United Kingdom, E1 0SG | +905102231702 | https://rainybilisim.com/ | 2026-02-18T10:47:06.000Z |
 | RAMAZAN BALAK | company | ŞİRİNEVLER MH.SARAY CD.11/C | +902124424948 | http://www.balak.net.tr | 2024-11-01T18:12:51.000Z |
 | RAMAZAN ERBAŞARAN | company | KALETEPE MAH. 891. CAD. 12/5 YENİMAHALLE | +908503027655 | https://www.erbasaran.com | 2020-01-28T21:39:49.000Z |
@@ -1996,7 +1993,6 @@
 | UĞUR ULUSAN | company | KAZIM KARABEKİR CAD. MURAT İŞ HANI NO:41/7 ALTINDAĞ | +905332189910 | https://www.algibilisim.net | 2019-03-13T16:16:36.000Z |
 | UĞUR ÜNSAL | company | KARTAL OTO SANAYİ SİTESİ YÖNETİM BİNASI NO:8 KARTAL | +902165177901 | http://www.utzbilisim.net | 2019-03-13T12:35:25.000Z |
 | UĞUR UYAR | company | İHSANİYE MAH. KUVA-İ MİLLİYE CAD. JANET APT. NO:121 KAT:1 D:5 AKDENİZ | +903243363104 | http://www.uguruyarbilisim.com.tr | 2019-03-13T12:33:37.000Z |
-| UĞUZ BİLİŞİM TEKNOLOJİ HİZ. İLETİŞ. DANIŞ. YAZL. BİLG. VE TİC. LTD. ŞTİ. | company | SAĞLIK MAH. ATAÇ 1 SK. NO 5/4 KIZILAY ÇANKAYA | +903124311290 | http://www.uguz.com.tr | 2019-03-13T12:42:44.000Z |
 | Ulaş Demirci | company | İncilli Mahallesi Kültür Caddesi 7/B Daire: 6 | +902646060758 | https://www.hostude.net | 2023-12-07T17:01:53.000Z |
 | ULAŞ TARAKÇI | company | 15 MAYIS MAH. GAZİ MUSTAFA KEMAL BULV. NO:147/93 | +905552143887 | http://www.red.net.tr | 2019-03-13T12:38:54.000Z |
 | ÜMİT AKIN | company | ÖZ YAŞA İŞ MERKEZİ YILMAZLAR CENTER KARAŞISI KAT 4 NO 27 | +908508402172 | http://akinhost.com | 2019-03-13T12:35:13.000Z |
