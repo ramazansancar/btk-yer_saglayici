@@ -1992,7 +1992,7 @@
 | TURKTİCARET.NET YAZILIM HİZMETLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ | company | ESENTEPE MAH. TALATPAŞA CAD. OTO ÇIKMAZI SK.NO: 4 K1-6 ŞİŞLİ | +902122817478 | http://turkticaret.net | 2026-04-01T12:13:03.000Z |
 | TURUNCU İNTERNET TASARIM DAN. HİZ. LTD. ŞTİ. | company | ABDURRAHMAN GAZİ MAH. SEVENLER CAD. NO:1 D:E33 SANCAKTEPE | +902165044589 | http://www.turuncuweb.net | 2019-03-13T12:43:11.000Z |
 | UBDEN TEKNOLOJİ ANONİM ŞİRKETİ | company | MASLAK MAH. AOS 55. SK. 42 MASLAK A BLOK NO: 2 İÇ KAPI NO: 25 | +908503050919 | https://www.ubden.com.tr | 2025-07-07T14:08:39.000Z |
-| UFUK AYKUT | company | Armutalan Mah. Hamdi Yüzak Cad. Kardelen Sitesi No: 173/1 Marmaris | +908503801148 | https://www.marissoft.com.tr | 2026-03-06T21:04:34.000Z |
+| UFUK AYKUT | company | Armutalan Mah. Hamdi Yüzak Cad. Kardelen Sitesi No: 173/1 Marmaris | +908503801148 | https://www.marissoft.com.tr | 2026-04-14T19:35:43.000Z |
 | Ufuk Kuşcu | company | Turan Mah. 19 Mayıs Bulvarı No:33/B | +905074823653 | https://www.wpxsoft.com | 2021-05-20T15:56:13.000Z |
 | UĞUR AKPOLAT | company | MÜMİNLİ MAH. 5291 SK. NO:49/1 SARIÇAM | +905557316060 | http://www.anatoliaajans.com | 2019-03-13T12:36:30.000Z |
 | UĞUR AY | company | BOĞAZKENT MAH. MANİK ALİ CAD. NO 24/2 | +902869991836 | http://troiabilisim.com | 2019-03-13T12:34:42.000Z |
