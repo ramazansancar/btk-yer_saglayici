@@ -1,6 +1,6 @@
 # Ticari Amaçlı Hizmet Verenler Yer Sağlayıcı Listesi
 
-## Kayıt Sayısı: 2200
+## Kayıt Sayısı: 2199
 
 ### Kaynak: <https://internet.btk.gov.tr/yer-saglayici-listesi> - <https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi>
 
@@ -1130,7 +1130,6 @@
 | Lütfi ARDIÇ | company | Gülük Mah. Karakuş Sk. Eras İş Mer. No:13/701 | +905321782579 | https://pazaport.com | 2021-01-05T11:08:42.000Z |
 | LÜTFİ İHSAN BÖLEK | company | 19 MAYIS MAH.SANATORYUM CAD.NO:177/13 | +903124234702 | http://www.halktelekom.com.tr | 2019-03-13T12:38:38.000Z |
 | Mahmut BARÇİN | company | Paşabağı Mah.771 Sk No:24-B Haliliye / Şanlıurfa | +905334347597 | https://mahfelsoft.com/ | 2026-03-27T11:27:08.000Z |
-| MAHMUT GÜNDÜZALP | company | İPEKYOL CADDESİ BAHÇELİEVLER MAHALLESİ SENCAR APT. NO: 1 | +908503022763 | http://zeplinsoft.com | 2019-03-13T12:35:56.000Z |
 | Mahmut Kürşat Aydın | company | Hürriyet Mah. Dumlupınar Cad. No:8 H/2 Dalaman | +905079665736 | https://beforeplus.com | 2021-12-03T10:30:21.000Z |
 | MAHMUT SÖYLEMEZ | company | MİMARSİNAN MAH GÜL SOKAK YAĞMUR APT. KAT 4 NO19 | +905442352719 | http://www.hayalhost.com.tr | 2019-03-13T12:35:39.000Z |
 | MAHMUT TERZİ | company | ÇARŞI MAH.GÜNEŞ SOK. GÜNEŞ APT KAT:2 NO:10 | +905467973975 | http://3m1ktele.com | 2019-03-13T12:35:10.000Z |
