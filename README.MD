@@ -329,7 +329,7 @@
 | Boversoft ARGE Yazılım Teknoloji Anonim Şirketi | company | Oruç Reis Mh. Tekstilkent Cd B14 Blok İç kapı No:64 Esenler | +905416676622 | https://boversoft.net | 2023-07-07T09:43:18.000Z |
 | Boyut-Bim Bilgisayar Hizmetleri San. ve Tic. Ltd. Şti. | company | Hürriyet Bul. No 3/1 K8 D801 | +902324458737 | https://www.boyutbim.com | 2025-11-17T13:53:21.000Z |
 | BOZOK YAZILIM REKLAM PAZARLAMA VE TİCARET LİMİTED ŞİRKETİ | company | Bahçeşehir Mah. Gül Sk. No:39/A | +908503350390 | https://bozokhost.com | 2025-08-18T03:34:15.000Z |
-| BTEK ELEKTRONİK YAZILIM BİLİŞİM TEKNOLOJİLERİ TİC. A.Ş. | company | BEŞEVLER MH. AKTAŞ SK. GÜLEÇLER İŞ MRK. NO: 3/14 | +902244435653 | https://alanadiniz.com | 2025-05-20T14:27:34.000Z |
+| BTEK ELEKTRONİK YAZILIM BİLİŞİM TEKNOLOJİLERİ TİC. A.Ş. | company | BEŞEVLER MH. AKTAŞ SK. GÜLEÇLER İŞ MRK. NO: 3/14 | +902244435653 | https://alanadiniz.com | 2026-04-18T12:34:39.000Z |
 | Budak Bilgi Hizmetleri San.ve Tic.Ltd.Şti. | company | Cemalpaşa Mah.Bahar Cad.A.Seğmen Apt.Zemin Kat No:1 Seyhan | +908503038020 | http://www.erdena.com | 2019-04-26T17:30:39.000Z |
 | BUĞRA AKSU | company | Teomanpaşa Mah. 2269. Sok. No:27/2 | +905344881403 | http://webvariz.net | 2023-03-31T15:35:37.000Z |
 | Buğra Sevinç | company | Arnavutköy Mahallesi, Aygül Sokak No:5 | +908503463734 | https://www.orfi.net.tr | 2023-09-06T09:02:53.000Z |
