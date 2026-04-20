@@ -1563,7 +1563,7 @@
 | orçun aktolun | company | ALİ KAYA MUTLU CAD. ARMA PLAZA NO:5 YENİŞEHİR/ MERSİN | +908508407606 | https://www.hostware.com.tr | 2020-03-10T14:14:59.000Z |
 | ORÇUN ALANYALI | company | 2131/12 SOKAK NO:1 D:5 BAYRAKLI | +905444902244 | http://www.alanorweb.net | 2021-01-01T00:03:36.000Z |
 | ORÇUN CAN EROĞLU | company | AYDIN YUVA SOK. NO:15/16 KARTALTEPE MAH. BAKIRKÖY | +908508405647 | http://banada.co | 2019-03-13T12:34:45.000Z |
-| ORETRA İNTERNET VE BİLİŞİM HİZMETLERİ LİMİTED ŞİRKETİ | company | Mevlana Mah. Heves Cad. NO:18/70 Talas/KAYSERİ | +908503055365 | https://www.oretra.com | 2026-03-09T10:43:44.000Z |
+| ORETRA İNTERNET VE BİLİŞİM HİZMETLERİ LİMİTED ŞİRKETİ | company | Mevlana Mah. Heves Cad. NO:18/70 Talas/KAYSERİ | +908503055365 | https://www.oretra.com | 2026-04-20T01:12:15.000Z |
 | orhan akkaya | company | ÜNİVERSİTE MAH. CİVAN SK. ALLURE TOWER İSTANBUL SİTESİ | +908503082280 | https://burndiamond.com | 2022-01-07T11:53:22.000Z |
 | Orhan Altınkaya | company | Sırasöğütler Mahallesi 1604 Sokak No 29 Kat 2 Daire 3 | +905102213741 | https://tuznet.com | 2025-03-13T13:39:32.000Z |
 | Orhan Arslan | company | Turgut Reis Mahallesi Esence Caddesi 28/2 | +905419637632 | https://www.agtdijital.com | 2026-04-02T18:30:03.000Z |
